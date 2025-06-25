@@ -1,11 +1,8 @@
-# OCR Benchmarking System for Scientific Literature
+# OCR Benchmarking System for Scientific Literature - FINAL VERSION
 # GSoC Project: Enhanced AI OCR Extraction Pipeline for Extralit
 # Author: Priyankesh
-#
-# This script is designed to be copied cell-by-cell into a Google Colab notebook
-# Each cell is marked with #cell X comments
-#
-# MENTOR REVIEW - INITIAL DELIVERABLE:
+# 
+# MENTOR REVIEW - INITIAL DELIVERABLE
 # Testing 3 OCR systems (Marker + PyMuPDF+OpenCV + Tesseract) on actual PDFs
 # Focus: Real performance evaluation with processing time analysis
 
@@ -22,23 +19,22 @@ INSTRUCTIONS FOR GOOGLE COLAB:
 
 FOR MENTOR REVIEW - INITIAL DELIVERABLE:
 This benchmarking system evaluates 3 OCR systems as requested:
-- Marker (required primary system) - Advanced ML-based OCR
-- PyMuPDF+OpenCV (hybrid approach) - Traditional + computer vision
-- Tesseract (traditional OCR) - Industry standard baseline
+✅ Marker (required primary system) - Advanced ML-based OCR
+✅ PyMuPDF+OpenCV (hybrid approach) - Traditional + computer vision
+✅ Tesseract (traditional OCR) - Industry standard baseline
 
-The framework includes:
+Key Features:
+- Real PDF processing (using actual files from ./pdfs)
 - Comprehensive evaluation metrics for scientific documents
-- Character, word, and scientific notation accuracy
-- Structure preservation analysis
 - Processing time and efficiency analysis
-- Real PDF processing (using actual files in ./pdfs)
+- Character, word, and scientific notation accuracy
+- Structure preservation evaluation
 - Visualization and reporting tools
 """
 
 # Install required packages (uncomment in Colab)
 # !pip install marker-pdf pymupdf opencv-python pandas numpy matplotlib seaborn
 # !pip install textdistance nltk scikit-learn pillow pytesseract
-# !pip install requests
 
 import os
 import time
@@ -49,7 +45,6 @@ import seaborn as sns
 from pathlib import Path
 import cv2
 import fitz  # PyMuPDF
-from PIL import Image
 import textdistance
 import nltk
 import re
@@ -74,7 +69,7 @@ try:
     print("✅ Marker OCR available")
 except ImportError:
     MARKER_AVAILABLE = False
-    print("⚠️  Marker not available - will use simulation")
+    print("⚠️  Marker not available - will use enhanced simulation")
 
 # Download NLTK data
 try:
@@ -217,7 +212,7 @@ print("✅ Metrics defined!")
 #cell 3 - OCR System Implementations
 """
 OCR System Integrations
-Starting with Marker (required) and PyMuPDF+OpenCV
+Implementing 3 systems: Marker (required) + PyMuPDF+OpenCV + Tesseract
 """
 
 class OCRSystem:
@@ -239,12 +234,12 @@ class OCRSystem:
 
 class MarkerOCR(OCRSystem):
     """Marker OCR System Integration"""
-
+    
     def __init__(self):
         super().__init__("Marker")
         self.processing_time = 0
         self.models = None
-
+        
         # Try to load Marker models if available
         if MARKER_AVAILABLE:
             try:
@@ -254,22 +249,22 @@ class MarkerOCR(OCRSystem):
             except Exception as e:
                 print(f"⚠️  Failed to load Marker models: {e}")
                 self.models = None
-
+    
     def extract_text(self, pdf_path: str) -> Tuple[str, Dict[str, Any]]:
         """Extract text using Marker"""
         start_time = time.time()
-
+        
         try:
             print(f"🔄 Processing {Path(pdf_path).name} with Marker...")
-
+            
             if MARKER_AVAILABLE and self.models:
                 # Use actual Marker OCR
                 try:
                     full_text, images, out_meta = convert_single_pdf(pdf_path, self.models)
                     pages_processed = out_meta.get('pages', 0)
-
+                    
                     self.processing_time = time.time() - start_time
-
+                    
                     metadata = {
                         'processing_time': self.processing_time,
                         'pages_processed': pages_processed,
@@ -278,35 +273,35 @@ class MarkerOCR(OCRSystem):
                         'status': 'success',
                         'images_extracted': len(images) if images else 0
                     }
-
+                    
                     return full_text, metadata
-
+                    
                 except Exception as e:
                     print(f"⚠️  Marker processing failed: {e}")
                     # Fall back to simulation
                     pass
-
+            
             # Fallback: Enhanced PyMuPDF extraction (simulating Marker's quality)
             doc = fitz.open(pdf_path)
             extracted_text = ""
             pages_processed = len(doc)
-
+            
             for page_num in range(len(doc)):
                 page = doc.load_page(page_num)
-
+                
                 # Get text with layout preservation
                 text_dict = page.get_text("dict")
                 page_text = self._extract_structured_text(text_dict)
-
+                
                 if not page_text.strip():
                     page_text = f"[MARKER SIMULATION] Advanced extraction from page {page_num + 1}"
-
+                
                 extracted_text += f"\n=== PAGE {page_num + 1} ===\n{page_text}\n"
-
+            
             doc.close()
-
+            
             self.processing_time = time.time() - start_time
-
+            
             metadata = {
                 'processing_time': self.processing_time,
                 'pages_processed': pages_processed,
@@ -314,17 +309,17 @@ class MarkerOCR(OCRSystem):
                 'confidence_score': 0.85,
                 'status': 'success'
             }
-
+            
             return extracted_text, metadata
-
+            
         except Exception as e:
             self.processing_time = time.time() - start_time
             return f"Error: {str(e)}", {'status': 'error', 'processing_time': self.processing_time}
-
+    
     def _extract_structured_text(self, text_dict: dict) -> str:
         """Extract text while preserving structure from PyMuPDF text dict"""
         text_blocks = []
-
+        
         for block in text_dict.get("blocks", []):
             if "lines" in block:  # Text block
                 block_text = ""
@@ -334,7 +329,7 @@ class MarkerOCR(OCRSystem):
                         line_text += span["text"]
                     block_text += line_text + "\n"
                 text_blocks.append(block_text.strip())
-
+        
         return "\n\n".join(text_blocks)
 
 class PyMuPDFOCR(OCRSystem):
@@ -484,9 +479,6 @@ class TesseractOCR(OCRSystem):
             self.processing_time = time.time() - start_time
             return f"Error: {str(e)}", {'status': 'error', 'processing_time': self.processing_time}
 
-# Note: Additional OCR systems (Gemini VLM, Mistral OCR, Nanonets) can be added later
-# For initial deliverable, focusing on 3 core systems as requested by mentor
-
 # Initialize OCR systems (3 total as requested by mentor)
 ocr_systems = {
     'marker': MarkerOCR(),
@@ -500,7 +492,7 @@ print("🎯 Ready for 3-system benchmark as requested by mentor")
 
 #cell 4 - Dataset Preparation and Ground Truth
 """
-Prepare dataset and create ground truth for evaluation
+Prepare dataset and create ground truth for evaluation using actual PDFs
 """
 
 class DatasetManager:
@@ -526,16 +518,14 @@ class DatasetManager:
 
         return self.papers
 
-    def create_sample_ground_truth(self):
+    def create_ground_truth_from_pdfs(self):
         """
-        Create sample ground truth for evaluation
-        In a real scenario, this would be manually annotated or extracted from clean sources
-        For this initial benchmark, we'll extract text directly from PDFs as baseline
+        Create ground truth by extracting text directly from PDFs
+        In a real scenario, this would be manually annotated or verified
+        For this initial benchmark, we'll use PyMuPDF extraction as baseline
         """
         print("🔄 Creating ground truth from actual PDFs...")
 
-        # For initial benchmark, we'll use PyMuPDF extraction as "ground truth"
-        # In practice, you'd have manually verified/corrected text
         sample_texts = {}
 
         for paper_path in self.papers:
@@ -546,7 +536,8 @@ class DatasetManager:
                 doc = fitz.open(paper_path)
                 full_text = ""
 
-                for page_num in range(min(3, len(doc))):  # First 3 pages for ground truth
+                # Extract text from first 3 pages for ground truth
+                for page_num in range(min(3, len(doc))):
                     page = doc.load_page(page_num)
                     text = page.get_text()
                     full_text += f"\n=== PAGE {page_num + 1} ===\n{text}\n"
@@ -561,6 +552,8 @@ class DatasetManager:
                     "title": f"Scientific Paper: {paper_name}",
                     "sample_text": cleaned_text.strip()
                 }
+
+                print(f"    ✅ Extracted {len(cleaned_text)} characters")
 
             except Exception as e:
                 print(f"    ⚠️  Failed to extract from {paper_name}: {e}")
@@ -597,8 +590,8 @@ for controlling insecticide-resistant malaria vectors.
                 }
 
         self.ground_truth = sample_texts
-        print("✅ Sample ground truth created!")
-        print(f"Ground truth available for {len(self.ground_truth)} papers")
+        print("✅ Ground truth created!")
+        print(f"📊 Ground truth available for {len(self.ground_truth)} papers")
 
         return self.ground_truth
 
@@ -612,7 +605,7 @@ for controlling insecticide-resistant malaria vectors.
 # Initialize dataset manager
 dataset = DatasetManager()
 papers = dataset.load_papers()
-ground_truth = dataset.create_sample_ground_truth()
+ground_truth = dataset.create_ground_truth_from_pdfs()
 
 #cell 5 - Benchmarking Framework
 """
@@ -749,7 +742,7 @@ print("✅ Benchmarking framework ready!")
 
 #cell 6 - Run the Benchmark
 """
-Execute the benchmark on available OCR systems
+Execute the benchmark on 3 OCR systems as requested by mentor
 """
 
 # Run benchmark on 3 OCR systems as requested by mentor
@@ -876,7 +869,8 @@ if not results_df.empty and len(results_df) > 0:
     # Normalize processing time (invert so higher is better)
     results_df_norm = results_df.copy()
     max_time = results_df_norm['processing_time'].max()
-    results_df_norm['processing_time'] = 1 - (results_df_norm['processing_time'] / max_time)
+    if max_time > 0:
+        results_df_norm['processing_time'] = 1 - (results_df_norm['processing_time'] / max_time)
 
     overall_scores = results_df_norm.groupby('system')[metrics].mean()
     overall_scores.plot(kind='bar', ax=axes[1,1], rot=45)
@@ -906,52 +900,7 @@ if not results_df.empty and len(results_df) > 0:
 else:
     print("❌ No data available for visualization!")
 
-#cell 9 - Cost Analysis (Placeholder)
-"""
-Cost analysis for API-based OCR services
-"""
-
-print("💰 COST ANALYSIS")
-print("=" * 40)
-
-# Placeholder cost analysis
-# In practice, you'd track actual API costs
-cost_estimates = {
-    'marker': {
-        'cost_per_page': 0.01,  # Estimated
-        'setup_cost': 0.0,
-        'description': 'Open-source, self-hosted'
-    },
-    'pymupdf_opencv': {
-        'cost_per_page': 0.0,
-        'setup_cost': 0.0,
-        'description': 'Free, open-source'
-    },
-    'gemini_vlm': {
-        'cost_per_page': 0.05,  # Estimated API cost
-        'setup_cost': 0.0,
-        'description': 'Google API pricing'
-    },
-    'nanonets': {
-        'cost_per_page': 0.02,
-        'setup_cost': 0.0,
-        'description': 'Commercial API'
-    }
-}
-
-if not results_df.empty:
-    total_pages = results_df['pages_processed'].sum()
-
-    print(f"Total pages processed: {total_pages}")
-    print("\nEstimated costs per system:")
-
-    for system, costs in cost_estimates.items():
-        if system in results_df['system'].values:
-            system_pages = results_df[results_df['system'] == system]['pages_processed'].sum()
-            estimated_cost = system_pages * costs['cost_per_page'] + costs['setup_cost']
-            print(f"  {system}: ${estimated_cost:.2f} ({costs['description']})")
-
-#cell 10 - Export Results and Summary
+#cell 9 - Export Results and Summary
 """
 Export results and create summary for Colab notebook
 """
@@ -1001,8 +950,9 @@ if not summary_df.empty:
                 best_value = summary_df[column].max()
             print(f"  • {metric_name}: {best_system} ({best_value:.3f})")
 
-print(f"\n⏱️  TOTAL PROCESSING TIME: {results_df['processing_time'].sum():.2f} seconds")
-print(f"📄 TOTAL PAGES PROCESSED: {results_df['pages_processed'].sum()}")
+if not results_df.empty:
+    print(f"\n⏱️  TOTAL PROCESSING TIME: {results_df['processing_time'].sum():.2f} seconds")
+    print(f"📄 TOTAL PAGES PROCESSED: {results_df['pages_processed'].sum()}")
 
 print("\n" + "="*60)
 print("✅ BENCHMARK COMPLETE!")
