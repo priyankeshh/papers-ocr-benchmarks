@@ -47,7 +47,16 @@ def check_ocr_availability():
     except:
         available_systems['Tesseract'] = False
         print("⚠️  Tesseract not available")
-    
+
+    # Check EasyOCR
+    try:
+        import easyocr
+        available_systems['EasyOCR'] = True
+        print("✅ EasyOCR available")
+    except ImportError:
+        available_systems['EasyOCR'] = False
+        print("⚠️  EasyOCR not available")
+
     # PyMuPDF is always available
     available_systems['PyMuPDF'] = True
     print("✅ PyMuPDF available")
@@ -88,7 +97,12 @@ class RealOCRSystem:
             import pytesseract
             self.pytesseract = pytesseract
             print(f"🔧 {self.name} initialized")
-        
+
+        elif self.name == "EasyOCR" and self.available_systems['EasyOCR']:
+            import easyocr
+            self.easyocr_reader = easyocr.Reader(['en'])
+            print(f"🔧 {self.name} initialized")
+
         elif self.name == "PyMuPDF":
             # Always available
             print(f"🔧 {self.name} initialized")
@@ -109,7 +123,10 @@ class RealOCRSystem:
             
             elif self.name == "Tesseract" and self.available_systems['Tesseract']:
                 return self._extract_with_tesseract(pdf_path, start_time)
-            
+
+            elif self.name == "EasyOCR" and self.available_systems['EasyOCR'] and hasattr(self, 'easyocr_reader'):
+                return self._extract_with_easyocr(pdf_path, start_time)
+
             elif self.name == "PyMuPDF":
                 return self._extract_with_pymupdf(pdf_path, start_time)
             
@@ -119,10 +136,13 @@ class RealOCRSystem:
         
         except Exception as e:
             self.processing_time = time.time() - start_time
-            return f"Error: {str(e)}", {
+            error_msg = f"Error: {str(e)}"
+            print(f"    ❌ {self.name} failed: {str(e)}")
+            return error_msg, {
                 'status': 'error',
                 'processing_time': self.processing_time,
-                'method': self.name
+                'method': self.name,
+                'error': str(e)
             }
     
     def _extract_with_docling(self, pdf_path, start_time):
@@ -151,7 +171,17 @@ class RealOCRSystem:
         # Convert Path to string for Marker
         pdf_path_str = str(pdf_path)
         document = self.converter(pdf_path_str)
-        full_text = document.render()
+
+        # Handle different Marker API versions
+        if hasattr(document, 'render'):
+            full_text = document.render()
+        elif hasattr(document, 'markdown'):
+            full_text = document.markdown
+        elif hasattr(document, 'text'):
+            full_text = document.text
+        else:
+            # Try to get text content from the document
+            full_text = str(document)
 
         self.processing_time = time.time() - start_time
 
@@ -167,38 +197,126 @@ class RealOCRSystem:
         """Extract using Tesseract OCR"""
         print(f"  🔄 Processing with Tesseract...")
 
-        # Convert Path to string for PyMuPDF
-        pdf_path_str = str(pdf_path)
-        doc = fitz.open(pdf_path_str)
-        extracted_text = ""
-        pages_count = len(doc)
+        try:
+            # Convert Path to string for PyMuPDF
+            pdf_path_str = str(pdf_path)
+            doc = fitz.open(pdf_path_str)
+            extracted_text = ""
+            pages_count = len(doc)
 
-        for page_num in range(pages_count):
-            page = doc.load_page(page_num)
+            # Limit to first 3 pages for faster processing
+            max_pages = min(3, pages_count)
 
-            # Convert to image
-            pix = page.get_pixmap(matrix=fitz.Matrix(3, 3))
-            img_data = pix.tobytes("png")
+            for page_num in range(max_pages):
+                page = doc.load_page(page_num)
 
-            # Convert to PIL Image
-            from PIL import Image
-            import io
-            img = Image.open(io.BytesIO(img_data))
+                # Convert to image with higher resolution for better OCR
+                pix = page.get_pixmap(matrix=fitz.Matrix(2, 2))
+                img_data = pix.tobytes("png")
 
-            # OCR with Tesseract
-            text = self.pytesseract.image_to_string(img, config='--psm 6')
-            extracted_text += f"\n--- Page {page_num + 1} (Tesseract) ---\n{text}\n"
+                # Convert to PIL Image
+                from PIL import Image
+                import io
+                img = Image.open(io.BytesIO(img_data))
 
-        doc.close()
-        self.processing_time = time.time() - start_time
+                # OCR with Tesseract - try different configs if one fails
+                try:
+                    text = self.pytesseract.image_to_string(img, config='--psm 6')
+                except Exception as e:
+                    print(f"    ⚠️  PSM 6 failed, trying PSM 3: {e}")
+                    try:
+                        text = self.pytesseract.image_to_string(img, config='--psm 3')
+                    except Exception as e2:
+                        print(f"    ⚠️  PSM 3 failed, trying default: {e2}")
+                        text = self.pytesseract.image_to_string(img)
 
-        return extracted_text, {
-            'processing_time': self.processing_time,
-            'pages_processed': pages_count,
-            'status': 'success',
-            'method': 'tesseract_actual'
-        }
-    
+                extracted_text += f"\n--- Page {page_num + 1} (Tesseract) ---\n{text}\n"
+
+            if max_pages < pages_count:
+                extracted_text += f"\n[Note: Only processed first {max_pages} of {pages_count} pages for performance]\n"
+
+            doc.close()
+            self.processing_time = time.time() - start_time
+
+            return extracted_text, {
+                'processing_time': self.processing_time,
+                'pages_processed': max_pages,
+                'status': 'success',
+                'method': 'tesseract_actual'
+            }
+
+        except Exception as e:
+            self.processing_time = time.time() - start_time
+            error_msg = f"Tesseract error: {str(e)}"
+            print(f"    ❌ {error_msg}")
+            return error_msg, {
+                'processing_time': self.processing_time,
+                'pages_processed': 0,
+                'status': 'error',
+                'method': 'tesseract_actual'
+            }
+
+    def _extract_with_easyocr(self, pdf_path, start_time):
+        """Extract using EasyOCR"""
+        print(f"  🔄 Processing with EasyOCR...")
+
+        try:
+            # Convert Path to string for PyMuPDF
+            pdf_path_str = str(pdf_path)
+            doc = fitz.open(pdf_path_str)
+            extracted_text = ""
+            pages_count = len(doc)
+
+            # Limit to first 3 pages for faster processing
+            max_pages = min(3, pages_count)
+
+            for page_num in range(max_pages):
+                page = doc.load_page(page_num)
+
+                # Convert to image
+                pix = page.get_pixmap(matrix=fitz.Matrix(2, 2))
+                img_data = pix.tobytes("png")
+
+                # Convert to PIL Image
+                from PIL import Image
+                import io
+                img = Image.open(io.BytesIO(img_data))
+
+                # OCR with EasyOCR
+                results = self.easyocr_reader.readtext(img)
+
+                # Extract text from results
+                page_text = ""
+                for (bbox, text, confidence) in results:
+                    if confidence > 0.5:  # Only include high-confidence text
+                        page_text += text + " "
+
+                extracted_text += f"\n--- Page {page_num + 1} (EasyOCR) ---\n{page_text}\n"
+
+            if max_pages < pages_count:
+                extracted_text += f"\n[Note: Only processed first {max_pages} of {pages_count} pages for performance]\n"
+
+            doc.close()
+            self.processing_time = time.time() - start_time
+
+            return extracted_text, {
+                'processing_time': self.processing_time,
+                'pages_processed': max_pages,
+                'status': 'success',
+                'method': 'easyocr_actual'
+            }
+
+        except Exception as e:
+            self.processing_time = time.time() - start_time
+            error_msg = f"EasyOCR error: {str(e)}"
+            print(f"    ❌ {error_msg}")
+            return error_msg, {
+                'processing_time': self.processing_time,
+                'pages_processed': 0,
+                'status': 'error',
+                'method': 'easyocr_actual'
+            }
+
     def _extract_with_pymupdf(self, pdf_path, start_time):
         """Extract using PyMuPDF"""
         print(f"  🔄 Processing with PyMuPDF...")
@@ -306,7 +424,7 @@ def run_real_ocr_benchmark():
     
     # Initialize available OCR systems
     systems = {}
-    for system_name in ['Docling', 'Marker', 'Tesseract', 'PyMuPDF']:
+    for system_name in ['Docling', 'Marker', 'Tesseract', 'EasyOCR', 'PyMuPDF']:
         if available_systems.get(system_name, False):
             systems[system_name] = RealOCRSystem(system_name, available_systems)
     
