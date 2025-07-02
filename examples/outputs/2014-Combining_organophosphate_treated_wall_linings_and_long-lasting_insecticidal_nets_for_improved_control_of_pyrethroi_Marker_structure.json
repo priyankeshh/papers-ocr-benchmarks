@@ -1,0 +1,1267 @@
+{
+  "ocr_system": "Marker",
+  "format": "markdown",
+  "timestamp": "2025-07-03T02:03:20.406341",
+  "document_elements": {
+    "title": "Combining Organophosphate Treated Wall Linings and Long-lasting Insecticidal Nets for Improved Control of Pyrethroid Resistant Anopheles gambiae",
+    "authors": [
+      "Processing Time: 60.64s"
+    ],
+    "abstract": null,
+    "sections": [],
+    "references": [
+      "Citation: Ngufor C, Tchicaya E, Koudou B, N'Fale S, Dabire R, et al. (2014) Combining Organophosphate Treated Wall Linings and Long-lasting Insecticidal Nets for Improved Control of Pyrethroid Resistant Anopheles gambiae. PLoS ONE 9(1): e83897. doi:10.1371/journal.pone.0083897",
+      "Copyright: - 2014 Ngufor et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+      "- 1. World Health Organisation (2011) World malaria report: 2011. WHO website. Available: http://www.who.int/malaria/world\\_malaria\\_report\\_2011/en/ World Malaria Report 2011. Accessed 2013 Oct 28.",
+      "- 2. Sharma S, Upadhyay A, Haque M, Tyagi P, Mohanty S, et al. (2009) Field evaluation of ZeroFlyH - an insecticide incorporated plastic sheeting against malaria vectors and its impact on malaria transmission in tribal areas of northern Orissa. Indian J Med Res 130: 458–466.",
+      "- 3. Messenger L, Matias A, Manana AN, Stiles-Ocran JB, Knowles S BD, et al. (2012) Multicentre studies of insecticide-treated durable wall lining in Africa and South-East Asia: entomological efficacy and household acceptability during one year of field use. Malar J 11: 358.",
+      "- 4. Ranson H, N'guessan R, Lines J, Moiroux N, Nkuni Z, et al. (2011) Pyrethroid resistance in African anopheline mosquitoes: what are the implications for malaria control?. Trends Parasitol 27: 91–98.",
+      "- 5. World Health Organization (2012) World Malaria Report: 2012. WHO website. Available:http://www.who.int/malaria/publications/world\\_malaria\\_report\\_ 2012/wmr2012\\_no\\_profiles.pdf. Accessed 2013 Oct 28.",
+      "- 6. Chandre F, Dabire RK, Hougard JM, Djogbenou LS, Irish SR, et al. (2010) Field efficacy of pyrethroid treated plastic sheeting (durable lining) in combination with long lasting insecticidal nets against malaria vectors. Parasit Vectors 3: 65.",
+      "- 7. Diabate A, Chandre F, Rowland M, N'guessan R, Duchon SK, et al. (2006) The indoor use of plastic sheeting pre-impregnated with insecticide for control of malaria vectors. Trop Med Int Health 11: 597–603.",
+      "- 8. N'Guessan R, Corbel V, Akogbeto M, Rowland M (2007) Reduced efficacy of insecticide-treated nets and indoor residual spraying for malaria control in pyrethroid resistance area, Benin. Emerg Infect Dis 13: 199–206.",
+      "- 9. World Health Organisation (2010) The technical basis for coordinated action against insecticide resistance: preserving the effectiveness of modern malaria vector control. World Health Organisation. Global Malaria Programme, Meeting report. http://whqlibdoc.who.int/publications/2011/97892415010 95\\_eng.pdf Accessed 2013 Oct 28.",
+      "- 10. Rowland M, Boko P, Odjo A, Asidi A, Akogbeto M, et al. (2013) A New Long-Lasting Indoor Residual Formulation of the Organophosphate Insecticide Pirimiphos Methyl for Prolonged Control of Pyrethroid-Resistant Mosquitoes: An Experimental Hut Trial in Benin. 8(7): PLoS ONE 8: e69516.",
+      "- 11. Vanlerberghe V, Villegas E, Oviedo M, Baly A, Lenhart A, et al. (2011) Evaluation of the effectiveness of insecticide treated materials for household level dengue vector control. PLoS Negl Trop Dis 5: e994.",
+      "- 12. Vanlerberghe V, Trongtokit Y, Cremonini L, Jirarojwatana S, Apiwathnasorn C, et al. (2010) Residual insecticidal activity of long-lasting deltamethrin-treated curtains after 1 year of household use for dengue control. Trop Med Int Health 15 (9): 1067–1071.",
+      "- 13. Ranson H, Abdallah H, Badolo A, Guelbeogo WM, Kerah-Hinzoumbe C, et al. (2009) Insecticide resistance in Anopheles gambiae: data from the first year of a multi-country study highlight the extent of the problem. Malar J 8: 299.",
+      "- 14. Sharp BL, Ridl FC, Govender D, Kuklinski J, Kleinschmidt I (2007) Malaria vector control by indoor residual insecticide spraying on the tropical island of Bioko, Equatorial Guinea. Malar J 6: 52.",
+      "- 15. Hargreaves K, Koekemoer LL, Brooke BD, Hunt RH, Mthembu J, et al. (2000) Anopheles funestus resistant to pyrethroid insecticides in South Africa. Med Vet Entomol 14: 181–189.",
+      "- 16. Asidi A, N'Guessan R, Akogbeto M, Curtis C, Rowland M (2012) Loss of household protection from use of insecticide-treated nets against pyrethroidresistant mosquitoes, Benin. Emerg Infect Dis 18: 7, 10.3201/eid1807.120218.",
+      "- 17. World Health Organisation (2012) Global Plan for Insecticide Resistance Management (GPIRM). WHO website. Available: http://apps.who.int/iris/ bitstream/10665/44846/1/9789241564472\\_eng.pdf Accessed 2013 Oct 28.",
+      "- 18. Dje`nontin A, Chandre F, Dabire´ KR, Chabi J, N'Guessan R, et al. (2010) Indoor Use of Plastic Sheeting Impregnated with Carbamate Combined with Long-Lasting Insecticidal Mosquito Nets for the Control of Pyrethroid-Resistant Malaria Vectors. Am J Trop Med Hyg 83: 266–270.",
+      "- 19. Ngufor C, N'Guessan R, Boko P, Odjo A, Vigninou E, et al. (2011) Combining indoor residual spraying with chlorfenapyr and long-lasting insecticidal bed nets for improved control of pyrethroid-resistant Anopheles gambiae: an experimental hut trial in Benin. Malar J 10: 343.",
+      "- 20. Denholm I, Rowland MW (1992) Tactics for managing pesticide resistance in arthropods: theory and practice. Annu Rev Entomol 37: 91–112.",
+      "- 21. Dabire´ KR, Diabate´ A, Djogbenou L, Ouari A, N'Guessan R, et al. (2008) Dynamics of multiple insecticide resistance in the malaria vector Anopheles gambiae in a rice growing area in South-Western Burkina Faso. Malar J 7: 188.",
+      "- 22. World Health Organistion (2006) Guidelines for testing mosquito adulticides for indoor residual spraying and mosquito net treatment. Geneva, Switzerland. World Health Organisation WHO/CDS/NTD/WHOPES/GCDPP/2006.3.",
+      "- 23. Livak KJ (1984) Organization and mapping of a sequence on the Drosophila melanogaster X and Y chromosomes that is transcribed during spermatogenesis. Genetics 107: 611–634.",
+      "- 24. Bass C, Nikou D, Donnelly MJ, Williamson MS, Ranson H, et al. (2007) Detection of knockdown resistance (kdr) mutations in Anopheles gambiae: a comparison of two new high-throughput assays with existing methods. Malar J 6:111.",
+      "- 25. Agresti A (1996) An Introduction to Categorical Data Analysis. New York, Wiley.",
+      "- 26. R Foundation for Statistical Computing (2011) R: A language and environment for statistical computing. Vienna: Austria.",
+      "- 27. Yakob L, Dunning R, Yan G (2011) Indoor residual spray and insecticidetreated bednets for malaria control: theoretical synergisms and antagonisms. J R Soc Interface 8: 799–806.",
+      "- 28. Dabire KR, Diabate A, Namountougou M, Toe KH, Ouari A, et al. (2009) Distribution of pyrethroid and DDT resistance and the L1014F kdr mutation in Anopheles gambiae s.l. from Burkina Faso (West Africa). Trans R Soc Trop Med Hyg 103: 1113–1120.",
+      "- 29. Roush RT (1993) Occurrence, genetics and management of insecticide resistance. Parasitol Today 9: 174–179.",
+      "- 30. IRAC (2010) Prevention and Management of Insecticide Resistance. In: Vectors of Public Health Importance. Insecticide Resistance Action Committee (IRAC), 2nd ed. 2010. IRAC Website. Available: http://www.irac-online.org/resources-2/document-library/. Accessed 2013 July 31.",
+      "- 31. Edi CVA, Koudou BG, Jones CM, Weetman D, Ranson H (2012) Multiple-Insecticide Resistance in Anopheles gambiae Mosquitoes, Southern Coˆte d'Ivoire. Emerg Infect Dis 18: 10.3201/eid1809.120262.",
+      "- 32. Djogbenou L, Pasteur N, Akogbeto M, Weill M, Chandre F (2011) Insecticide resistance in the Anopheles gambiae complex in Benin: a nationwide survey. Med Vet Entomol 25 (3): 256–267.",
+      "- 33. Alou LPA, Koffi AA, Adja MA, Tia E, Kouassi PK, et al. (2010) Distribution of ace-1 R and resistance to carbamates and organophosphates in Anopheles gambiae s.s. populations from Coˆte d'Ivoire. Malar J 9:"
+    ],
+    "equations": [
+      "$$",
+      "\\frac{100(Bfu - Bft)}{Bfu}",
+      "$$",
+      "$$",
+      "\\frac{100(Bu - Bt)}{Bu}",
+      "$$",
+      "Where Bu = is the number of blood-fed mosquitoes in the untreated control huts and Bt is the number of blood-fed mosquitoes in the huts with insecticide treatments.",
+      "$$",
+      "(\\%) \\frac{100(K_t - K_u)}{(T_u - K_u)}",
+      "$$",
+      "(n = 535) in the first trial and 0.86 (n = 197) in the second trial while the overall ace-1<sup>R</sup> allele frequency was 0.01 (n = 429) in the first trial and 0.03 (n = 228) in the second trial. There was no difference in the frequency of kdr alleles between live and dead collections from any of the treatments (P.0.05) (Tables 6). Analysis of genotype frequency (Table 7) showed that survival of the kdr heterozygotes (47% was no different from that of kdr homogygotes for resistance (52%) in the presence of LLIN (1st trial: P = 0.71, 2nd trial: P = 0.54).",
+      "While the ace-1R was low, there was generally a greater tendency for mosquitoes bearing the ace-1<sup>R</sup> allele to survive in huts with the p-methyl treatments alone in the single intervention trial. The ace-1R allele frequency was significantly higher in mosquitoes which survived in huts in which p-methyl treated DL and NWH were applied alone on walls and ceiling (P#0.03) (Table 6). Analysis of genotype frequency showed that 100% (9/9) of ace-1R heterozygotes survived the p-methyl treatments but only 32% (105/323) of ace-1 susceptibles survived (P = 0.001), indicating strong selection for the ace-1<sup>R</sup> resistance with the p-methyl interventions. In the second trial, all mosquitoes which entered the huts with p-methyl treatments whether applied alone or in combination with LLINs were killed (100% mortality). It was thus not possible to clearly demonstrate whether the combination prevents selection of the ace-1<sup>R</sup> gene compared to the single intervention of p-methyl (Tables 6 and 7). The low survival of kdr with the combination indicates that the p-methyl component might prevent the further selection of kdr resistance (Table 7).",
+      "\\*no live mosquitoes were collected from huts with these treatments, SS = Homozygous susceptible, RS = Heterozygous, RR = Homozygous resistant. doi:10.1371/journal.pone.0083897.t007"
+    ],
+    "tables": [
+      "|  |  | Table 1. Susceptibility of wild An gambiae ss from Valley du Kou 5 (VK5) to deltamethrin (0.05%) in WHO cylinder bioassays. |  |\n|--|--|-----------------------------------------------------------------------------------------------------------------------------|--|\n|  |  |                                                                                                                             |  |",
+      "|  |  | Table 1. Susceptibility of wild An gambiae ss from Valley du Kou 5 (VK5) to deltamethrin (0.05%) in WHO cylinder bioassays. |  |\n|--|--|-----------------------------------------------------------------------------------------------------------------------------|--|\n|  |  |                                                                                                                             |  |",
+      "|  |  | Table 1. Susceptibility of wild An gambiae ss from Valley du Kou 5 (VK5) to deltamethrin (0.05%) in WHO cylinder bioassays. |  |\n|--|--|-----------------------------------------------------------------------------------------------------------------------------|--|\n|  |  |                                                                                                                             |  |\n| No. tested | % KD (95% CI) | 24 h % mortality (95% CI) |",
+      "|  |  |                                                                                                                             |  |\n| No. tested | % KD (95% CI) | 24 h % mortality (95% CI) |\n|------------|---------------|---------------------------|\n| 100        | 100 (96–100)  | 100 (96–100)              |",
+      "| No. tested | % KD (95% CI) | 24 h % mortality (95% CI) |\n|------------|---------------|---------------------------|\n| 100        | 100 (96–100)  | 100 (96–100)              |\n| 100        | 5 (0–12)      | 2 (0–7)                   |",
+      "| No. tested | % KD (95% CI) | 24 h % mortality (95% CI) |\n|------------|---------------|---------------------------|\n| 100        | 100 (96–100)  | 100 (96–100)              |\n| 100        | 5 (0–12)      | 2 (0–7)                   |\n|            |               |                           |",
+      "|------------|---------------|---------------------------|\n| 100        | 100 (96–100)  | 100 (96–100)              |\n| 100        | 5 (0–12)      | 2 (0–7)                   |\n|            |               |                           |",
+      "| 100        | 100 (96–100)  | 100 (96–100)              |\n| 100        | 5 (0–12)      | 2 (0–7)                   |\n|            |               |                           |",
+      "| Species                  | No. tested | % KD (95% CI) | 24 h % mortality (95% CI) |\n|--------------------------|------------|---------------|---------------------------|\n| An gambiae s.s. (Kisumu) | 100        | 87 (80–94)    | 100 (96–100)              |",
+      "| Species                  | No. tested | % KD (95% CI) | 24 h % mortality (95% CI) |\n|--------------------------|------------|---------------|---------------------------|\n| An gambiae s.s. (Kisumu) | 100        | 87 (80–94)    | 100 (96–100)              |\n| An gambiae s.s. (VK5)    | 102        | 86 (79–92)    | 100 (96–100)              |",
+      "| Species                  | No. tested | % KD (95% CI) | 24 h % mortality (95% CI) |\n|--------------------------|------------|---------------|---------------------------|\n| An gambiae s.s. (Kisumu) | 100        | 87 (80–94)    | 100 (96–100)              |\n| An gambiae s.s. (VK5)    | 102        | 86 (79–92)    | 100 (96–100)              |\n|                          |            |               |                           |",
+      "|--------------------------|------------|---------------|---------------------------|\n| An gambiae s.s. (Kisumu) | 100        | 87 (80–94)    | 100 (96–100)              |\n| An gambiae s.s. (VK5)    | 102        | 86 (79–92)    | 100 (96–100)              |\n|                          |            |               |                           |",
+      "| An gambiae s.s. (Kisumu) | 100        | 87 (80–94)    | 100 (96–100)              |\n| An gambiae s.s. (VK5)    | 102        | 86 (79–92)    | 100 (96–100)              |\n|                          |            |               |                           |",
+      "|                              | Control (untreated<br>DL on walls) | pyrethroid treated<br>on walls DL | p-methyl<br>DL on walls | p-methyl<br>NWH on walls | p-methyl<br>DL on walls<br>and ceiling | p-methyl<br>NWH on walls<br>and ceiling |\n|------------------------------|------------------------------------|-----------------------------------|-------------------------|--------------------------|----------------------------------------|-----------------------------------------|\n| Total females caught         | 995a                               | 464b                              | 523b                    | 841a                     | 615ab                                  | 490b                                    |",
+      "|                              | Control (untreated<br>DL on walls) | pyrethroid treated<br>on walls DL | p-methyl<br>DL on walls | p-methyl<br>NWH on walls | p-methyl<br>DL on walls<br>and ceiling | p-methyl<br>NWH on walls<br>and ceiling |\n|------------------------------|------------------------------------|-----------------------------------|-------------------------|--------------------------|----------------------------------------|-----------------------------------------|\n| Total females caught         | 995a                               | 464b                              | 523b                    | 841a                     | 615ab                                  | 490b                                    |\n| Deterrence (%)               | -                                  | 53                                | 47                      | 15                       | 38                                     | 51                                      |",
+      "|                              | Control (untreated<br>DL on walls) | pyrethroid treated<br>on walls DL | p-methyl<br>DL on walls | p-methyl<br>NWH on walls | p-methyl<br>DL on walls<br>and ceiling | p-methyl<br>NWH on walls<br>and ceiling |\n|------------------------------|------------------------------------|-----------------------------------|-------------------------|--------------------------|----------------------------------------|-----------------------------------------|\n| Total females caught         | 995a                               | 464b                              | 523b                    | 841a                     | 615ab                                  | 490b                                    |\n| Deterrence (%)               | -                                  | 53                                | 47                      | 15                       | 38                                     | 51                                      |\n| Total females blood fed      | 781                                | 282                               | 417                     | 557                      | 483                                    | 345                                     |",
+      "|------------------------------|------------------------------------|-----------------------------------|-------------------------|--------------------------|----------------------------------------|-----------------------------------------|\n| Total females caught         | 995a                               | 464b                              | 523b                    | 841a                     | 615ab                                  | 490b                                    |\n| Deterrence (%)               | -                                  | 53                                | 47                      | 15                       | 38                                     | 51                                      |\n| Total females blood fed      | 781                                | 282                               | 417                     | 557                      | 483                                    | 345                                     |\n| Blood feeding Inhibition (%) | -                                  | 20                                | 4                       | 19                       | 7                                      | 15                                      |",
+      "| Total females caught         | 995a                               | 464b                              | 523b                    | 841a                     | 615ab                                  | 490b                                    |\n| Deterrence (%)               | -                                  | 53                                | 47                      | 15                       | 38                                     | 51                                      |\n| Total females blood fed      | 781                                | 282                               | 417                     | 557                      | 483                                    | 345                                     |\n| Blood feeding Inhibition (%) | -                                  | 20                                | 4                       | 19                       | 7                                      | 15                                      |\n| Personal Protection (%)      | -                                  | 64                                | 47                      | 29                       | 38                                     | 56                                      |",
+      "| Deterrence (%)               | -                                  | 53                                | 47                      | 15                       | 38                                     | 51                                      |\n| Total females blood fed      | 781                                | 282                               | 417                     | 557                      | 483                                    | 345                                     |\n| Blood feeding Inhibition (%) | -                                  | 20                                | 4                       | 19                       | 7                                      | 15                                      |\n| Personal Protection (%)      | -                                  | 64                                | 47                      | 29                       | 38                                     | 56                                      |\n| Exiting rates (%)            | 18a                                | 52b                               | 36c                     | 33c                      | 40c                                    | 33c                                     |",
+      "| Total females blood fed      | 781                                | 282                               | 417                     | 557                      | 483                                    | 345                                     |\n| Blood feeding Inhibition (%) | -                                  | 20                                | 4                       | 19                       | 7                                      | 15                                      |\n| Personal Protection (%)      | -                                  | 64                                | 47                      | 29                       | 38                                     | 56                                      |\n| Exiting rates (%)            | 18a                                | 52b                               | 36c                     | 33c                      | 40c                                    | 33c                                     |\n| Total dead                   | 81                                 | 236                               | 471                     | 764                      | 554                                    | 479                                     |",
+      "| Blood feeding Inhibition (%) | -                                  | 20                                | 4                       | 19                       | 7                                      | 15                                      |\n| Personal Protection (%)      | -                                  | 64                                | 47                      | 29                       | 38                                     | 56                                      |\n| Exiting rates (%)            | 18a                                | 52b                               | 36c                     | 33c                      | 40c                                    | 33c                                     |\n| Total dead                   | 81                                 | 236                               | 471                     | 764                      | 554                                    | 479                                     |\n| Corrected mortality          | 0a                                 | 38b                               | 97c                     | 97c                      | 96c                                    | 99c                                     |",
+      "| Personal Protection (%)      | -                                  | 64                                | 47                      | 29                       | 38                                     | 56                                      |\n| Exiting rates (%)            | 18a                                | 52b                               | 36c                     | 33c                      | 40c                                    | 33c                                     |\n| Total dead                   | 81                                 | 236                               | 471                     | 764                      | 554                                    | 479                                     |\n| Corrected mortality          | 0a                                 | 38b                               | 97c                     | 97c                      | 96c                                    | 99c                                     |\n| Overall killing effect (%)   | -                                  | 16                                | 43                      | 75                       | 52                                     | 43                                      |",
+      "| Exiting rates (%)            | 18a                                | 52b                               | 36c                     | 33c                      | 40c                                    | 33c                                     |\n| Total dead                   | 81                                 | 236                               | 471                     | 764                      | 554                                    | 479                                     |\n| Corrected mortality          | 0a                                 | 38b                               | 97c                     | 97c                      | 96c                                    | 99c                                     |\n| Overall killing effect (%)   | -                                  | 16                                | 43                      | 75                       | 52                                     | 43                                      |",
+      "| Total dead                   | 81                                 | 236                               | 471                     | 764                      | 554                                    | 479                                     |\n| Corrected mortality          | 0a                                 | 38b                               | 97c                     | 97c                      | 96c                                    | 99c                                     |\n| Overall killing effect (%)   | -                                  | 16                                | 43                      | 75                       | 52                                     | 43                                      |",
+      "|                              | Control<br>(untreated net) | LLIN | p-methyl DL | p-methyl<br>NWH | p-methyl DL+LLIN | p-methyl NWH+LLIN |\n|------------------------------|----------------------------|------|-------------|-----------------|------------------|-------------------|\n| Total females caught         | 81a                        | 42b  | 68ac        | 45bc            | 38b              | 46bc              |",
+      "|                              | Control<br>(untreated net) | LLIN | p-methyl DL | p-methyl<br>NWH | p-methyl DL+LLIN | p-methyl NWH+LLIN |\n|------------------------------|----------------------------|------|-------------|-----------------|------------------|-------------------|\n| Total females caught         | 81a                        | 42b  | 68ac        | 45bc            | 38b              | 46bc              |\n| Deterrence (%)               | -                          | 48   | 16          | 44              | 53               | 43                |",
+      "|                              | Control<br>(untreated net) | LLIN | p-methyl DL | p-methyl<br>NWH | p-methyl DL+LLIN | p-methyl NWH+LLIN |\n|------------------------------|----------------------------|------|-------------|-----------------|------------------|-------------------|\n| Total females caught         | 81a                        | 42b  | 68ac        | 45bc            | 38b              | 46bc              |\n| Deterrence (%)               | -                          | 48   | 16          | 44              | 53               | 43                |\n| Total females blood fed      | 64                         | 11   | 28          | 18              | 3                | 4                 |",
+      "|------------------------------|----------------------------|------|-------------|-----------------|------------------|-------------------|\n| Total females caught         | 81a                        | 42b  | 68ac        | 45bc            | 38b              | 46bc              |\n| Deterrence (%)               | -                          | 48   | 16          | 44              | 53               | 43                |\n| Total females blood fed      | 64                         | 11   | 28          | 18              | 3                | 4                 |\n| Blood feeding Inhibition (%) | -                          | 70   | 50          | 50              | 91               | 90                |",
+      "| Total females caught         | 81a                        | 42b  | 68ac        | 45bc            | 38b              | 46bc              |\n| Deterrence (%)               | -                          | 48   | 16          | 44              | 53               | 43                |\n| Total females blood fed      | 64                         | 11   | 28          | 18              | 3                | 4                 |\n| Blood feeding Inhibition (%) | -                          | 70   | 50          | 50              | 91               | 90                |\n| Personal Protection (%)      | -                          | 83   | 56          | 72              | 95               | 94                |",
+      "| Deterrence (%)               | -                          | 48   | 16          | 44              | 53               | 43                |\n| Total females blood fed      | 64                         | 11   | 28          | 18              | 3                | 4                 |\n| Blood feeding Inhibition (%) | -                          | 70   | 50          | 50              | 91               | 90                |\n| Personal Protection (%)      | -                          | 83   | 56          | 72              | 95               | 94                |\n| Total inside net (%)         | 36                         | 0    | -           | -               | 0                | 0                 |",
+      "| Total females blood fed      | 64                         | 11   | 28          | 18              | 3                | 4                 |\n| Blood feeding Inhibition (%) | -                          | 70   | 50          | 50              | 91               | 90                |\n| Personal Protection (%)      | -                          | 83   | 56          | 72              | 95               | 94                |\n| Total inside net (%)         | 36                         | 0    | -           | -               | 0                | 0                 |\n| Exiting rates (%)            | 33a                        | 57b  | 53b         | 43ab            | 40ab             | 54b               |",
+      "| Blood feeding Inhibition (%) | -                          | 70   | 50          | 50              | 91               | 90                |\n| Personal Protection (%)      | -                          | 83   | 56          | 72              | 95               | 94                |\n| Total inside net (%)         | 36                         | 0    | -           | -               | 0                | 0                 |\n| Exiting rates (%)            | 33a                        | 57b  | 53b         | 43ab            | 40ab             | 54b               |\n| Total dead                   | 12                         | 25   | 68          | 38              | 45               | 46                |",
+      "| Personal Protection (%)      | -                          | 83   | 56          | 72              | 95               | 94                |\n| Total inside net (%)         | 36                         | 0    | -           | -               | 0                | 0                 |\n| Exiting rates (%)            | 33a                        | 57b  | 53b         | 43ab            | 40ab             | 54b               |\n| Total dead                   | 12                         | 25   | 68          | 38              | 45               | 46                |\n| Corrected mortality          | 0a                         | 54b  | 100c        | 100c            | 100c             | 100c              |",
+      "| Total inside net (%)         | 36                         | 0    | -           | -               | 0                | 0                 |\n| Exiting rates (%)            | 33a                        | 57b  | 53b         | 43ab            | 40ab             | 54b               |\n| Total dead                   | 12                         | 25   | 68          | 38              | 45               | 46                |\n| Corrected mortality          | 0a                         | 54b  | 100c        | 100c            | 100c             | 100c              |\n| Overall killing effect (%)   | -                          | 19   | 81          | 48              | 38               | 49                |",
+      "| Exiting rates (%)            | 33a                        | 57b  | 53b         | 43ab            | 40ab             | 54b               |\n| Total dead                   | 12                         | 25   | 68          | 38              | 45               | 46                |\n| Corrected mortality          | 0a                         | 54b  | 100c        | 100c            | 100c             | 100c              |\n| Overall killing effect (%)   | -                          | 19   | 81          | 48              | 38               | 49                |",
+      "| Total dead                   | 12                         | 25   | 68          | 38              | 45               | 46                |\n| Corrected mortality          | 0a                         | 54b  | 100c        | 100c            | 100c             | 100c              |\n| Overall killing effect (%)   | -                          | 19   | 81          | 48              | 38               | 49                |",
+      "|                              | Control | LLIN | pyrethroid DL+LLIN | p-methyl DL+LLIN |\n|------------------------------|---------|------|--------------------|------------------|\n| Total females caught         | 255a    | 72bc | 67b                | 96c              |",
+      "|                              | Control | LLIN | pyrethroid DL+LLIN | p-methyl DL+LLIN |\n|------------------------------|---------|------|--------------------|------------------|\n| Total females caught         | 255a    | 72bc | 67b                | 96c              |\n| Deterrence (%)               | -       | 72   | 74                 | 62               |",
+      "|                              | Control | LLIN | pyrethroid DL+LLIN | p-methyl DL+LLIN |\n|------------------------------|---------|------|--------------------|------------------|\n| Total females caught         | 255a    | 72bc | 67b                | 96c              |\n| Deterrence (%)               | -       | 72   | 74                 | 62               |\n| Total females blood fed      | 114     | 15   | 6                  | 11               |",
+      "|------------------------------|---------|------|--------------------|------------------|\n| Total females caught         | 255a    | 72bc | 67b                | 96c              |\n| Deterrence (%)               | -       | 72   | 74                 | 62               |\n| Total females blood fed      | 114     | 15   | 6                  | 11               |\n| Blood feeding Inhibition (%) | -       | 53   | 80                 | 74               |",
+      "| Total females caught         | 255a    | 72bc | 67b                | 96c              |\n| Deterrence (%)               | -       | 72   | 74                 | 62               |\n| Total females blood fed      | 114     | 15   | 6                  | 11               |\n| Blood feeding Inhibition (%) | -       | 53   | 80                 | 74               |\n| Personal protection (%)      | -       | 87   | 95                 | 90               |",
+      "| Deterrence (%)               | -       | 72   | 74                 | 62               |\n| Total females blood fed      | 114     | 15   | 6                  | 11               |\n| Blood feeding Inhibition (%) | -       | 53   | 80                 | 74               |\n| Personal protection (%)      | -       | 87   | 95                 | 90               |\n| Total inside net (%)         | 29      | 1    | 0                  | 2                |",
+      "| Total females blood fed      | 114     | 15   | 6                  | 11               |\n| Blood feeding Inhibition (%) | -       | 53   | 80                 | 74               |\n| Personal protection (%)      | -       | 87   | 95                 | 90               |\n| Total inside net (%)         | 29      | 1    | 0                  | 2                |\n| Exiting rates (%)            | 31a     | 63b  | 61b                | 45a              |",
+      "| Blood feeding Inhibition (%) | -       | 53   | 80                 | 74               |\n| Personal protection (%)      | -       | 87   | 95                 | 90               |\n| Total inside net (%)         | 29      | 1    | 0                  | 2                |\n| Exiting rates (%)            | 31a     | 63b  | 61b                | 45a              |\n| Total dead                   | 24      | 32   | 32                 | 94               |",
+      "| Personal protection (%)      | -       | 87   | 95                 | 90               |\n| Total inside net (%)         | 29      | 1    | 0                  | 2                |\n| Exiting rates (%)            | 31a     | 63b  | 61b                | 45a              |\n| Total dead                   | 24      | 32   | 32                 | 94               |\n| Corrected Mortality (%)      | 0a      | 39b  | 43b                | 98c              |",
+      "| Total inside net (%)         | 29      | 1    | 0                  | 2                |\n| Exiting rates (%)            | 31a     | 63b  | 61b                | 45a              |\n| Total dead                   | 24      | 32   | 32                 | 94               |\n| Corrected Mortality (%)      | 0a      | 39b  | 43b                | 98c              |\n| Overall killing effect (%)   | -       | 4    | 4                  | 32               |",
+      "| Exiting rates (%)            | 31a     | 63b  | 61b                | 45a              |\n| Total dead                   | 24      | 32   | 32                 | 94               |\n| Corrected Mortality (%)      | 0a      | 39b  | 43b                | 98c              |\n| Overall killing effect (%)   | -       | 4    | 4                  | 32               |",
+      "| Total dead                   | 24      | 32   | 32                 | 94               |\n| Corrected Mortality (%)      | 0a      | 39b  | 43b                | 98c              |\n| Overall killing effect (%)   | -       | 4    | 4                  | 32               |",
+      "|                             |                                  | Kdr allele freq (n) |           |      | ace 1R allele freq (n) |           |      |\n|-----------------------------|----------------------------------|---------------------|-----------|------|------------------------|-----------|------|\n| Treatments                  |                                  | Live                | Dead      | P    | Live                   | Dead      | P    |",
+      "|                             |                                  | Kdr allele freq (n) |           |      | ace 1R allele freq (n) |           |      |\n|-----------------------------|----------------------------------|---------------------|-----------|------|------------------------|-----------|------|\n| Treatments                  |                                  | Live                | Dead      | P    | Live                   | Dead      | P    |\n| Single intervention trial   |                                  |                     |           |      |                        |           |      |",
+      "|                             |                                  | Kdr allele freq (n) |           |      | ace 1R allele freq (n) |           |      |\n|-----------------------------|----------------------------------|---------------------|-----------|------|------------------------|-----------|------|\n| Treatments                  |                                  | Live                | Dead      | P    | Live                   | Dead      | P    |\n| Single intervention trial   |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.95 (140)          | –         | –    | 0.01 (97)              | –         | –    |",
+      "|-----------------------------|----------------------------------|---------------------|-----------|------|------------------------|-----------|------|\n| Treatments                  |                                  | Live                | Dead      | P    | Live                   | Dead      | P    |\n| Single intervention trial   |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.95 (140)          | –         | –    | 0.01 (97)              | –         | –    |\n| 2                           | Pyrethroid DL                    | 0.91 (51)           | 0.90 (51) | 1    | –                      | –         | –    |",
+      "| Treatments                  |                                  | Live                | Dead      | P    | Live                   | Dead      | P    |\n| Single intervention trial   |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.95 (140)          | –         | –    | 0.01 (97)              | –         | –    |\n| 2                           | Pyrethroid DL                    | 0.91 (51)           | 0.90 (51) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL (walls only)         | 1.0 (9)             | 0.97 (58) | 1    | 0.05 (21)              | 0.00 (28) | 0.18 |",
+      "| Single intervention trial   |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.95 (140)          | –         | –    | 0.01 (97)              | –         | –    |\n| 2                           | Pyrethroid DL                    | 0.91 (51)           | 0.90 (51) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL (walls only)         | 1.0 (9)             | 0.97 (58) | 1    | 0.05 (21)              | 0.00 (28) | 0.18 |\n| 4                           | P-methyl NWH (walls only)        | 1.0 (18)            | 0.95 (58) | 0.34 | 0.00 (36)              | 0.00 (60) | 1    |",
+      "| 1                           | Control (untreated DL)           | 0.95 (140)          | –         | –    | 0.01 (97)              | –         | –    |\n| 2                           | Pyrethroid DL                    | 0.91 (51)           | 0.90 (51) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL (walls only)         | 1.0 (9)             | 0.97 (58) | 1    | 0.05 (21)              | 0.00 (28) | 0.18 |\n| 4                           | P-methyl NWH (walls only)        | 1.0 (18)            | 0.95 (58) | 0.34 | 0.00 (36)              | 0.00 (60) | 1    |\n| 5                           | P-methyl DL (walls and ceiling)  | 1.0 (18)            | 0.94 (61) | 0.35 | 0.07 (28)              | 0.00 (64) | 0.01 |",
+      "| 2                           | Pyrethroid DL                    | 0.91 (51)           | 0.90 (51) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL (walls only)         | 1.0 (9)             | 0.97 (58) | 1    | 0.05 (21)              | 0.00 (28) | 0.18 |\n| 4                           | P-methyl NWH (walls only)        | 1.0 (18)            | 0.95 (58) | 0.34 | 0.00 (36)              | 0.00 (60) | 1    |\n| 5                           | P-methyl DL (walls and ceiling)  | 1.0 (18)            | 0.94 (61) | 0.35 | 0.07 (28)              | 0.00 (64) | 0.01 |\n| 6                           | P-methyl NWH (walls and ceiling) | 1.0 (3)             | 0.96 (68) | 1    | 0.05 (29)              | 0.00 (66) | 0.03 |",
+      "| 3                           | P-methyl DL (walls only)         | 1.0 (9)             | 0.97 (58) | 1    | 0.05 (21)              | 0.00 (28) | 0.18 |\n| 4                           | P-methyl NWH (walls only)        | 1.0 (18)            | 0.95 (58) | 0.34 | 0.00 (36)              | 0.00 (60) | 1    |\n| 5                           | P-methyl DL (walls and ceiling)  | 1.0 (18)            | 0.94 (61) | 0.35 | 0.07 (28)              | 0.00 (64) | 0.01 |\n| 6                           | P-methyl NWH (walls and ceiling) | 1.0 (3)             | 0.96 (68) | 1    | 0.05 (29)              | 0.00 (66) | 0.03 |\n| Combined intervention trial |                                  |                     |           |      |                        |           |      |",
+      "| 4                           | P-methyl NWH (walls only)        | 1.0 (18)            | 0.95 (58) | 0.34 | 0.00 (36)              | 0.00 (60) | 1    |\n| 5                           | P-methyl DL (walls and ceiling)  | 1.0 (18)            | 0.94 (61) | 0.35 | 0.07 (28)              | 0.00 (64) | 0.01 |\n| 6                           | P-methyl NWH (walls and ceiling) | 1.0 (3)             | 0.96 (68) | 1    | 0.05 (29)              | 0.00 (66) | 0.03 |\n| Combined intervention trial |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.87 (63)           | –         | –    | 0.04 (81)              | –         | –    |",
+      "| 5                           | P-methyl DL (walls and ceiling)  | 1.0 (18)            | 0.94 (61) | 0.35 | 0.07 (28)              | 0.00 (64) | 0.01 |\n| 6                           | P-methyl NWH (walls and ceiling) | 1.0 (3)             | 0.96 (68) | 1    | 0.05 (29)              | 0.00 (66) | 0.03 |\n| Combined intervention trial |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.87 (63)           | –         | –    | 0.04 (81)              | –         | –    |\n| 2                           | LLIN                             | 0.83 (9)            | 0.85 (27) | 1    | –                      | –         | –    |",
+      "| 6                           | P-methyl NWH (walls and ceiling) | 1.0 (3)             | 0.96 (68) | 1    | 0.05 (29)              | 0.00 (66) | 0.03 |\n| Combined intervention trial |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.87 (63)           | –         | –    | 0.04 (81)              | –         | –    |\n| 2                           | LLIN                             | 0.83 (9)            | 0.85 (27) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL*                     | –                   | 0.82 (31) | –    | –                      | 0.02 (34) | –    |",
+      "| Combined intervention trial |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.87 (63)           | –         | –    | 0.04 (81)              | –         | –    |\n| 2                           | LLIN                             | 0.83 (9)            | 0.85 (27) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL*                     | –                   | 0.82 (31) | –    | –                      | 0.02 (34) | –    |\n| 4                           | P-methyl NWH*                    | –                   | 0.84 (19) | –    | –                      | 0.02 (31) | –    |",
+      "| 1                           | Control (untreated DL)           | 0.87 (63)           | –         | –    | 0.04 (81)              | –         | –    |\n| 2                           | LLIN                             | 0.83 (9)            | 0.85 (27) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL*                     | –                   | 0.82 (31) | –    | –                      | 0.02 (34) | –    |\n| 4                           | P-methyl NWH*                    | –                   | 0.84 (19) | –    | –                      | 0.02 (31) | –    |\n| 5                           | P-methyl DL+LLIN*                | –                   | 0.87 (23) | –    | –                      | 0.00 (42) | –    |",
+      "| 2                           | LLIN                             | 0.83 (9)            | 0.85 (27) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL*                     | –                   | 0.82 (31) | –    | –                      | 0.02 (34) | –    |\n| 4                           | P-methyl NWH*                    | –                   | 0.84 (19) | –    | –                      | 0.02 (31) | –    |\n| 5                           | P-methyl DL+LLIN*                | –                   | 0.87 (23) | –    | –                      | 0.00 (42) | –    |\n| 6                           | P-methyl NWH+LLIN*               | –                   | 0.94 (25) | –    | –                      | 0.07 (40) | –    |",
+      "| 3                           | P-methyl DL*                     | –                   | 0.82 (31) | –    | –                      | 0.02 (34) | –    |\n| 4                           | P-methyl NWH*                    | –                   | 0.84 (19) | –    | –                      | 0.02 (31) | –    |\n| 5                           | P-methyl DL+LLIN*                | –                   | 0.87 (23) | –    | –                      | 0.00 (42) | –    |\n| 6                           | P-methyl NWH+LLIN*               | –                   | 0.94 (25) | –    | –                      | 0.07 (40) | –    |",
+      "| 4                           | P-methyl NWH*                    | –                   | 0.84 (19) | –    | –                      | 0.02 (31) | –    |\n| 5                           | P-methyl DL+LLIN*                | –                   | 0.87 (23) | –    | –                      | 0.00 (42) | –    |\n| 6                           | P-methyl NWH+LLIN*               | –                   | 0.94 (25) | –    | –                      | 0.07 (40) | –    |",
+      "|            |                                  | kdr: % alive (live/total) | ace-1R : % alive (live/total) |               |            |           |    |\n|------------|----------------------------------|---------------------------|-------------------------------|---------------|------------|-----------|----|\n| Treatments |                                  | SS                        | RS                            | RR            | SS         | RS        | RR |",
+      "|            |                                  | kdr: % alive (live/total) | ace-1R : % alive (live/total) |               |            |           |    |\n|------------|----------------------------------|---------------------------|-------------------------------|---------------|------------|-----------|----|\n| Treatments |                                  | SS                        | RS                            | RR            | SS         | RS        | RR |\n|            | Single intervention trial        |                           |                               |               |            |           |    |",
+      "|            |                                  | kdr: % alive (live/total) | ace-1R : % alive (live/total) |               |            |           |    |\n|------------|----------------------------------|---------------------------|-------------------------------|---------------|------------|-----------|----|\n| Treatments |                                  | SS                        | RS                            | RR            | SS         | RS        | RR |\n|            | Single intervention trial        |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | -                         | 100 (11/11)                   | 100 (129/129) | 100(96/96) | 100(1/1)  | -  |",
+      "|------------|----------------------------------|---------------------------|-------------------------------|---------------|------------|-----------|----|\n| Treatments |                                  | SS                        | RS                            | RR            | SS         | RS        | RR |\n|            | Single intervention trial        |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | -                         | 100 (11/11)                   | 100 (129/129) | 100(96/96) | 100(1/1)  | -  |\n| 2          | Pyrethroid DL                    | -                         | 47 (7/15)                     | 52 (44/85)    | -          | -         | -  |",
+      "| Treatments |                                  | SS                        | RS                            | RR            | SS         | RS        | RR |\n|            | Single intervention trial        |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | -                         | 100 (11/11)                   | 100 (129/129) | 100(96/96) | 100(1/1)  | -  |\n| 2          | Pyrethroid DL                    | -                         | 47 (7/15)                     | 52 (44/85)    | -          | -         | -  |\n| 3          | P-methyl DL (walls only)         | -                         | 0 (0/4)                       | 14 (9/63)     | 40 (19/47) | 100 (2/2) | -  |",
+      "|            | Single intervention trial        |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | -                         | 100 (11/11)                   | 100 (129/129) | 100(96/96) | 100(1/1)  | -  |\n| 2          | Pyrethroid DL                    | -                         | 47 (7/15)                     | 52 (44/85)    | -          | -         | -  |\n| 3          | P-methyl DL (walls only)         | -                         | 0 (0/4)                       | 14 (9/63)     | 40 (19/47) | 100 (2/2) | -  |\n| 4          | P-methyl NWH (walls only)        | -                         | 0 (0/6)                       | 25 (18/70)    | 37 (36/96) | -         | -  |",
+      "| 1          | Control (untreated DL)           | -                         | 100 (11/11)                   | 100 (129/129) | 100(96/96) | 100(1/1)  | -  |\n| 2          | Pyrethroid DL                    | -                         | 47 (7/15)                     | 52 (44/85)    | -          | -         | -  |\n| 3          | P-methyl DL (walls only)         | -                         | 0 (0/4)                       | 14 (9/63)     | 40 (19/47) | 100 (2/2) | -  |\n| 4          | P-methyl NWH (walls only)        | -                         | 0 (0/6)                       | 25 (18/70)    | 37 (36/96) | -         | -  |\n| 5          | P-methyl DL (walls and ceiling)  | -                         | 0 (0/7)                       | 22 (18/82)    | 27 (24/88) | 100 (4/4) | -  |",
+      "| 2          | Pyrethroid DL                    | -                         | 47 (7/15)                     | 52 (44/85)    | -          | -         | -  |\n| 3          | P-methyl DL (walls only)         | -                         | 0 (0/4)                       | 14 (9/63)     | 40 (19/47) | 100 (2/2) | -  |\n| 4          | P-methyl NWH (walls only)        | -                         | 0 (0/6)                       | 25 (18/70)    | 37 (36/96) | -         | -  |\n| 5          | P-methyl DL (walls and ceiling)  | -                         | 0 (0/7)                       | 22 (18/82)    | 27 (24/88) | 100 (4/4) | -  |\n| 6          | P-methyl NWH (walls and ceiling) | -                         | 0 (0/6)                       | 5 (3/62)      | 28 (26/92) | 100 (3/3) | -  |",
+      "| 3          | P-methyl DL (walls only)         | -                         | 0 (0/4)                       | 14 (9/63)     | 40 (19/47) | 100 (2/2) | -  |\n| 4          | P-methyl NWH (walls only)        | -                         | 0 (0/6)                       | 25 (18/70)    | 37 (36/96) | -         | -  |\n| 5          | P-methyl DL (walls and ceiling)  | -                         | 0 (0/7)                       | 22 (18/82)    | 27 (24/88) | 100 (4/4) | -  |\n| 6          | P-methyl NWH (walls and ceiling) | -                         | 0 (0/6)                       | 5 (3/62)      | 28 (26/92) | 100 (3/3) | -  |\n|            | Combined intervention trial      |                           |                               |               |            |           |    |",
+      "| 4          | P-methyl NWH (walls only)        | -                         | 0 (0/6)                       | 25 (18/70)    | 37 (36/96) | -         | -  |\n| 5          | P-methyl DL (walls and ceiling)  | -                         | 0 (0/7)                       | 22 (18/82)    | 27 (24/88) | 100 (4/4) | -  |\n| 6          | P-methyl NWH (walls and ceiling) | -                         | 0 (0/6)                       | 5 (3/62)      | 28 (26/92) | 100 (3/3) | -  |\n|            | Combined intervention trial      |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | 100 (2/2)                 | 100 (13/13)                   | 100 (48/48)   | 100(75/75) | 100(6/6)  | -  |",
+      "| 5          | P-methyl DL (walls and ceiling)  | -                         | 0 (0/7)                       | 22 (18/82)    | 27 (24/88) | 100 (4/4) | -  |\n| 6          | P-methyl NWH (walls and ceiling) | -                         | 0 (0/6)                       | 5 (3/62)      | 28 (26/92) | 100 (3/3) | -  |\n|            | Combined intervention trial      |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | 100 (2/2)                 | 100 (13/13)                   | 100 (48/48)   | 100(75/75) | 100(6/6)  | -  |\n| 2          | LLIN                             | 0(0/1)                    | 33 (3/9)                      | 23 (6/26)     | -          | -         | -  |",
+      "| 6          | P-methyl NWH (walls and ceiling) | -                         | 0 (0/6)                       | 5 (3/62)      | 28 (26/92) | 100 (3/3) | -  |\n|            | Combined intervention trial      |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | 100 (2/2)                 | 100 (13/13)                   | 100 (48/48)   | 100(75/75) | 100(6/6)  | -  |\n| 2          | LLIN                             | 0(0/1)                    | 33 (3/9)                      | 23 (6/26)     | -          | -         | -  |\n| 3          | P-methyl DL*                     | 0 (0/3)                   | 0 (0/5)                       | 0 (0/23)      | 0 (0/33)   | 0 (0/1)   | -  |",
+      "|            | Combined intervention trial      |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | 100 (2/2)                 | 100 (13/13)                   | 100 (48/48)   | 100(75/75) | 100(6/6)  | -  |\n| 2          | LLIN                             | 0(0/1)                    | 33 (3/9)                      | 23 (6/26)     | -          | -         | -  |\n| 3          | P-methyl DL*                     | 0 (0/3)                   | 0 (0/5)                       | 0 (0/23)      | 0 (0/33)   | 0 (0/1)   | -  |\n| 4          | P-methyl NWH*                    | 0 (0/2)                   | 0 (0/2)                       | 0 (0/15)      | 0 (0/30)   | 0 (0/1)   | -  |",
+      "| 1          | Control (untreated DL)           | 100 (2/2)                 | 100 (13/13)                   | 100 (48/48)   | 100(75/75) | 100(6/6)  | -  |\n| 2          | LLIN                             | 0(0/1)                    | 33 (3/9)                      | 23 (6/26)     | -          | -         | -  |\n| 3          | P-methyl DL*                     | 0 (0/3)                   | 0 (0/5)                       | 0 (0/23)      | 0 (0/33)   | 0 (0/1)   | -  |\n| 4          | P-methyl NWH*                    | 0 (0/2)                   | 0 (0/2)                       | 0 (0/15)      | 0 (0/30)   | 0 (0/1)   | -  |\n| 5          | P-methyl DL+LLIN*                | 0 (0/1)                   | 0 (0/4)                       | 0 (0/18)      | 0 (0/42)   | -         | -  |",
+      "| 2          | LLIN                             | 0(0/1)                    | 33 (3/9)                      | 23 (6/26)     | -          | -         | -  |\n| 3          | P-methyl DL*                     | 0 (0/3)                   | 0 (0/5)                       | 0 (0/23)      | 0 (0/33)   | 0 (0/1)   | -  |\n| 4          | P-methyl NWH*                    | 0 (0/2)                   | 0 (0/2)                       | 0 (0/15)      | 0 (0/30)   | 0 (0/1)   | -  |\n| 5          | P-methyl DL+LLIN*                | 0 (0/1)                   | 0 (0/4)                       | 0 (0/18)      | 0 (0/42)   | -         | -  |\n| 6          | P-methyl NWH+LLIN*               | -                         | 0 (0/3)                       | 0 (0/22)      | 0 (0/35)   | 0 (0/5)   | -  |",
+      "| 3          | P-methyl DL*                     | 0 (0/3)                   | 0 (0/5)                       | 0 (0/23)      | 0 (0/33)   | 0 (0/1)   | -  |\n| 4          | P-methyl NWH*                    | 0 (0/2)                   | 0 (0/2)                       | 0 (0/15)      | 0 (0/30)   | 0 (0/1)   | -  |\n| 5          | P-methyl DL+LLIN*                | 0 (0/1)                   | 0 (0/4)                       | 0 (0/18)      | 0 (0/42)   | -         | -  |\n| 6          | P-methyl NWH+LLIN*               | -                         | 0 (0/3)                       | 0 (0/22)      | 0 (0/35)   | 0 (0/5)   | -  |",
+      "| 4          | P-methyl NWH*                    | 0 (0/2)                   | 0 (0/2)                       | 0 (0/15)      | 0 (0/30)   | 0 (0/1)   | -  |\n| 5          | P-methyl DL+LLIN*                | 0 (0/1)                   | 0 (0/4)                       | 0 (0/18)      | 0 (0/42)   | -         | -  |\n| 6          | P-methyl NWH+LLIN*               | -                         | 0 (0/3)                       | 0 (0/22)      | 0 (0/35)   | 0 (0/5)   | -  |"
+    ],
+    "figures": [
+      "- 1. Single intervention trial: A total of 3933 An gambiae ss were collected from the experimental huts during the trial. The results obtained are presented in Table 3 and Figure 1. Bloodfeeding rates were generally high (70–83%) with the DL and NWH alone (Figure 1) since mosquitoes would normally feed on the person sleeping in the hut before resting on the wall. Hence the treatments provided limited blood-feeding inhibition (4–20%) and personal protection (29–56%) (Table 3). Mortality with pyrethroid DL was 40% (Figure 1). P-methyl treated DL and NWH induced much higher mortality rates (.95%) than pyrethroid DL (P,0.001). With only walls covered, p-methyl DL and NWH showed a similar performance. Highest mortality was attained when all hut surfaces (walls and ceiling) were covered with p-methyl NWH (99%) and hence for the follow on trials, the p-methyl DL and NWH treatments tested were applied on walls and ceiling.",
+      "- 2. First combined intervention trial: A total of 320 An gambiae ss were collected from the experimental huts during the second trial, far fewer than in the first trial. By this time, the rice in the fields had grown significantly and covered the breeding sites leading to lower numbers of mosquitoes entering the huts compared to the first trial. The results obtained in this trial are presented in Table 4 and Figure 2. The holed LLIN was more protective (23% bloodfed and 0% found inside the net) than the untreated holed net (81% bloodfed and 36% found inside the net) (Table 4 and Figure 2). Combining pmethyl DL and NWH with LLINs reduced bloodfeeding rates significantly (8–9% bloodfed) compared to p-methyl DL and NWH alone (Figure 2) (P,0.001). The combination therefore provided more bloodfeeding inhibition (90–91%) and personal protection (94–95%) than the p-methyl treatments alone (50% bloodfeeding inhibition and 51–70% personal protection) (Table 4). Mortality with the LLIN alone was 60% (Figure 2). Mortality was 100% when p-methyl DL and NWH where used whether alone or in combination with LLINs.",
+      "- 3. Second combined intervention trial: The results are presented in Table 5 and Figure 3. A total of 490 An gambiae ss were collected from the experimental huts during this trial (Table 5). Combining LLINs with pyrethroid DL did not show any improvement in mortality (48%) compared to the LLIN alone (44%) and pyrethroid DL alone (40%) (P.0.1) (Figure 3). Mortality was much higher (95%) when p-methyl DL was combined with LLINs.",
+      "Figure 1. Mortality and bloodfeeding rates of pyrethroid resistant An gambiae in experimental huts with single interventions. Percentage mortality (dark shade) and bloodfeeding (lighter shade) of pyrethroid resistant An gambiae in experimental huts in Valley du Kou with the indicated single treatments. P-methyl DL and NWH are compared to pyrethroid DL and an untreated control. For each response parameter (mortality or bloodfeeding), values for histograms sharing the same letter label are not significantly different (P.0.05). doi:10.1371/journal.pone.0083897.g001",
+      "Figure 2. Mortality and bloodfeeding rates of pyrethroid resistant An gambiae in experimental huts with combined interventions. Percentage mortality (dark shade) and bloodfeeding (lighter shade) of pyrethroid resistant An gambiae in experimental huts in Valley du Kou with the combined p-methyl wall treatment+LLINs versus single treatments alone. For each response parameter (mortality or bloodfeeding), values for histograms sharing the same letter label are not significantly different (P.0.05). doi:10.1371/journal.pone.0083897.g002",
+      "Figure 3. Mortality and bloodfeeding rates of pyrethroid resistant An gambiae in experimental huts (third trial). Percentage mortality (dark shade) and bloodfeeding (lighter shade) of pyrethroid resistant An gambiae in experimental huts in Valley du Kou with combination of p-methyl DL and LLIN versus combination of pyrethroid DL+LLIN. For each response parameter (mortality or bloodfeeding), values for histograms sharing the same letter label are not significantly different (P.0.05). doi:10.1371/journal.pone.0083897.g003"
+    ],
+    "captions": []
+  },
+  "reading_order": [
+    {
+      "type": "paragraph",
+      "content": "PDF: 2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_impr...",
+      "line": 1
+    },
+    {
+      "type": "authors",
+      "content": [
+        "Processing Time: 60.64s"
+      ],
+      "line": 2
+    },
+    {
+      "type": "paragraph",
+      "content": "============================================================...",
+      "line": 6
+    },
+    {
+      "type": "title",
+      "content": "Combining Organophosphate Treated Wall Linings and Long-lasting Insecticidal Nets for Improved Control of Pyrethroid Resistant Anopheles gambiae",
+      "line": 8
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Corine Ngufor1 \\*, Emile Tchicaya<sup>2</sup> , Benjamin Koudou<sup>2</sup> , Sagnon N'Fale<sup...",
+      "line": 10
+    },
+    {
+      "type": "paragraph",
+      "content": "1 London School of Hygiene and Tropical Medicine, London, United Kingdom, 2 Centre Suisse de Recherc...",
+      "line": 12
+    },
+    {
+      "type": "paragraph",
+      "content": "Background: New approaches to delivering insecticides need to be developed to improve malaria vector...",
+      "line": 16
+    },
+    {
+      "type": "paragraph",
+      "content": "Methods: Experimental hut trials were carried out in Valley du Kou, Burkina Faso to evaluate the eff...",
+      "line": 18
+    },
+    {
+      "type": "paragraph",
+      "content": "Results: The overall kdr and ace-1<sup>R</sup> allele frequencies were 0.95 and 0.01 respectively. M...",
+      "line": 20
+    },
+    {
+      "type": "paragraph",
+      "content": "Conclusion: P-methyl DL and NWH outperformed pyrethroid DL. Combining p-methyl DL and NWH with LLINs...",
+      "line": 22
+    },
+    {
+      "type": "reference",
+      "content": "Citation: Ngufor C, Tchicaya E, Koudou B, N'Fale S, Dabire R, et al. (2014) Combining Organophosphate Treated Wall Linings and Long-lasting Insecticidal Nets for Improved Control of Pyrethroid Resistant Anopheles gambiae. PLoS ONE 9(1): e83897. doi:10.1371/journal.pone.0083897",
+      "line": 24
+    },
+    {
+      "type": "paragraph",
+      "content": "Received August 23, 2013; Accepted November 10, 2013; Published January 7, 2014...",
+      "line": 28
+    },
+    {
+      "type": "reference",
+      "content": "Copyright: - 2014 Ngufor et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+      "line": 30
+    },
+    {
+      "type": "paragraph",
+      "content": "Funding: The research leading to these results has received funding from the European Union Seventh ...",
+      "line": 32
+    },
+    {
+      "type": "paragraph",
+      "content": "Competing Interests: The authors have declared that no competing interests exist....",
+      "line": 34
+    },
+    {
+      "type": "paragraph",
+      "content": "Malaria vector control largely depends on a limited collection of tools. Long lasting insecticidal n...",
+      "line": 40
+    },
+    {
+      "type": "paragraph",
+      "content": "The covering of home walls with insecticidal materials is a novel approach that simulates IRS. Insec...",
+      "line": 42
+    },
+    {
+      "type": "paragraph",
+      "content": "In rural Africa, householders often cover their walls with wall hangings made from netting material ...",
+      "line": 44
+    },
+    {
+      "type": "paragraph",
+      "content": "It is now clear that the development and rapid spread of insecticide resistance in An gambiae popula...",
+      "line": 46
+    },
+    {
+      "type": "paragraph",
+      "content": "The aim of the current study was to investigate via a series of experimental hut trials whether DL o...",
+      "line": 48
+    },
+    {
+      "type": "subsection_header",
+      "content": "Experimental huts",
+      "line": 52
+    },
+    {
+      "type": "paragraph",
+      "content": "The trials were carried out at the Centre Muraz experimental hut station in Valley du Kou 5 (4u259W,...",
+      "line": 54
+    },
+    {
+      "type": "paragraph",
+      "content": "During the trials, samples of adult An. gambiae which emerged from larvae collected from the experim...",
+      "line": 58
+    },
+    {
+      "type": "paragraph",
+      "content": "Three experimental hut trials were carried out. The first two trials lasted 6 weeks and the third la...",
+      "line": 62
+    },
+    {
+      "type": "paragraph",
+      "content": "- 1. Untreated Control (untreated plastic sheeting)...",
+      "line": 64
+    },
+    {
+      "type": "paragraph",
+      "content": "- 2. Pyrethroid treated durable lining (ZeroVectorH, Vestergaard Frandsen, Switzerland) on walls...",
+      "line": 65
+    },
+    {
+      "type": "paragraph",
+      "content": "- 3. P-methyl CS treated durable lining (p-methyl DL) on walls...",
+      "line": 66
+    },
+    {
+      "type": "paragraph",
+      "content": "- 4. P-methyl CS treated net wall hangings (p-methyl NWH) on walls...",
+      "line": 67
+    },
+    {
+      "type": "paragraph",
+      "content": "In the second experimental hut trial, the p-methyl DL and NWH were combined with LLINs and compared ...",
+      "line": 71
+    },
+    {
+      "type": "paragraph",
+      "content": "- 2. Pyrethroid LLIN (PermanetH 2.0 Vestergaard Frandsen, Switzerland), with 6 holes...",
+      "line": 74
+    },
+    {
+      "type": "paragraph",
+      "content": "- 5. P-methyl DL on walls and ceilings+Pyrethroid LLIN with 6 holes...",
+      "line": 77
+    },
+    {
+      "type": "paragraph",
+      "content": "- 6. P-methyl NWH on walls and ceilings+Pyrethroid LLIN with 6 holes...",
+      "line": 78
+    },
+    {
+      "type": "paragraph",
+      "content": "In the third trial we compared the combination of pyrethroid DL and LLIN to the combination of p-met...",
+      "line": 80
+    },
+    {
+      "type": "paragraph",
+      "content": "- 2. Pyrethroid LLIN (PermanetH 2.0 Vestergaard Frandsen, Switzerland), with 6 holes...",
+      "line": 83
+    },
+    {
+      "type": "paragraph",
+      "content": "- 3. Pyrethroid DL (ZeroVectorH, Vestergaard Frandsen, Switzerland)on walls and ceilings+Pyrethroid ...",
+      "line": 84
+    },
+    {
+      "type": "paragraph",
+      "content": "- 4. P-methyl NWH on walls and ceilings+Pyrethroid LLIN with 6 holes...",
+      "line": 85
+    },
+    {
+      "type": "paragraph",
+      "content": "The DL was 50% shade cloth made of woven high density polyethylene (HDPE) plastic (Capatex Ltd, UK)....",
+      "line": 89
+    },
+    {
+      "type": "paragraph",
+      "content": "In order to minimise contamination of the hut walls when rotating the treatments, a removable underl...",
+      "line": 93
+    },
+    {
+      "type": "paragraph",
+      "content": "Treatments were allocated to the six experimental huts and rotated each week using a randomised Lati...",
+      "line": 97
+    },
+    {
+      "type": "subsection_header",
+      "content": "Entomological Outcomes",
+      "line": 99
+    },
+    {
+      "type": "paragraph",
+      "content": "The entomological impact of each treatment in this study was expressed in terms of the following ent...",
+      "line": 101
+    },
+    {
+      "type": "paragraph",
+      "content": "- 1. Deterrence: percentage reduction in the number of mosquitoes caught in treated hut relative to ...",
+      "line": 103
+    },
+    {
+      "type": "paragraph",
+      "content": "- 2. Exiting rates due to potential irritant effect of treatments expressed as percentage of the mos...",
+      "line": 104
+    },
+    {
+      "type": "paragraph",
+      "content": "- 3. Inhibition of blood feeding: reduction in blood feeding rate relative to the control. This was ...",
+      "line": 105
+    },
+    {
+      "type": "equation",
+      "content": "$$",
+      "line": 108
+    },
+    {
+      "type": "equation",
+      "content": "\\frac{100(Bfu - Bft)}{Bfu}",
+      "line": 109
+    },
+    {
+      "type": "equation",
+      "content": "$$",
+      "line": 110
+    },
+    {
+      "type": "paragraph",
+      "content": "Where Bfu is the proportion of blood-fed mosquitoes in the untreated control huts and Bft is the pro...",
+      "line": 112
+    },
+    {
+      "type": "paragraph",
+      "content": "- 4. Mortality: percentage of dead mosquitoes in treated hut at the time of collection and after a 2...",
+      "line": 114
+    },
+    {
+      "type": "paragraph",
+      "content": "- 5. The personal protective effect of the treatments which is described by a reduction in the numbe...",
+      "line": 115
+    },
+    {
+      "type": "equation",
+      "content": "$$",
+      "line": 118
+    },
+    {
+      "type": "equation",
+      "content": "\\frac{100(Bu - Bt)}{Bu}",
+      "line": 119
+    },
+    {
+      "type": "equation",
+      "content": "$$",
+      "line": 120
+    },
+    {
+      "type": "equation",
+      "content": "Where Bu = is the number of blood-fed mosquitoes in the untreated control huts and Bt is the number of blood-fed mosquitoes in the huts with insecticide treatments.",
+      "line": 122
+    },
+    {
+      "type": "paragraph",
+      "content": "6. The overall insecticidal effect of a treatment relative to the number of mosquitoes that would or...",
+      "line": 124
+    },
+    {
+      "type": "equation",
+      "content": "$$",
+      "line": 127
+    },
+    {
+      "type": "equation",
+      "content": "(\\%) \\frac{100(K_t - K_u)}{(T_u - K_u)}",
+      "line": 128
+    },
+    {
+      "type": "equation",
+      "content": "$$",
+      "line": 129
+    },
+    {
+      "type": "paragraph",
+      "content": "where Kt is the number killed in the treated hut, Ku is the number dying in the untreated control hu...",
+      "line": 131
+    },
+    {
+      "type": "paragraph",
+      "content": "To measure residual activity, WHO cone bioassays were undertaken on treated materials in situ using ...",
+      "line": 135
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Studies on selection of insecticide resistance genes...",
+      "line": 137
+    },
+    {
+      "type": "paragraph",
+      "content": "Samples of An gambiae (dead and alive) collected from the respective experimental hut treatments thr...",
+      "line": 139
+    },
+    {
+      "type": "paragraph",
+      "content": "The effects of the different experimental hut treatments on each of the main entomological outcomes ...",
+      "line": 143
+    },
+    {
+      "type": "paragraph",
+      "content": "For genotyping data, differences in survival of resistant genotypes for each treatment was analysed ...",
+      "line": 145
+    },
+    {
+      "type": "paragraph",
+      "content": "Ethical approval for the study was obtained from the Ethics Review Board of the London School of Hyg...",
+      "line": 149
+    },
+    {
+      "type": "paragraph",
+      "content": "An gambiae from Valley du Kou 5 was very resistant to pyrethroids recording 2% mortality with deltam...",
+      "line": 155
+    },
+    {
+      "type": "paragraph",
+      "content": "Over 5000 An gambiae ss were collected from the experimental huts during the trials. The numbers of ...",
+      "line": 159
+    },
+    {
+      "type": "figure",
+      "content": "- 1. Single intervention trial: A total of 3933 An gambiae ss were collected from the experimental huts during the trial. The results obtained are presented in Table 3 and Figure 1. Bloodfeeding rates were generally high (70–83%) with the DL and NWH alone (Figure 1) since mosquitoes would normally feed on the person sleeping in the hut before resting on the wall. Hence the treatments provided limited blood-feeding inhibition (4–20%) and personal protection (29–56%) (Table 3). Mortality with pyrethroid DL was 40% (Figure 1). P-methyl treated DL and NWH induced much higher mortality rates (.95%) than pyrethroid DL (P,0.001). With only walls covered, p-methyl DL and NWH showed a similar performance. Highest mortality was attained when all hut surfaces (walls and ceiling) were covered with p-methyl NWH (99%) and hence for the follow on trials, the p-methyl DL and NWH treatments tested were applied on walls and ceiling.",
+      "line": 161
+    },
+    {
+      "type": "figure",
+      "content": "- 2. First combined intervention trial: A total of 320 An gambiae ss were collected from the experimental huts during the second trial, far fewer than in the first trial. By this time, the rice in the fields had grown significantly and covered the breeding sites leading to lower numbers of mosquitoes entering the huts compared to the first trial. The results obtained in this trial are presented in Table 4 and Figure 2. The holed LLIN was more protective (23% bloodfed and 0% found inside the net) than the untreated holed net (81% bloodfed and 36% found inside the net) (Table 4 and Figure 2). Combining pmethyl DL and NWH with LLINs reduced bloodfeeding rates significantly (8–9% bloodfed) compared to p-methyl DL and NWH alone (Figure 2) (P,0.001). The combination therefore provided more bloodfeeding inhibition (90–91%) and personal protection (94–95%) than the p-methyl treatments alone (50% bloodfeeding inhibition and 51–70% personal protection) (Table 4). Mortality with the LLIN alone was 60% (Figure 2). Mortality was 100% when p-methyl DL and NWH where used whether alone or in combination with LLINs.",
+      "line": 162
+    },
+    {
+      "type": "figure",
+      "content": "- 3. Second combined intervention trial: The results are presented in Table 5 and Figure 3. A total of 490 An gambiae ss were collected from the experimental huts during this trial (Table 5). Combining LLINs with pyrethroid DL did not show any improvement in mortality (48%) compared to the LLIN alone (44%) and pyrethroid DL alone (40%) (P.0.1) (Figure 3). Mortality was much higher (95%) when p-methyl DL was combined with LLINs.",
+      "line": 163
+    },
+    {
+      "type": "paragraph",
+      "content": "Mortality of laboratory reared susceptible An gambiae (Kisumu) tested in WHO cone bioassay on p-meth...",
+      "line": 167
+    },
+    {
+      "type": "paragraph",
+      "content": "The An gambiae population was predominantly of the Mmolecular form. Of 559 An gambiae samples which ...",
+      "line": 171
+    },
+    {
+      "type": "paragraph",
+      "content": "A total of 732 and 656 An gambiae samples collected from the first two experimental hut trials were ...",
+      "line": 173
+    },
+    {
+      "type": "table",
+      "content": "|  |  | Table 1. Susceptibility of wild An gambiae ss from Valley du Kou 5 (VK5) to deltamethrin (0.05%) in WHO cylinder bioassays. |  |\n|--|--|-----------------------------------------------------------------------------------------------------------------------------|--|\n|  |  |                                                                                                                             |  |",
+      "line": 175
+    },
+    {
+      "type": "table",
+      "content": "|  |  | Table 1. Susceptibility of wild An gambiae ss from Valley du Kou 5 (VK5) to deltamethrin (0.05%) in WHO cylinder bioassays. |  |\n|--|--|-----------------------------------------------------------------------------------------------------------------------------|--|\n|  |  |                                                                                                                             |  |",
+      "line": 176
+    },
+    {
+      "type": "table",
+      "content": "|  |  | Table 1. Susceptibility of wild An gambiae ss from Valley du Kou 5 (VK5) to deltamethrin (0.05%) in WHO cylinder bioassays. |  |\n|--|--|-----------------------------------------------------------------------------------------------------------------------------|--|\n|  |  |                                                                                                                             |  |\n| No. tested | % KD (95% CI) | 24 h % mortality (95% CI) |",
+      "line": 177
+    },
+    {
+      "type": "table",
+      "content": "|  |  |                                                                                                                             |  |\n| No. tested | % KD (95% CI) | 24 h % mortality (95% CI) |\n|------------|---------------|---------------------------|\n| 100        | 100 (96–100)  | 100 (96–100)              |",
+      "line": 179
+    },
+    {
+      "type": "table",
+      "content": "| No. tested | % KD (95% CI) | 24 h % mortality (95% CI) |\n|------------|---------------|---------------------------|\n| 100        | 100 (96–100)  | 100 (96–100)              |\n| 100        | 5 (0–12)      | 2 (0–7)                   |",
+      "line": 180
+    },
+    {
+      "type": "table",
+      "content": "| No. tested | % KD (95% CI) | 24 h % mortality (95% CI) |\n|------------|---------------|---------------------------|\n| 100        | 100 (96–100)  | 100 (96–100)              |\n| 100        | 5 (0–12)      | 2 (0–7)                   |\n|            |               |                           |",
+      "line": 181
+    },
+    {
+      "type": "table",
+      "content": "|------------|---------------|---------------------------|\n| 100        | 100 (96–100)  | 100 (96–100)              |\n| 100        | 5 (0–12)      | 2 (0–7)                   |\n|            |               |                           |",
+      "line": 182
+    },
+    {
+      "type": "table",
+      "content": "| 100        | 100 (96–100)  | 100 (96–100)              |\n| 100        | 5 (0–12)      | 2 (0–7)                   |\n|            |               |                           |",
+      "line": 183
+    },
+    {
+      "type": "equation",
+      "content": "(n = 535) in the first trial and 0.86 (n = 197) in the second trial while the overall ace-1<sup>R</sup> allele frequency was 0.01 (n = 429) in the first trial and 0.03 (n = 228) in the second trial. There was no difference in the frequency of kdr alleles between live and dead collections from any of the treatments (P.0.05) (Tables 6). Analysis of genotype frequency (Table 7) showed that survival of the kdr heterozygotes (47% was no different from that of kdr homogygotes for resistance (52%) in the presence of LLIN (1st trial: P = 0.71, 2nd trial: P = 0.54).",
+      "line": 187
+    },
+    {
+      "type": "equation",
+      "content": "While the ace-1R was low, there was generally a greater tendency for mosquitoes bearing the ace-1<sup>R</sup> allele to survive in huts with the p-methyl treatments alone in the single intervention trial. The ace-1R allele frequency was significantly higher in mosquitoes which survived in huts in which p-methyl treated DL and NWH were applied alone on walls and ceiling (P#0.03) (Table 6). Analysis of genotype frequency showed that 100% (9/9) of ace-1R heterozygotes survived the p-methyl treatments but only 32% (105/323) of ace-1 susceptibles survived (P = 0.001), indicating strong selection for the ace-1<sup>R</sup> resistance with the p-methyl interventions. In the second trial, all mosquitoes which entered the huts with p-methyl treatments whether applied alone or in combination with LLINs were killed (100% mortality). It was thus not possible to clearly demonstrate whether the combination prevents selection of the ace-1<sup>R</sup> gene compared to the single intervention of p-methyl (Tables 6 and 7). The low survival of kdr with the combination indicates that the p-methyl component might prevent the further selection of kdr resistance (Table 7).",
+      "line": 189
+    },
+    {
+      "type": "paragraph",
+      "content": "In the current study, p-methyl treated DL and NWH outperformed pyrethroid treated DL by killing almo...",
+      "line": 193
+    },
+    {
+      "type": "paragraph",
+      "content": "Increasing the level of wall coverage with p-methyl DL and NWH from walls only to walls plus ceiling...",
+      "line": 195
+    },
+    {
+      "type": "paragraph",
+      "content": "LLINs are capable of inducing high levels of mortality and providing significant personal protection...",
+      "line": 197
+    },
+    {
+      "type": "paragraph",
+      "content": "In contrast to p-methyl DL, combining pyrethroid DL and LLIN in the same hut did not show any improv...",
+      "line": 199
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 2. Susceptibilty of wild An gambiae ss from Valley du Kou 5 (VK5) to pirimiphos methyl (0.25%)...",
+      "line": 201
+    },
+    {
+      "type": "table",
+      "content": "| Species                  | No. tested | % KD (95% CI) | 24 h % mortality (95% CI) |\n|--------------------------|------------|---------------|---------------------------|\n| An gambiae s.s. (Kisumu) | 100        | 87 (80–94)    | 100 (96–100)              |",
+      "line": 203
+    },
+    {
+      "type": "table",
+      "content": "| Species                  | No. tested | % KD (95% CI) | 24 h % mortality (95% CI) |\n|--------------------------|------------|---------------|---------------------------|\n| An gambiae s.s. (Kisumu) | 100        | 87 (80–94)    | 100 (96–100)              |\n| An gambiae s.s. (VK5)    | 102        | 86 (79–92)    | 100 (96–100)              |",
+      "line": 204
+    },
+    {
+      "type": "table",
+      "content": "| Species                  | No. tested | % KD (95% CI) | 24 h % mortality (95% CI) |\n|--------------------------|------------|---------------|---------------------------|\n| An gambiae s.s. (Kisumu) | 100        | 87 (80–94)    | 100 (96–100)              |\n| An gambiae s.s. (VK5)    | 102        | 86 (79–92)    | 100 (96–100)              |\n|                          |            |               |                           |",
+      "line": 205
+    },
+    {
+      "type": "table",
+      "content": "|--------------------------|------------|---------------|---------------------------|\n| An gambiae s.s. (Kisumu) | 100        | 87 (80–94)    | 100 (96–100)              |\n| An gambiae s.s. (VK5)    | 102        | 86 (79–92)    | 100 (96–100)              |\n|                          |            |               |                           |",
+      "line": 206
+    },
+    {
+      "type": "table",
+      "content": "| An gambiae s.s. (Kisumu) | 100        | 87 (80–94)    | 100 (96–100)              |\n| An gambiae s.s. (VK5)    | 102        | 86 (79–92)    | 100 (96–100)              |\n|                          |            |               |                           |",
+      "line": 207
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 3. Personal protection and killing effect of p-methyl DL and NWH against pyrethroid resistant ...",
+      "line": 211
+    },
+    {
+      "type": "table",
+      "content": "|                              | Control (untreated<br>DL on walls) | pyrethroid treated<br>on walls DL | p-methyl<br>DL on walls | p-methyl<br>NWH on walls | p-methyl<br>DL on walls<br>and ceiling | p-methyl<br>NWH on walls<br>and ceiling |\n|------------------------------|------------------------------------|-----------------------------------|-------------------------|--------------------------|----------------------------------------|-----------------------------------------|\n| Total females caught         | 995a                               | 464b                              | 523b                    | 841a                     | 615ab                                  | 490b                                    |",
+      "line": 213
+    },
+    {
+      "type": "table",
+      "content": "|                              | Control (untreated<br>DL on walls) | pyrethroid treated<br>on walls DL | p-methyl<br>DL on walls | p-methyl<br>NWH on walls | p-methyl<br>DL on walls<br>and ceiling | p-methyl<br>NWH on walls<br>and ceiling |\n|------------------------------|------------------------------------|-----------------------------------|-------------------------|--------------------------|----------------------------------------|-----------------------------------------|\n| Total females caught         | 995a                               | 464b                              | 523b                    | 841a                     | 615ab                                  | 490b                                    |\n| Deterrence (%)               | -                                  | 53                                | 47                      | 15                       | 38                                     | 51                                      |",
+      "line": 214
+    },
+    {
+      "type": "table",
+      "content": "|                              | Control (untreated<br>DL on walls) | pyrethroid treated<br>on walls DL | p-methyl<br>DL on walls | p-methyl<br>NWH on walls | p-methyl<br>DL on walls<br>and ceiling | p-methyl<br>NWH on walls<br>and ceiling |\n|------------------------------|------------------------------------|-----------------------------------|-------------------------|--------------------------|----------------------------------------|-----------------------------------------|\n| Total females caught         | 995a                               | 464b                              | 523b                    | 841a                     | 615ab                                  | 490b                                    |\n| Deterrence (%)               | -                                  | 53                                | 47                      | 15                       | 38                                     | 51                                      |\n| Total females blood fed      | 781                                | 282                               | 417                     | 557                      | 483                                    | 345                                     |",
+      "line": 215
+    },
+    {
+      "type": "table",
+      "content": "|------------------------------|------------------------------------|-----------------------------------|-------------------------|--------------------------|----------------------------------------|-----------------------------------------|\n| Total females caught         | 995a                               | 464b                              | 523b                    | 841a                     | 615ab                                  | 490b                                    |\n| Deterrence (%)               | -                                  | 53                                | 47                      | 15                       | 38                                     | 51                                      |\n| Total females blood fed      | 781                                | 282                               | 417                     | 557                      | 483                                    | 345                                     |\n| Blood feeding Inhibition (%) | -                                  | 20                                | 4                       | 19                       | 7                                      | 15                                      |",
+      "line": 216
+    },
+    {
+      "type": "table",
+      "content": "| Total females caught         | 995a                               | 464b                              | 523b                    | 841a                     | 615ab                                  | 490b                                    |\n| Deterrence (%)               | -                                  | 53                                | 47                      | 15                       | 38                                     | 51                                      |\n| Total females blood fed      | 781                                | 282                               | 417                     | 557                      | 483                                    | 345                                     |\n| Blood feeding Inhibition (%) | -                                  | 20                                | 4                       | 19                       | 7                                      | 15                                      |\n| Personal Protection (%)      | -                                  | 64                                | 47                      | 29                       | 38                                     | 56                                      |",
+      "line": 217
+    },
+    {
+      "type": "table",
+      "content": "| Deterrence (%)               | -                                  | 53                                | 47                      | 15                       | 38                                     | 51                                      |\n| Total females blood fed      | 781                                | 282                               | 417                     | 557                      | 483                                    | 345                                     |\n| Blood feeding Inhibition (%) | -                                  | 20                                | 4                       | 19                       | 7                                      | 15                                      |\n| Personal Protection (%)      | -                                  | 64                                | 47                      | 29                       | 38                                     | 56                                      |\n| Exiting rates (%)            | 18a                                | 52b                               | 36c                     | 33c                      | 40c                                    | 33c                                     |",
+      "line": 218
+    },
+    {
+      "type": "table",
+      "content": "| Total females blood fed      | 781                                | 282                               | 417                     | 557                      | 483                                    | 345                                     |\n| Blood feeding Inhibition (%) | -                                  | 20                                | 4                       | 19                       | 7                                      | 15                                      |\n| Personal Protection (%)      | -                                  | 64                                | 47                      | 29                       | 38                                     | 56                                      |\n| Exiting rates (%)            | 18a                                | 52b                               | 36c                     | 33c                      | 40c                                    | 33c                                     |\n| Total dead                   | 81                                 | 236                               | 471                     | 764                      | 554                                    | 479                                     |",
+      "line": 219
+    },
+    {
+      "type": "table",
+      "content": "| Blood feeding Inhibition (%) | -                                  | 20                                | 4                       | 19                       | 7                                      | 15                                      |\n| Personal Protection (%)      | -                                  | 64                                | 47                      | 29                       | 38                                     | 56                                      |\n| Exiting rates (%)            | 18a                                | 52b                               | 36c                     | 33c                      | 40c                                    | 33c                                     |\n| Total dead                   | 81                                 | 236                               | 471                     | 764                      | 554                                    | 479                                     |\n| Corrected mortality          | 0a                                 | 38b                               | 97c                     | 97c                      | 96c                                    | 99c                                     |",
+      "line": 220
+    },
+    {
+      "type": "table",
+      "content": "| Personal Protection (%)      | -                                  | 64                                | 47                      | 29                       | 38                                     | 56                                      |\n| Exiting rates (%)            | 18a                                | 52b                               | 36c                     | 33c                      | 40c                                    | 33c                                     |\n| Total dead                   | 81                                 | 236                               | 471                     | 764                      | 554                                    | 479                                     |\n| Corrected mortality          | 0a                                 | 38b                               | 97c                     | 97c                      | 96c                                    | 99c                                     |\n| Overall killing effect (%)   | -                                  | 16                                | 43                      | 75                       | 52                                     | 43                                      |",
+      "line": 221
+    },
+    {
+      "type": "table",
+      "content": "| Exiting rates (%)            | 18a                                | 52b                               | 36c                     | 33c                      | 40c                                    | 33c                                     |\n| Total dead                   | 81                                 | 236                               | 471                     | 764                      | 554                                    | 479                                     |\n| Corrected mortality          | 0a                                 | 38b                               | 97c                     | 97c                      | 96c                                    | 99c                                     |\n| Overall killing effect (%)   | -                                  | 16                                | 43                      | 75                       | 52                                     | 43                                      |",
+      "line": 222
+    },
+    {
+      "type": "table",
+      "content": "| Total dead                   | 81                                 | 236                               | 471                     | 764                      | 554                                    | 479                                     |\n| Corrected mortality          | 0a                                 | 38b                               | 97c                     | 97c                      | 96c                                    | 99c                                     |\n| Overall killing effect (%)   | -                                  | 16                                | 43                      | 75                       | 52                                     | 43                                      |",
+      "line": 223
+    },
+    {
+      "type": "paragraph",
+      "content": "Values along each row sharing the same letter superscript are not significantly different at the 5% ...",
+      "line": 225
+    },
+    {
+      "type": "paragraph",
+      "content": "served as a positive control to demonstrate the importance of a non-resisted insecticide in the dura...",
+      "line": 227
+    },
+    {
+      "type": "paragraph",
+      "content": "deploy pyrethroid IRS together with LLINs in the hope of improving transmission control. The perform...",
+      "line": 229
+    },
+    {
+      "type": "paragraph",
+      "content": "The frequency of the kdr (L1014F) mutation in An gambiae in Vallee du Kou 5 as observed in the curre...",
+      "line": 231
+    },
+    {
+      "type": "figure",
+      "content": "Figure 1. Mortality and bloodfeeding rates of pyrethroid resistant An gambiae in experimental huts with single interventions. Percentage mortality (dark shade) and bloodfeeding (lighter shade) of pyrethroid resistant An gambiae in experimental huts in Valley du Kou with the indicated single treatments. P-methyl DL and NWH are compared to pyrethroid DL and an untreated control. For each response parameter (mortality or bloodfeeding), values for histograms sharing the same letter label are not significantly different (P.0.05). doi:10.1371/journal.pone.0083897.g001",
+      "line": 235
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 4. Personal protection and killing effect of combining p-methyl DL and NWH with LLINs against ...",
+      "line": 237
+    },
+    {
+      "type": "table",
+      "content": "|                              | Control<br>(untreated net) | LLIN | p-methyl DL | p-methyl<br>NWH | p-methyl DL+LLIN | p-methyl NWH+LLIN |\n|------------------------------|----------------------------|------|-------------|-----------------|------------------|-------------------|\n| Total females caught         | 81a                        | 42b  | 68ac        | 45bc            | 38b              | 46bc              |",
+      "line": 239
+    },
+    {
+      "type": "table",
+      "content": "|                              | Control<br>(untreated net) | LLIN | p-methyl DL | p-methyl<br>NWH | p-methyl DL+LLIN | p-methyl NWH+LLIN |\n|------------------------------|----------------------------|------|-------------|-----------------|------------------|-------------------|\n| Total females caught         | 81a                        | 42b  | 68ac        | 45bc            | 38b              | 46bc              |\n| Deterrence (%)               | -                          | 48   | 16          | 44              | 53               | 43                |",
+      "line": 240
+    },
+    {
+      "type": "table",
+      "content": "|                              | Control<br>(untreated net) | LLIN | p-methyl DL | p-methyl<br>NWH | p-methyl DL+LLIN | p-methyl NWH+LLIN |\n|------------------------------|----------------------------|------|-------------|-----------------|------------------|-------------------|\n| Total females caught         | 81a                        | 42b  | 68ac        | 45bc            | 38b              | 46bc              |\n| Deterrence (%)               | -                          | 48   | 16          | 44              | 53               | 43                |\n| Total females blood fed      | 64                         | 11   | 28          | 18              | 3                | 4                 |",
+      "line": 241
+    },
+    {
+      "type": "table",
+      "content": "|------------------------------|----------------------------|------|-------------|-----------------|------------------|-------------------|\n| Total females caught         | 81a                        | 42b  | 68ac        | 45bc            | 38b              | 46bc              |\n| Deterrence (%)               | -                          | 48   | 16          | 44              | 53               | 43                |\n| Total females blood fed      | 64                         | 11   | 28          | 18              | 3                | 4                 |\n| Blood feeding Inhibition (%) | -                          | 70   | 50          | 50              | 91               | 90                |",
+      "line": 242
+    },
+    {
+      "type": "table",
+      "content": "| Total females caught         | 81a                        | 42b  | 68ac        | 45bc            | 38b              | 46bc              |\n| Deterrence (%)               | -                          | 48   | 16          | 44              | 53               | 43                |\n| Total females blood fed      | 64                         | 11   | 28          | 18              | 3                | 4                 |\n| Blood feeding Inhibition (%) | -                          | 70   | 50          | 50              | 91               | 90                |\n| Personal Protection (%)      | -                          | 83   | 56          | 72              | 95               | 94                |",
+      "line": 243
+    },
+    {
+      "type": "table",
+      "content": "| Deterrence (%)               | -                          | 48   | 16          | 44              | 53               | 43                |\n| Total females blood fed      | 64                         | 11   | 28          | 18              | 3                | 4                 |\n| Blood feeding Inhibition (%) | -                          | 70   | 50          | 50              | 91               | 90                |\n| Personal Protection (%)      | -                          | 83   | 56          | 72              | 95               | 94                |\n| Total inside net (%)         | 36                         | 0    | -           | -               | 0                | 0                 |",
+      "line": 244
+    },
+    {
+      "type": "table",
+      "content": "| Total females blood fed      | 64                         | 11   | 28          | 18              | 3                | 4                 |\n| Blood feeding Inhibition (%) | -                          | 70   | 50          | 50              | 91               | 90                |\n| Personal Protection (%)      | -                          | 83   | 56          | 72              | 95               | 94                |\n| Total inside net (%)         | 36                         | 0    | -           | -               | 0                | 0                 |\n| Exiting rates (%)            | 33a                        | 57b  | 53b         | 43ab            | 40ab             | 54b               |",
+      "line": 245
+    },
+    {
+      "type": "table",
+      "content": "| Blood feeding Inhibition (%) | -                          | 70   | 50          | 50              | 91               | 90                |\n| Personal Protection (%)      | -                          | 83   | 56          | 72              | 95               | 94                |\n| Total inside net (%)         | 36                         | 0    | -           | -               | 0                | 0                 |\n| Exiting rates (%)            | 33a                        | 57b  | 53b         | 43ab            | 40ab             | 54b               |\n| Total dead                   | 12                         | 25   | 68          | 38              | 45               | 46                |",
+      "line": 246
+    },
+    {
+      "type": "table",
+      "content": "| Personal Protection (%)      | -                          | 83   | 56          | 72              | 95               | 94                |\n| Total inside net (%)         | 36                         | 0    | -           | -               | 0                | 0                 |\n| Exiting rates (%)            | 33a                        | 57b  | 53b         | 43ab            | 40ab             | 54b               |\n| Total dead                   | 12                         | 25   | 68          | 38              | 45               | 46                |\n| Corrected mortality          | 0a                         | 54b  | 100c        | 100c            | 100c             | 100c              |",
+      "line": 247
+    },
+    {
+      "type": "table",
+      "content": "| Total inside net (%)         | 36                         | 0    | -           | -               | 0                | 0                 |\n| Exiting rates (%)            | 33a                        | 57b  | 53b         | 43ab            | 40ab             | 54b               |\n| Total dead                   | 12                         | 25   | 68          | 38              | 45               | 46                |\n| Corrected mortality          | 0a                         | 54b  | 100c        | 100c            | 100c             | 100c              |\n| Overall killing effect (%)   | -                          | 19   | 81          | 48              | 38               | 49                |",
+      "line": 248
+    },
+    {
+      "type": "table",
+      "content": "| Exiting rates (%)            | 33a                        | 57b  | 53b         | 43ab            | 40ab             | 54b               |\n| Total dead                   | 12                         | 25   | 68          | 38              | 45               | 46                |\n| Corrected mortality          | 0a                         | 54b  | 100c        | 100c            | 100c             | 100c              |\n| Overall killing effect (%)   | -                          | 19   | 81          | 48              | 38               | 49                |",
+      "line": 249
+    },
+    {
+      "type": "table",
+      "content": "| Total dead                   | 12                         | 25   | 68          | 38              | 45               | 46                |\n| Corrected mortality          | 0a                         | 54b  | 100c        | 100c            | 100c             | 100c              |\n| Overall killing effect (%)   | -                          | 19   | 81          | 48              | 38               | 49                |",
+      "line": 250
+    },
+    {
+      "type": "paragraph",
+      "content": "Values along each row sharing the same letter superscript are not significantly different at the 5% ...",
+      "line": 252
+    },
+    {
+      "type": "paragraph",
+      "content": "for kdr with the treatments tested. Nevertheless there was some evidence that selection of heterozyg...",
+      "line": 254
+    },
+    {
+      "type": "paragraph",
+      "content": "metabolic mechanisms of insecticide resistance in the vector population which in addition to the kdr...",
+      "line": 256
+    },
+    {
+      "type": "figure",
+      "content": "Figure 2. Mortality and bloodfeeding rates of pyrethroid resistant An gambiae in experimental huts with combined interventions. Percentage mortality (dark shade) and bloodfeeding (lighter shade) of pyrethroid resistant An gambiae in experimental huts in Valley du Kou with the combined p-methyl wall treatment+LLINs versus single treatments alone. For each response parameter (mortality or bloodfeeding), values for histograms sharing the same letter label are not significantly different (P.0.05). doi:10.1371/journal.pone.0083897.g002",
+      "line": 260
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 5. Personal protection and killing effect of combining p-methyl DL vs pyrethroid DL with LLINs...",
+      "line": 262
+    },
+    {
+      "type": "table",
+      "content": "|                              | Control | LLIN | pyrethroid DL+LLIN | p-methyl DL+LLIN |\n|------------------------------|---------|------|--------------------|------------------|\n| Total females caught         | 255a    | 72bc | 67b                | 96c              |",
+      "line": 264
+    },
+    {
+      "type": "table",
+      "content": "|                              | Control | LLIN | pyrethroid DL+LLIN | p-methyl DL+LLIN |\n|------------------------------|---------|------|--------------------|------------------|\n| Total females caught         | 255a    | 72bc | 67b                | 96c              |\n| Deterrence (%)               | -       | 72   | 74                 | 62               |",
+      "line": 265
+    },
+    {
+      "type": "table",
+      "content": "|                              | Control | LLIN | pyrethroid DL+LLIN | p-methyl DL+LLIN |\n|------------------------------|---------|------|--------------------|------------------|\n| Total females caught         | 255a    | 72bc | 67b                | 96c              |\n| Deterrence (%)               | -       | 72   | 74                 | 62               |\n| Total females blood fed      | 114     | 15   | 6                  | 11               |",
+      "line": 266
+    },
+    {
+      "type": "table",
+      "content": "|------------------------------|---------|------|--------------------|------------------|\n| Total females caught         | 255a    | 72bc | 67b                | 96c              |\n| Deterrence (%)               | -       | 72   | 74                 | 62               |\n| Total females blood fed      | 114     | 15   | 6                  | 11               |\n| Blood feeding Inhibition (%) | -       | 53   | 80                 | 74               |",
+      "line": 267
+    },
+    {
+      "type": "table",
+      "content": "| Total females caught         | 255a    | 72bc | 67b                | 96c              |\n| Deterrence (%)               | -       | 72   | 74                 | 62               |\n| Total females blood fed      | 114     | 15   | 6                  | 11               |\n| Blood feeding Inhibition (%) | -       | 53   | 80                 | 74               |\n| Personal protection (%)      | -       | 87   | 95                 | 90               |",
+      "line": 268
+    },
+    {
+      "type": "table",
+      "content": "| Deterrence (%)               | -       | 72   | 74                 | 62               |\n| Total females blood fed      | 114     | 15   | 6                  | 11               |\n| Blood feeding Inhibition (%) | -       | 53   | 80                 | 74               |\n| Personal protection (%)      | -       | 87   | 95                 | 90               |\n| Total inside net (%)         | 29      | 1    | 0                  | 2                |",
+      "line": 269
+    },
+    {
+      "type": "table",
+      "content": "| Total females blood fed      | 114     | 15   | 6                  | 11               |\n| Blood feeding Inhibition (%) | -       | 53   | 80                 | 74               |\n| Personal protection (%)      | -       | 87   | 95                 | 90               |\n| Total inside net (%)         | 29      | 1    | 0                  | 2                |\n| Exiting rates (%)            | 31a     | 63b  | 61b                | 45a              |",
+      "line": 270
+    },
+    {
+      "type": "table",
+      "content": "| Blood feeding Inhibition (%) | -       | 53   | 80                 | 74               |\n| Personal protection (%)      | -       | 87   | 95                 | 90               |\n| Total inside net (%)         | 29      | 1    | 0                  | 2                |\n| Exiting rates (%)            | 31a     | 63b  | 61b                | 45a              |\n| Total dead                   | 24      | 32   | 32                 | 94               |",
+      "line": 271
+    },
+    {
+      "type": "table",
+      "content": "| Personal protection (%)      | -       | 87   | 95                 | 90               |\n| Total inside net (%)         | 29      | 1    | 0                  | 2                |\n| Exiting rates (%)            | 31a     | 63b  | 61b                | 45a              |\n| Total dead                   | 24      | 32   | 32                 | 94               |\n| Corrected Mortality (%)      | 0a      | 39b  | 43b                | 98c              |",
+      "line": 272
+    },
+    {
+      "type": "table",
+      "content": "| Total inside net (%)         | 29      | 1    | 0                  | 2                |\n| Exiting rates (%)            | 31a     | 63b  | 61b                | 45a              |\n| Total dead                   | 24      | 32   | 32                 | 94               |\n| Corrected Mortality (%)      | 0a      | 39b  | 43b                | 98c              |\n| Overall killing effect (%)   | -       | 4    | 4                  | 32               |",
+      "line": 273
+    },
+    {
+      "type": "table",
+      "content": "| Exiting rates (%)            | 31a     | 63b  | 61b                | 45a              |\n| Total dead                   | 24      | 32   | 32                 | 94               |\n| Corrected Mortality (%)      | 0a      | 39b  | 43b                | 98c              |\n| Overall killing effect (%)   | -       | 4    | 4                  | 32               |",
+      "line": 274
+    },
+    {
+      "type": "table",
+      "content": "| Total dead                   | 24      | 32   | 32                 | 94               |\n| Corrected Mortality (%)      | 0a      | 39b  | 43b                | 98c              |\n| Overall killing effect (%)   | -       | 4    | 4                  | 32               |",
+      "line": 275
+    },
+    {
+      "type": "paragraph",
+      "content": "Values along each row sharing the same letter superscript are not significantly different at the 5% ...",
+      "line": 277
+    },
+    {
+      "type": "paragraph",
+      "content": "Residual activity with p-methyl treated DL and NWH declined over the course of the six weeks trials....",
+      "line": 279
+    },
+    {
+      "type": "paragraph",
+      "content": "Net wall hangings probably due to their light weight were much easier to hang on the walls than fixi...",
+      "line": 281
+    },
+    {
+      "type": "paragraph",
+      "content": "Pirimiphos methyl treated DL and NWH show potential to provide improved control of pyrethroid resist...",
+      "line": 285
+    },
+    {
+      "type": "figure",
+      "content": "Figure 3. Mortality and bloodfeeding rates of pyrethroid resistant An gambiae in experimental huts (third trial). Percentage mortality (dark shade) and bloodfeeding (lighter shade) of pyrethroid resistant An gambiae in experimental huts in Valley du Kou with combination of p-methyl DL and LLIN versus combination of pyrethroid DL+LLIN. For each response parameter (mortality or bloodfeeding), values for histograms sharing the same letter label are not significantly different (P.0.05). doi:10.1371/journal.pone.0083897.g003",
+      "line": 289
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 6. Comparative kdr and ace 1<sup>R</sup> allele frequencies in live and dead An gambiae ss col...",
+      "line": 291
+    },
+    {
+      "type": "table",
+      "content": "|                             |                                  | Kdr allele freq (n) |           |      | ace 1R allele freq (n) |           |      |\n|-----------------------------|----------------------------------|---------------------|-----------|------|------------------------|-----------|------|\n| Treatments                  |                                  | Live                | Dead      | P    | Live                   | Dead      | P    |",
+      "line": 293
+    },
+    {
+      "type": "table",
+      "content": "|                             |                                  | Kdr allele freq (n) |           |      | ace 1R allele freq (n) |           |      |\n|-----------------------------|----------------------------------|---------------------|-----------|------|------------------------|-----------|------|\n| Treatments                  |                                  | Live                | Dead      | P    | Live                   | Dead      | P    |\n| Single intervention trial   |                                  |                     |           |      |                        |           |      |",
+      "line": 294
+    },
+    {
+      "type": "table",
+      "content": "|                             |                                  | Kdr allele freq (n) |           |      | ace 1R allele freq (n) |           |      |\n|-----------------------------|----------------------------------|---------------------|-----------|------|------------------------|-----------|------|\n| Treatments                  |                                  | Live                | Dead      | P    | Live                   | Dead      | P    |\n| Single intervention trial   |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.95 (140)          | –         | –    | 0.01 (97)              | –         | –    |",
+      "line": 295
+    },
+    {
+      "type": "table",
+      "content": "|-----------------------------|----------------------------------|---------------------|-----------|------|------------------------|-----------|------|\n| Treatments                  |                                  | Live                | Dead      | P    | Live                   | Dead      | P    |\n| Single intervention trial   |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.95 (140)          | –         | –    | 0.01 (97)              | –         | –    |\n| 2                           | Pyrethroid DL                    | 0.91 (51)           | 0.90 (51) | 1    | –                      | –         | –    |",
+      "line": 296
+    },
+    {
+      "type": "table",
+      "content": "| Treatments                  |                                  | Live                | Dead      | P    | Live                   | Dead      | P    |\n| Single intervention trial   |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.95 (140)          | –         | –    | 0.01 (97)              | –         | –    |\n| 2                           | Pyrethroid DL                    | 0.91 (51)           | 0.90 (51) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL (walls only)         | 1.0 (9)             | 0.97 (58) | 1    | 0.05 (21)              | 0.00 (28) | 0.18 |",
+      "line": 297
+    },
+    {
+      "type": "table",
+      "content": "| Single intervention trial   |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.95 (140)          | –         | –    | 0.01 (97)              | –         | –    |\n| 2                           | Pyrethroid DL                    | 0.91 (51)           | 0.90 (51) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL (walls only)         | 1.0 (9)             | 0.97 (58) | 1    | 0.05 (21)              | 0.00 (28) | 0.18 |\n| 4                           | P-methyl NWH (walls only)        | 1.0 (18)            | 0.95 (58) | 0.34 | 0.00 (36)              | 0.00 (60) | 1    |",
+      "line": 298
+    },
+    {
+      "type": "table",
+      "content": "| 1                           | Control (untreated DL)           | 0.95 (140)          | –         | –    | 0.01 (97)              | –         | –    |\n| 2                           | Pyrethroid DL                    | 0.91 (51)           | 0.90 (51) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL (walls only)         | 1.0 (9)             | 0.97 (58) | 1    | 0.05 (21)              | 0.00 (28) | 0.18 |\n| 4                           | P-methyl NWH (walls only)        | 1.0 (18)            | 0.95 (58) | 0.34 | 0.00 (36)              | 0.00 (60) | 1    |\n| 5                           | P-methyl DL (walls and ceiling)  | 1.0 (18)            | 0.94 (61) | 0.35 | 0.07 (28)              | 0.00 (64) | 0.01 |",
+      "line": 299
+    },
+    {
+      "type": "table",
+      "content": "| 2                           | Pyrethroid DL                    | 0.91 (51)           | 0.90 (51) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL (walls only)         | 1.0 (9)             | 0.97 (58) | 1    | 0.05 (21)              | 0.00 (28) | 0.18 |\n| 4                           | P-methyl NWH (walls only)        | 1.0 (18)            | 0.95 (58) | 0.34 | 0.00 (36)              | 0.00 (60) | 1    |\n| 5                           | P-methyl DL (walls and ceiling)  | 1.0 (18)            | 0.94 (61) | 0.35 | 0.07 (28)              | 0.00 (64) | 0.01 |\n| 6                           | P-methyl NWH (walls and ceiling) | 1.0 (3)             | 0.96 (68) | 1    | 0.05 (29)              | 0.00 (66) | 0.03 |",
+      "line": 300
+    },
+    {
+      "type": "table",
+      "content": "| 3                           | P-methyl DL (walls only)         | 1.0 (9)             | 0.97 (58) | 1    | 0.05 (21)              | 0.00 (28) | 0.18 |\n| 4                           | P-methyl NWH (walls only)        | 1.0 (18)            | 0.95 (58) | 0.34 | 0.00 (36)              | 0.00 (60) | 1    |\n| 5                           | P-methyl DL (walls and ceiling)  | 1.0 (18)            | 0.94 (61) | 0.35 | 0.07 (28)              | 0.00 (64) | 0.01 |\n| 6                           | P-methyl NWH (walls and ceiling) | 1.0 (3)             | 0.96 (68) | 1    | 0.05 (29)              | 0.00 (66) | 0.03 |\n| Combined intervention trial |                                  |                     |           |      |                        |           |      |",
+      "line": 301
+    },
+    {
+      "type": "table",
+      "content": "| 4                           | P-methyl NWH (walls only)        | 1.0 (18)            | 0.95 (58) | 0.34 | 0.00 (36)              | 0.00 (60) | 1    |\n| 5                           | P-methyl DL (walls and ceiling)  | 1.0 (18)            | 0.94 (61) | 0.35 | 0.07 (28)              | 0.00 (64) | 0.01 |\n| 6                           | P-methyl NWH (walls and ceiling) | 1.0 (3)             | 0.96 (68) | 1    | 0.05 (29)              | 0.00 (66) | 0.03 |\n| Combined intervention trial |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.87 (63)           | –         | –    | 0.04 (81)              | –         | –    |",
+      "line": 302
+    },
+    {
+      "type": "table",
+      "content": "| 5                           | P-methyl DL (walls and ceiling)  | 1.0 (18)            | 0.94 (61) | 0.35 | 0.07 (28)              | 0.00 (64) | 0.01 |\n| 6                           | P-methyl NWH (walls and ceiling) | 1.0 (3)             | 0.96 (68) | 1    | 0.05 (29)              | 0.00 (66) | 0.03 |\n| Combined intervention trial |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.87 (63)           | –         | –    | 0.04 (81)              | –         | –    |\n| 2                           | LLIN                             | 0.83 (9)            | 0.85 (27) | 1    | –                      | –         | –    |",
+      "line": 303
+    },
+    {
+      "type": "table",
+      "content": "| 6                           | P-methyl NWH (walls and ceiling) | 1.0 (3)             | 0.96 (68) | 1    | 0.05 (29)              | 0.00 (66) | 0.03 |\n| Combined intervention trial |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.87 (63)           | –         | –    | 0.04 (81)              | –         | –    |\n| 2                           | LLIN                             | 0.83 (9)            | 0.85 (27) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL*                     | –                   | 0.82 (31) | –    | –                      | 0.02 (34) | –    |",
+      "line": 304
+    },
+    {
+      "type": "table",
+      "content": "| Combined intervention trial |                                  |                     |           |      |                        |           |      |\n| 1                           | Control (untreated DL)           | 0.87 (63)           | –         | –    | 0.04 (81)              | –         | –    |\n| 2                           | LLIN                             | 0.83 (9)            | 0.85 (27) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL*                     | –                   | 0.82 (31) | –    | –                      | 0.02 (34) | –    |\n| 4                           | P-methyl NWH*                    | –                   | 0.84 (19) | –    | –                      | 0.02 (31) | –    |",
+      "line": 305
+    },
+    {
+      "type": "table",
+      "content": "| 1                           | Control (untreated DL)           | 0.87 (63)           | –         | –    | 0.04 (81)              | –         | –    |\n| 2                           | LLIN                             | 0.83 (9)            | 0.85 (27) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL*                     | –                   | 0.82 (31) | –    | –                      | 0.02 (34) | –    |\n| 4                           | P-methyl NWH*                    | –                   | 0.84 (19) | –    | –                      | 0.02 (31) | –    |\n| 5                           | P-methyl DL+LLIN*                | –                   | 0.87 (23) | –    | –                      | 0.00 (42) | –    |",
+      "line": 306
+    },
+    {
+      "type": "table",
+      "content": "| 2                           | LLIN                             | 0.83 (9)            | 0.85 (27) | 1    | –                      | –         | –    |\n| 3                           | P-methyl DL*                     | –                   | 0.82 (31) | –    | –                      | 0.02 (34) | –    |\n| 4                           | P-methyl NWH*                    | –                   | 0.84 (19) | –    | –                      | 0.02 (31) | –    |\n| 5                           | P-methyl DL+LLIN*                | –                   | 0.87 (23) | –    | –                      | 0.00 (42) | –    |\n| 6                           | P-methyl NWH+LLIN*               | –                   | 0.94 (25) | –    | –                      | 0.07 (40) | –    |",
+      "line": 307
+    },
+    {
+      "type": "table",
+      "content": "| 3                           | P-methyl DL*                     | –                   | 0.82 (31) | –    | –                      | 0.02 (34) | –    |\n| 4                           | P-methyl NWH*                    | –                   | 0.84 (19) | –    | –                      | 0.02 (31) | –    |\n| 5                           | P-methyl DL+LLIN*                | –                   | 0.87 (23) | –    | –                      | 0.00 (42) | –    |\n| 6                           | P-methyl NWH+LLIN*               | –                   | 0.94 (25) | –    | –                      | 0.07 (40) | –    |",
+      "line": 308
+    },
+    {
+      "type": "table",
+      "content": "| 4                           | P-methyl NWH*                    | –                   | 0.84 (19) | –    | –                      | 0.02 (31) | –    |\n| 5                           | P-methyl DL+LLIN*                | –                   | 0.87 (23) | –    | –                      | 0.00 (42) | –    |\n| 6                           | P-methyl NWH+LLIN*               | –                   | 0.94 (25) | –    | –                      | 0.07 (40) | –    |",
+      "line": 309
+    },
+    {
+      "type": "paragraph",
+      "content": "\\*no live mosquitoes were collected from huts with these treatments....",
+      "line": 311
+    },
+    {
+      "type": "paragraph",
+      "content": "compared to currently available pyrethroid DL or IRS. Combining p-methyl DL/NWH with LLINs provides ...",
+      "line": 315
+    },
+    {
+      "type": "paragraph",
+      "content": "We thank Andy Bywater of Syngenta for providing the insecticide. We are grateful to Nestor Kesse and...",
+      "line": 319
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 7. Genotype selection by the single and combination treatments: percentage survival of An gamb...",
+      "line": 321
+    },
+    {
+      "type": "table",
+      "content": "|            |                                  | kdr: % alive (live/total) | ace-1R : % alive (live/total) |               |            |           |    |\n|------------|----------------------------------|---------------------------|-------------------------------|---------------|------------|-----------|----|\n| Treatments |                                  | SS                        | RS                            | RR            | SS         | RS        | RR |",
+      "line": 323
+    },
+    {
+      "type": "table",
+      "content": "|            |                                  | kdr: % alive (live/total) | ace-1R : % alive (live/total) |               |            |           |    |\n|------------|----------------------------------|---------------------------|-------------------------------|---------------|------------|-----------|----|\n| Treatments |                                  | SS                        | RS                            | RR            | SS         | RS        | RR |\n|            | Single intervention trial        |                           |                               |               |            |           |    |",
+      "line": 324
+    },
+    {
+      "type": "table",
+      "content": "|            |                                  | kdr: % alive (live/total) | ace-1R : % alive (live/total) |               |            |           |    |\n|------------|----------------------------------|---------------------------|-------------------------------|---------------|------------|-----------|----|\n| Treatments |                                  | SS                        | RS                            | RR            | SS         | RS        | RR |\n|            | Single intervention trial        |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | -                         | 100 (11/11)                   | 100 (129/129) | 100(96/96) | 100(1/1)  | -  |",
+      "line": 325
+    },
+    {
+      "type": "table",
+      "content": "|------------|----------------------------------|---------------------------|-------------------------------|---------------|------------|-----------|----|\n| Treatments |                                  | SS                        | RS                            | RR            | SS         | RS        | RR |\n|            | Single intervention trial        |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | -                         | 100 (11/11)                   | 100 (129/129) | 100(96/96) | 100(1/1)  | -  |\n| 2          | Pyrethroid DL                    | -                         | 47 (7/15)                     | 52 (44/85)    | -          | -         | -  |",
+      "line": 326
+    },
+    {
+      "type": "table",
+      "content": "| Treatments |                                  | SS                        | RS                            | RR            | SS         | RS        | RR |\n|            | Single intervention trial        |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | -                         | 100 (11/11)                   | 100 (129/129) | 100(96/96) | 100(1/1)  | -  |\n| 2          | Pyrethroid DL                    | -                         | 47 (7/15)                     | 52 (44/85)    | -          | -         | -  |\n| 3          | P-methyl DL (walls only)         | -                         | 0 (0/4)                       | 14 (9/63)     | 40 (19/47) | 100 (2/2) | -  |",
+      "line": 327
+    },
+    {
+      "type": "table",
+      "content": "|            | Single intervention trial        |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | -                         | 100 (11/11)                   | 100 (129/129) | 100(96/96) | 100(1/1)  | -  |\n| 2          | Pyrethroid DL                    | -                         | 47 (7/15)                     | 52 (44/85)    | -          | -         | -  |\n| 3          | P-methyl DL (walls only)         | -                         | 0 (0/4)                       | 14 (9/63)     | 40 (19/47) | 100 (2/2) | -  |\n| 4          | P-methyl NWH (walls only)        | -                         | 0 (0/6)                       | 25 (18/70)    | 37 (36/96) | -         | -  |",
+      "line": 328
+    },
+    {
+      "type": "table",
+      "content": "| 1          | Control (untreated DL)           | -                         | 100 (11/11)                   | 100 (129/129) | 100(96/96) | 100(1/1)  | -  |\n| 2          | Pyrethroid DL                    | -                         | 47 (7/15)                     | 52 (44/85)    | -          | -         | -  |\n| 3          | P-methyl DL (walls only)         | -                         | 0 (0/4)                       | 14 (9/63)     | 40 (19/47) | 100 (2/2) | -  |\n| 4          | P-methyl NWH (walls only)        | -                         | 0 (0/6)                       | 25 (18/70)    | 37 (36/96) | -         | -  |\n| 5          | P-methyl DL (walls and ceiling)  | -                         | 0 (0/7)                       | 22 (18/82)    | 27 (24/88) | 100 (4/4) | -  |",
+      "line": 329
+    },
+    {
+      "type": "table",
+      "content": "| 2          | Pyrethroid DL                    | -                         | 47 (7/15)                     | 52 (44/85)    | -          | -         | -  |\n| 3          | P-methyl DL (walls only)         | -                         | 0 (0/4)                       | 14 (9/63)     | 40 (19/47) | 100 (2/2) | -  |\n| 4          | P-methyl NWH (walls only)        | -                         | 0 (0/6)                       | 25 (18/70)    | 37 (36/96) | -         | -  |\n| 5          | P-methyl DL (walls and ceiling)  | -                         | 0 (0/7)                       | 22 (18/82)    | 27 (24/88) | 100 (4/4) | -  |\n| 6          | P-methyl NWH (walls and ceiling) | -                         | 0 (0/6)                       | 5 (3/62)      | 28 (26/92) | 100 (3/3) | -  |",
+      "line": 330
+    },
+    {
+      "type": "table",
+      "content": "| 3          | P-methyl DL (walls only)         | -                         | 0 (0/4)                       | 14 (9/63)     | 40 (19/47) | 100 (2/2) | -  |\n| 4          | P-methyl NWH (walls only)        | -                         | 0 (0/6)                       | 25 (18/70)    | 37 (36/96) | -         | -  |\n| 5          | P-methyl DL (walls and ceiling)  | -                         | 0 (0/7)                       | 22 (18/82)    | 27 (24/88) | 100 (4/4) | -  |\n| 6          | P-methyl NWH (walls and ceiling) | -                         | 0 (0/6)                       | 5 (3/62)      | 28 (26/92) | 100 (3/3) | -  |\n|            | Combined intervention trial      |                           |                               |               |            |           |    |",
+      "line": 331
+    },
+    {
+      "type": "table",
+      "content": "| 4          | P-methyl NWH (walls only)        | -                         | 0 (0/6)                       | 25 (18/70)    | 37 (36/96) | -         | -  |\n| 5          | P-methyl DL (walls and ceiling)  | -                         | 0 (0/7)                       | 22 (18/82)    | 27 (24/88) | 100 (4/4) | -  |\n| 6          | P-methyl NWH (walls and ceiling) | -                         | 0 (0/6)                       | 5 (3/62)      | 28 (26/92) | 100 (3/3) | -  |\n|            | Combined intervention trial      |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | 100 (2/2)                 | 100 (13/13)                   | 100 (48/48)   | 100(75/75) | 100(6/6)  | -  |",
+      "line": 332
+    },
+    {
+      "type": "table",
+      "content": "| 5          | P-methyl DL (walls and ceiling)  | -                         | 0 (0/7)                       | 22 (18/82)    | 27 (24/88) | 100 (4/4) | -  |\n| 6          | P-methyl NWH (walls and ceiling) | -                         | 0 (0/6)                       | 5 (3/62)      | 28 (26/92) | 100 (3/3) | -  |\n|            | Combined intervention trial      |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | 100 (2/2)                 | 100 (13/13)                   | 100 (48/48)   | 100(75/75) | 100(6/6)  | -  |\n| 2          | LLIN                             | 0(0/1)                    | 33 (3/9)                      | 23 (6/26)     | -          | -         | -  |",
+      "line": 333
+    },
+    {
+      "type": "table",
+      "content": "| 6          | P-methyl NWH (walls and ceiling) | -                         | 0 (0/6)                       | 5 (3/62)      | 28 (26/92) | 100 (3/3) | -  |\n|            | Combined intervention trial      |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | 100 (2/2)                 | 100 (13/13)                   | 100 (48/48)   | 100(75/75) | 100(6/6)  | -  |\n| 2          | LLIN                             | 0(0/1)                    | 33 (3/9)                      | 23 (6/26)     | -          | -         | -  |\n| 3          | P-methyl DL*                     | 0 (0/3)                   | 0 (0/5)                       | 0 (0/23)      | 0 (0/33)   | 0 (0/1)   | -  |",
+      "line": 334
+    },
+    {
+      "type": "table",
+      "content": "|            | Combined intervention trial      |                           |                               |               |            |           |    |\n| 1          | Control (untreated DL)           | 100 (2/2)                 | 100 (13/13)                   | 100 (48/48)   | 100(75/75) | 100(6/6)  | -  |\n| 2          | LLIN                             | 0(0/1)                    | 33 (3/9)                      | 23 (6/26)     | -          | -         | -  |\n| 3          | P-methyl DL*                     | 0 (0/3)                   | 0 (0/5)                       | 0 (0/23)      | 0 (0/33)   | 0 (0/1)   | -  |\n| 4          | P-methyl NWH*                    | 0 (0/2)                   | 0 (0/2)                       | 0 (0/15)      | 0 (0/30)   | 0 (0/1)   | -  |",
+      "line": 335
+    },
+    {
+      "type": "table",
+      "content": "| 1          | Control (untreated DL)           | 100 (2/2)                 | 100 (13/13)                   | 100 (48/48)   | 100(75/75) | 100(6/6)  | -  |\n| 2          | LLIN                             | 0(0/1)                    | 33 (3/9)                      | 23 (6/26)     | -          | -         | -  |\n| 3          | P-methyl DL*                     | 0 (0/3)                   | 0 (0/5)                       | 0 (0/23)      | 0 (0/33)   | 0 (0/1)   | -  |\n| 4          | P-methyl NWH*                    | 0 (0/2)                   | 0 (0/2)                       | 0 (0/15)      | 0 (0/30)   | 0 (0/1)   | -  |\n| 5          | P-methyl DL+LLIN*                | 0 (0/1)                   | 0 (0/4)                       | 0 (0/18)      | 0 (0/42)   | -         | -  |",
+      "line": 336
+    },
+    {
+      "type": "table",
+      "content": "| 2          | LLIN                             | 0(0/1)                    | 33 (3/9)                      | 23 (6/26)     | -          | -         | -  |\n| 3          | P-methyl DL*                     | 0 (0/3)                   | 0 (0/5)                       | 0 (0/23)      | 0 (0/33)   | 0 (0/1)   | -  |\n| 4          | P-methyl NWH*                    | 0 (0/2)                   | 0 (0/2)                       | 0 (0/15)      | 0 (0/30)   | 0 (0/1)   | -  |\n| 5          | P-methyl DL+LLIN*                | 0 (0/1)                   | 0 (0/4)                       | 0 (0/18)      | 0 (0/42)   | -         | -  |\n| 6          | P-methyl NWH+LLIN*               | -                         | 0 (0/3)                       | 0 (0/22)      | 0 (0/35)   | 0 (0/5)   | -  |",
+      "line": 337
+    },
+    {
+      "type": "table",
+      "content": "| 3          | P-methyl DL*                     | 0 (0/3)                   | 0 (0/5)                       | 0 (0/23)      | 0 (0/33)   | 0 (0/1)   | -  |\n| 4          | P-methyl NWH*                    | 0 (0/2)                   | 0 (0/2)                       | 0 (0/15)      | 0 (0/30)   | 0 (0/1)   | -  |\n| 5          | P-methyl DL+LLIN*                | 0 (0/1)                   | 0 (0/4)                       | 0 (0/18)      | 0 (0/42)   | -         | -  |\n| 6          | P-methyl NWH+LLIN*               | -                         | 0 (0/3)                       | 0 (0/22)      | 0 (0/35)   | 0 (0/5)   | -  |",
+      "line": 338
+    },
+    {
+      "type": "table",
+      "content": "| 4          | P-methyl NWH*                    | 0 (0/2)                   | 0 (0/2)                       | 0 (0/15)      | 0 (0/30)   | 0 (0/1)   | -  |\n| 5          | P-methyl DL+LLIN*                | 0 (0/1)                   | 0 (0/4)                       | 0 (0/18)      | 0 (0/42)   | -         | -  |\n| 6          | P-methyl NWH+LLIN*               | -                         | 0 (0/3)                       | 0 (0/22)      | 0 (0/35)   | 0 (0/5)   | -  |",
+      "line": 339
+    },
+    {
+      "type": "equation",
+      "content": "\\*no live mosquitoes were collected from huts with these treatments, SS = Homozygous susceptible, RS = Heterozygous, RR = Homozygous resistant. doi:10.1371/journal.pone.0083897.t007",
+      "line": 341
+    },
+    {
+      "type": "paragraph",
+      "content": "Dr Christopher Jones (LSTM) and Dr Raphael N'Guessan (LSHTM/ CREC) for their support and encourageme...",
+      "line": 343
+    },
+    {
+      "type": "reference",
+      "content": "- 1. World Health Organisation (2011) World malaria report: 2011. WHO website. Available: http://www.who.int/malaria/world\\_malaria\\_report\\_2011/en/ World Malaria Report 2011. Accessed 2013 Oct 28.",
+      "line": 347
+    },
+    {
+      "type": "reference",
+      "content": "- 2. Sharma S, Upadhyay A, Haque M, Tyagi P, Mohanty S, et al. (2009) Field evaluation of ZeroFlyH - an insecticide incorporated plastic sheeting against malaria vectors and its impact on malaria transmission in tribal areas of northern Orissa. Indian J Med Res 130: 458–466.",
+      "line": 348
+    },
+    {
+      "type": "reference",
+      "content": "- 3. Messenger L, Matias A, Manana AN, Stiles-Ocran JB, Knowles S BD, et al. (2012) Multicentre studies of insecticide-treated durable wall lining in Africa and South-East Asia: entomological efficacy and household acceptability during one year of field use. Malar J 11: 358.",
+      "line": 349
+    },
+    {
+      "type": "reference",
+      "content": "- 4. Ranson H, N'guessan R, Lines J, Moiroux N, Nkuni Z, et al. (2011) Pyrethroid resistance in African anopheline mosquitoes: what are the implications for malaria control?. Trends Parasitol 27: 91–98.",
+      "line": 350
+    },
+    {
+      "type": "reference",
+      "content": "- 5. World Health Organization (2012) World Malaria Report: 2012. WHO website. Available:http://www.who.int/malaria/publications/world\\_malaria\\_report\\_ 2012/wmr2012\\_no\\_profiles.pdf. Accessed 2013 Oct 28.",
+      "line": 351
+    },
+    {
+      "type": "reference",
+      "content": "- 6. Chandre F, Dabire RK, Hougard JM, Djogbenou LS, Irish SR, et al. (2010) Field efficacy of pyrethroid treated plastic sheeting (durable lining) in combination with long lasting insecticidal nets against malaria vectors. Parasit Vectors 3: 65.",
+      "line": 352
+    },
+    {
+      "type": "reference",
+      "content": "- 7. Diabate A, Chandre F, Rowland M, N'guessan R, Duchon SK, et al. (2006) The indoor use of plastic sheeting pre-impregnated with insecticide for control of malaria vectors. Trop Med Int Health 11: 597–603.",
+      "line": 353
+    },
+    {
+      "type": "reference",
+      "content": "- 8. N'Guessan R, Corbel V, Akogbeto M, Rowland M (2007) Reduced efficacy of insecticide-treated nets and indoor residual spraying for malaria control in pyrethroid resistance area, Benin. Emerg Infect Dis 13: 199–206.",
+      "line": 354
+    },
+    {
+      "type": "reference",
+      "content": "- 9. World Health Organisation (2010) The technical basis for coordinated action against insecticide resistance: preserving the effectiveness of modern malaria vector control. World Health Organisation. Global Malaria Programme, Meeting report. http://whqlibdoc.who.int/publications/2011/97892415010 95\\_eng.pdf Accessed 2013 Oct 28.",
+      "line": 355
+    },
+    {
+      "type": "reference",
+      "content": "- 10. Rowland M, Boko P, Odjo A, Asidi A, Akogbeto M, et al. (2013) A New Long-Lasting Indoor Residual Formulation of the Organophosphate Insecticide Pirimiphos Methyl for Prolonged Control of Pyrethroid-Resistant Mosquitoes: An Experimental Hut Trial in Benin. 8(7): PLoS ONE 8: e69516.",
+      "line": 356
+    },
+    {
+      "type": "reference",
+      "content": "- 11. Vanlerberghe V, Villegas E, Oviedo M, Baly A, Lenhart A, et al. (2011) Evaluation of the effectiveness of insecticide treated materials for household level dengue vector control. PLoS Negl Trop Dis 5: e994.",
+      "line": 357
+    },
+    {
+      "type": "reference",
+      "content": "- 12. Vanlerberghe V, Trongtokit Y, Cremonini L, Jirarojwatana S, Apiwathnasorn C, et al. (2010) Residual insecticidal activity of long-lasting deltamethrin-treated curtains after 1 year of household use for dengue control. Trop Med Int Health 15 (9): 1067–1071.",
+      "line": 358
+    },
+    {
+      "type": "reference",
+      "content": "- 13. Ranson H, Abdallah H, Badolo A, Guelbeogo WM, Kerah-Hinzoumbe C, et al. (2009) Insecticide resistance in Anopheles gambiae: data from the first year of a multi-country study highlight the extent of the problem. Malar J 8: 299.",
+      "line": 359
+    },
+    {
+      "type": "reference",
+      "content": "- 14. Sharp BL, Ridl FC, Govender D, Kuklinski J, Kleinschmidt I (2007) Malaria vector control by indoor residual insecticide spraying on the tropical island of Bioko, Equatorial Guinea. Malar J 6: 52.",
+      "line": 360
+    },
+    {
+      "type": "reference",
+      "content": "- 15. Hargreaves K, Koekemoer LL, Brooke BD, Hunt RH, Mthembu J, et al. (2000) Anopheles funestus resistant to pyrethroid insecticides in South Africa. Med Vet Entomol 14: 181–189.",
+      "line": 361
+    },
+    {
+      "type": "reference",
+      "content": "- 16. Asidi A, N'Guessan R, Akogbeto M, Curtis C, Rowland M (2012) Loss of household protection from use of insecticide-treated nets against pyrethroidresistant mosquitoes, Benin. Emerg Infect Dis 18: 7, 10.3201/eid1807.120218.",
+      "line": 362
+    },
+    {
+      "type": "paragraph",
+      "content": "Conceived and designed the experiments: CN HR MR. Performed the experiments: CN ET BK. Analyzed the ...",
+      "line": 366
+    },
+    {
+      "type": "reference",
+      "content": "- 17. World Health Organisation (2012) Global Plan for Insecticide Resistance Management (GPIRM). WHO website. Available: http://apps.who.int/iris/ bitstream/10665/44846/1/9789241564472\\_eng.pdf Accessed 2013 Oct 28.",
+      "line": 368
+    },
+    {
+      "type": "reference",
+      "content": "- 18. Dje`nontin A, Chandre F, Dabire´ KR, Chabi J, N'Guessan R, et al. (2010) Indoor Use of Plastic Sheeting Impregnated with Carbamate Combined with Long-Lasting Insecticidal Mosquito Nets for the Control of Pyrethroid-Resistant Malaria Vectors. Am J Trop Med Hyg 83: 266–270.",
+      "line": 369
+    },
+    {
+      "type": "reference",
+      "content": "- 19. Ngufor C, N'Guessan R, Boko P, Odjo A, Vigninou E, et al. (2011) Combining indoor residual spraying with chlorfenapyr and long-lasting insecticidal bed nets for improved control of pyrethroid-resistant Anopheles gambiae: an experimental hut trial in Benin. Malar J 10: 343.",
+      "line": 370
+    },
+    {
+      "type": "reference",
+      "content": "- 20. Denholm I, Rowland MW (1992) Tactics for managing pesticide resistance in arthropods: theory and practice. Annu Rev Entomol 37: 91–112.",
+      "line": 371
+    },
+    {
+      "type": "reference",
+      "content": "- 21. Dabire´ KR, Diabate´ A, Djogbenou L, Ouari A, N'Guessan R, et al. (2008) Dynamics of multiple insecticide resistance in the malaria vector Anopheles gambiae in a rice growing area in South-Western Burkina Faso. Malar J 7: 188.",
+      "line": 372
+    },
+    {
+      "type": "reference",
+      "content": "- 22. World Health Organistion (2006) Guidelines for testing mosquito adulticides for indoor residual spraying and mosquito net treatment. Geneva, Switzerland. World Health Organisation WHO/CDS/NTD/WHOPES/GCDPP/2006.3.",
+      "line": 373
+    },
+    {
+      "type": "reference",
+      "content": "- 23. Livak KJ (1984) Organization and mapping of a sequence on the Drosophila melanogaster X and Y chromosomes that is transcribed during spermatogenesis. Genetics 107: 611–634.",
+      "line": 374
+    },
+    {
+      "type": "reference",
+      "content": "- 24. Bass C, Nikou D, Donnelly MJ, Williamson MS, Ranson H, et al. (2007) Detection of knockdown resistance (kdr) mutations in Anopheles gambiae: a comparison of two new high-throughput assays with existing methods. Malar J 6:111.",
+      "line": 375
+    },
+    {
+      "type": "reference",
+      "content": "- 25. Agresti A (1996) An Introduction to Categorical Data Analysis. New York, Wiley.",
+      "line": 376
+    },
+    {
+      "type": "reference",
+      "content": "- 26. R Foundation for Statistical Computing (2011) R: A language and environment for statistical computing. Vienna: Austria.",
+      "line": 377
+    },
+    {
+      "type": "reference",
+      "content": "- 27. Yakob L, Dunning R, Yan G (2011) Indoor residual spray and insecticidetreated bednets for malaria control: theoretical synergisms and antagonisms. J R Soc Interface 8: 799–806.",
+      "line": 378
+    },
+    {
+      "type": "reference",
+      "content": "- 28. Dabire KR, Diabate A, Namountougou M, Toe KH, Ouari A, et al. (2009) Distribution of pyrethroid and DDT resistance and the L1014F kdr mutation in Anopheles gambiae s.l. from Burkina Faso (West Africa). Trans R Soc Trop Med Hyg 103: 1113–1120.",
+      "line": 379
+    },
+    {
+      "type": "reference",
+      "content": "- 29. Roush RT (1993) Occurrence, genetics and management of insecticide resistance. Parasitol Today 9: 174–179.",
+      "line": 380
+    },
+    {
+      "type": "reference",
+      "content": "- 30. IRAC (2010) Prevention and Management of Insecticide Resistance. In: Vectors of Public Health Importance. Insecticide Resistance Action Committee (IRAC), 2nd ed. 2010. IRAC Website. Available: http://www.irac-online.org/resources-2/document-library/. Accessed 2013 July 31.",
+      "line": 381
+    },
+    {
+      "type": "reference",
+      "content": "- 31. Edi CVA, Koudou BG, Jones CM, Weetman D, Ranson H (2012) Multiple-Insecticide Resistance in Anopheles gambiae Mosquitoes, Southern Coˆte d'Ivoire. Emerg Infect Dis 18: 10.3201/eid1809.120262.",
+      "line": 382
+    },
+    {
+      "type": "reference",
+      "content": "- 32. Djogbenou L, Pasteur N, Akogbeto M, Weill M, Chandre F (2011) Insecticide resistance in the Anopheles gambiae complex in Benin: a nationwide survey. Med Vet Entomol 25 (3): 256–267.",
+      "line": 383
+    },
+    {
+      "type": "reference",
+      "content": "- 33. Alou LPA, Koffi AA, Adja MA, Tia E, Kouassi PK, et al. (2010) Distribution of ace-1 R and resistance to carbamates and organophosphates in Anopheles gambiae s.s. populations from Coˆte d'Ivoire. Malar J 9:",
+      "line": 384
+    }
+  ],
+  "metadata": {
+    "total_sections": 0,
+    "total_paragraphs": 80,
+    "has_structured_content": false
+  }
+}

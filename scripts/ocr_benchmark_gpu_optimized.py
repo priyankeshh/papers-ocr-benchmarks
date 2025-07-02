@@ -1,5 +1,4 @@
 # OCR Benchmark for Scientific Literature - GPU Optimized Version
-# GSoC Project: Enhanced AI OCR Extraction Pipeline
 # Author: Priyankesh
 # 
 # This script compares 3 OCR systems with GPU acceleration when available
@@ -262,10 +261,13 @@ def run_gpu_optimized_benchmark():
     for pdf in pdf_files:
         print(f"  • {pdf.name}")
     
-    # Create output directory
+    # Create output directory in results folder
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_dir = Path(f"./output/gpu_benchmark_{timestamp}")
+    output_dir = Path(f"./results/gpu_benchmark_{timestamp}")
     output_dir.mkdir(parents=True, exist_ok=True)
+
+    # Also ensure main results directory exists
+    Path("./results").mkdir(exist_ok=True)
     
     # Log system information
     system_info_file = output_dir / 'system_info.txt'
@@ -414,10 +416,17 @@ if extractions:
     print("=" * 70)
     print(summary_df)
     
+    # Copy latest results to main results folder for easy access
+    import shutil
+    main_results_dir = Path("./results")
+    shutil.copy2(results_file, main_results_dir / "latest_benchmark_results.csv")
+    shutil.copy2(summary_file, main_results_dir / "latest_benchmark_summary.csv")
+
     print(f"\n💾 Files saved:")
     print(f"  📄 Detailed results: {results_file}")
     print(f"  📊 Summary: {summary_file}")
     print(f"  🖥️  System info: {output_dir / 'system_info.txt'}")
+    print(f"  📋 Latest results also copied to: ./results/latest_benchmark_*.csv")
 
 print("\n" + "="*70)
 print("🎯 GPU-OPTIMIZED BENCHMARK READY!")

@@ -1,0 +1,1434 @@
+{
+  "ocr_system": "Docling",
+  "format": "markdown_enhanced",
+  "timestamp": "2025-07-03T02:03:20.441688",
+  "document_elements": {
+    "title": null,
+    "authors": [],
+    "abstract": null,
+    "sections": [
+      {
+        "title": "RESEARCH",
+        "content": []
+      },
+      {
+        "title": "WHO cone bio-assays of classical and new-generation long-lasting insecticidal nets call for innovative insecticides targeting the knock-down resistance mechanism in Benin",
+        "content": []
+      },
+      {
+        "title": "Abstract",
+        "content": []
+      },
+      {
+        "title": "Background",
+        "content": []
+      },
+      {
+        "title": "Methods",
+        "content": []
+      },
+      {
+        "title": "Study design",
+        "content": []
+      },
+      {
+        "title": "Study sites",
+        "content": []
+      },
+      {
+        "title": "Malanville",
+        "content": []
+      },
+      {
+        "title": "Tanguieta",
+        "content": []
+      },
+      {
+        "title": "Abomey-Calavi",
+        "content": []
+      },
+      {
+        "title": "Cotonou",
+        "content": []
+      },
+      {
+        "title": "Porto-Novo",
+        "content": []
+      },
+      {
+        "title": "Parakou",
+        "content": []
+      },
+      {
+        "title": "Zangnanado",
+        "content": []
+      },
+      {
+        "title": "Larvae collection",
+        "content": []
+      },
+      {
+        "title": "Highlighting resistance mechanisms",
+        "content": []
+      },
+      {
+        "title": "Mosquito nets",
+        "content": []
+      },
+      {
+        "title": "Cone test",
+        "content": []
+      },
+      {
+        "title": "Data analysis",
+        "content": []
+      },
+      {
+        "title": "Results",
+        "content": []
+      },
+      {
+        "title": "Characteristics of the studied mosquito populations",
+        "content": []
+      },
+      {
+        "title": "Knock-down (KD) and mortality of laboratory strains",
+        "content": []
+      },
+      {
+        "title": "Inhibition of mortality conferred by the kdr resistance gene",
+        "content": []
+      },
+      {
+        "title": "Knock-down (Kd) effect and mortality induced by mosquito nets on local An. gambiae s.l.",
+        "content": []
+      },
+      {
+        "title": "Knock-down (KD) and mortality induced by the LLINs on mono-resistance mosquito strains",
+        "content": []
+      },
+      {
+        "title": "Inhibition of mortality in mono-resistant An. gambiae s.l. strains",
+        "content": []
+      },
+      {
+        "title": "Knock-down (KD) and mortality induced by the LLINs on multi-resistant mosquito strains (carrying kdr and biochemical resistance mutations)",
+        "content": []
+      },
+      {
+        "title": "Inhibition of mortality in multi-resistant strains",
+        "content": []
+      },
+      {
+        "title": "Knock-down time of LLINs on local An. gambiae s.l. strains",
+        "content": []
+      },
+      {
+        "title": "Discussion",
+        "content": []
+      },
+      {
+        "title": "Conclusion",
+        "content": []
+      },
+      {
+        "title": "Authors' contributions",
+        "content": []
+      },
+      {
+        "title": "Author details",
+        "content": []
+      },
+      {
+        "title": "Acknowledgements",
+        "content": []
+      },
+      {
+        "title": "Competing interests",
+        "content": []
+      },
+      {
+        "title": "Availability of data and materials",
+        "content": []
+      },
+      {
+        "title": "Funding",
+        "content": []
+      },
+      {
+        "title": "Received: 5 December 2016   Accepted: 7 February 2017",
+        "content": []
+      },
+      {
+        "title": "References",
+        "content": []
+      },
+      {
+        "title": "Submit your next manuscript to BioMed Central and we will help you at every step:",
+        "content": []
+      }
+    ],
+    "references": [],
+    "equations": [],
+    "tables": [],
+    "figures": [],
+    "captions": []
+  },
+  "reading_order": [
+    {
+      "type": "paragraph",
+      "content": "============================================================...",
+      "line": 6
+    },
+    {
+      "type": "section_header",
+      "content": "RESEARCH",
+      "line": 8
+    },
+    {
+      "type": "image_marker",
+      "content": "Image detected",
+      "line": 10
+    },
+    {
+      "type": "image_marker",
+      "content": "Image detected",
+      "line": 12
+    },
+    {
+      "type": "section_header",
+      "content": "WHO cone bio-assays of classical and new-generation long-lasting insecticidal nets call for innovative insecticides targeting the knock-down resistance mechanism in Benin",
+      "line": 14
+    },
+    {
+      "type": "paragraph",
+      "content": "Marius Allossogbe 1,2* , Virgile Gnanguenon 1,2 , Boulais Yovogan 1,2 , Bruno Akinro 1 , Rodrigue An...",
+      "line": 16
+    },
+    {
+      "type": "section_header",
+      "content": "Abstract",
+      "line": 18
+    },
+    {
+      "type": "paragraph",
+      "content": "Background: To increase the effectiveness of insecticide-treated nets (ITN) in areas of high resista...",
+      "line": 20
+    },
+    {
+      "type": "paragraph",
+      "content": "Methods: The study occurred in seven cities in Benin, Abomey, Cotonou, Porto-Novo, Zangnanado, Parak...",
+      "line": 22
+    },
+    {
+      "type": "paragraph",
+      "content": "Results: The different LLINs showed 100% mortality of the susceptible laboratory strain Kisumu and t...",
+      "line": 24
+    },
+    {
+      "type": "paragraph",
+      "content": "Conclusion: This study showed that the new-generation LLINs treated with pyrethroids and PBO showed ...",
+      "line": 26
+    },
+    {
+      "type": "paragraph",
+      "content": "Keywords: LLINs, Bio-efficacy, Piperonyl butoxide, Resistant mosquitoes...",
+      "line": 28
+    },
+    {
+      "type": "paragraph",
+      "content": "1 Centre de Recherche Entomologique de Cotonou (CREC), Cotonou,...",
+      "line": 32
+    },
+    {
+      "type": "paragraph",
+      "content": "Full list of author information is available at the end of the article...",
+      "line": 36
+    },
+    {
+      "type": "image_marker",
+      "content": "Image detected",
+      "line": 38
+    },
+    {
+      "type": "paragraph",
+      "content": "© The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attributio...",
+      "line": 40
+    },
+    {
+      "type": "section_header",
+      "content": "Background",
+      "line": 42
+    },
+    {
+      "type": "paragraph",
+      "content": "Malaria  is  a  major  public  health  problem  worldwide, and  particularly  so  in  Benin.  It  re...",
+      "line": 44
+    },
+    {
+      "type": "paragraph",
+      "content": "Among these prevention methods, LLINs have emerged in  recent  years  as  a  privileged  tool  to  p...",
+      "line": 46
+    },
+    {
+      "type": "paragraph",
+      "content": "Several  research  studies  have  been  conducted  and have shown the effectiveness of ITNs in the f...",
+      "line": 48
+    },
+    {
+      "type": "paragraph",
+      "content": "However,  several  studies  have  shown  that Anopheles gambiae s.l.  has  developed  strong  resist...",
+      "line": 50
+    },
+    {
+      "type": "paragraph",
+      "content": "Despite this resistance developed by An. gambiae s.l. to pyrethroids,  LLINs  remain  effective  in ...",
+      "line": 52
+    },
+    {
+      "type": "paragraph",
+      "content": "To increase the effectiveness of ITNs in areas of high resistance, new nets treated with a so-called...",
+      "line": 54
+    },
+    {
+      "type": "paragraph",
+      "content": "Evidence  of  the  efficacy  of  PermaNet  3.0  has  been shown  in  some  studies,  particularly  i...",
+      "line": 56
+    },
+    {
+      "type": "section_header",
+      "content": "Methods",
+      "line": 58
+    },
+    {
+      "type": "section_header",
+      "content": "Study design",
+      "line": 60
+    },
+    {
+      "type": "paragraph",
+      "content": "This study is transversal and compares variability of the efficacy of two different types of LLINs a...",
+      "line": 62
+    },
+    {
+      "type": "paragraph",
+      "content": "The  study  was  conducted  in  Benin,  a  West  African country from June 2015 to March 2016. Among...",
+      "line": 64
+    },
+    {
+      "type": "paragraph",
+      "content": "The larvae of these mosquito populations were collected in  different  ecological  areas  (vegetable...",
+      "line": 66
+    },
+    {
+      "type": "section_header",
+      "content": "Study sites",
+      "line": 68
+    },
+    {
+      "type": "section_header",
+      "content": "Malanville",
+      "line": 70
+    },
+    {
+      "type": "paragraph",
+      "content": "Malanville district is bordered on the north by the Republic of Niger, on the south by Kandi and Seg...",
+      "line": 72
+    },
+    {
+      "type": "section_header",
+      "content": "Tanguieta",
+      "line": 74
+    },
+    {
+      "type": "paragraph",
+      "content": "It  is  bordered  on  the  north  by  the  Republic  of  Burkina Faso, on the south by Boukoumbe dis...",
+      "line": 76
+    },
+    {
+      "type": "section_header",
+      "content": "Abomey-Calavi",
+      "line": 78
+    },
+    {
+      "type": "paragraph",
+      "content": "Abomey-Calavi is bounded on the north by Ze district, on the south by the Atlantic Ocean, on the eas...",
+      "line": 80
+    },
+    {
+      "type": "section_header",
+      "content": "Cotonou",
+      "line": 82
+    },
+    {
+      "type": "paragraph",
+      "content": "Cotonou is bordered on the North by So-Ava district and Nokoue lake, on the south by the Atlantic Oc...",
+      "line": 84
+    },
+    {
+      "type": "section_header",
+      "content": "Porto-Novo",
+      "line": 86
+    },
+    {
+      "type": "paragraph",
+      "content": "Porto-Novo is bounded on the north by Akpro-Missérete and Avrankou districts, on the south by Seme-P...",
+      "line": 88
+    },
+    {
+      "type": "section_header",
+      "content": "Parakou",
+      "line": 90
+    },
+    {
+      "type": "paragraph",
+      "content": "It is bordered on the north by N'Dali district and on the south, east and west by Tchaourou district...",
+      "line": 92
+    },
+    {
+      "type": "section_header",
+      "content": "Zangnanado",
+      "line": 94
+    },
+    {
+      "type": "paragraph",
+      "content": "This town is bounded on the north by Dassa-Zoume district, on the south by Ouinhi and Zogbodomey dis...",
+      "line": 96
+    },
+    {
+      "type": "paragraph",
+      "content": "540  km 2 and  had  a  population  of  52,387  inhabitants  in 2013 (Fig. 1)....",
+      "line": 98
+    },
+    {
+      "type": "section_header",
+      "content": "Larvae collection",
+      "line": 100
+    },
+    {
+      "type": "paragraph",
+      "content": "Bio-efficacy  tests  were  conducted  at  various  selected sites.  Such  tests  required  mosquitoe...",
+      "line": 102
+    },
+    {
+      "type": "section_header",
+      "content": "Highlighting resistance mechanisms",
+      "line": 104
+    },
+    {
+      "type": "paragraph",
+      "content": "Before  the  bioassays,  living  and  dead  mosquito  populations  kept  after  susceptibility  test...",
+      "line": 106
+    },
+    {
+      "type": "paragraph",
+      "content": "For the molecular characterization of insecticide resistance, two molecular markers were used for ch...",
+      "line": 108
+    },
+    {
+      "type": "paragraph",
+      "content": "Similarly, for the biochemical characterization of resistance  mechanisms,  biochemical  assays  wer...",
+      "line": 110
+    },
+    {
+      "type": "section_header",
+      "content": "Mosquito nets",
+      "line": 112
+    },
+    {
+      "type": "paragraph",
+      "content": "Five  types  of  long-lasting  insecticidal  nets  were  evaluated  in  this  study.  The  group  of...",
+      "line": 114
+    },
+    {
+      "type": "section_header",
+      "content": "Cone test",
+      "line": 116
+    },
+    {
+      "type": "paragraph",
+      "content": "The  cone  test  is  used  to  assess  the  effectiveness  of  an insecticide  and  its  persistence...",
+      "line": 118
+    },
+    {
+      "type": "paragraph",
+      "content": "Cone tests were performed on five types of nets (Olyset Plus,  Olyset  Net,  LifeNet,  PermaNet  2.0...",
+      "line": 120
+    },
+    {
+      "type": "section_header",
+      "content": "Data analysis",
+      "line": 122
+    },
+    {
+      "type": "paragraph",
+      "content": "According to the WHO, the bio-effectiveness threshold is 95% knock-down and 80% mortality for labora...",
+      "line": 124
+    },
+    {
+      "type": "paragraph",
+      "content": "The inhibition of mortality induced by resistance mechanisms was estimated using the following equat...",
+      "line": 126
+    },
+    {
+      "type": "paragraph",
+      "content": "where p1 = proportion of resistant mosquitoes dead and p2 = proportion of susceptible Kisumu mosquit...",
+      "line": 130
+    },
+    {
+      "type": "paragraph",
+      "content": "To  determine  if  there  was  any  significance  difference between  the  outcome  variables  (knoc...",
+      "line": 132
+    },
+    {
+      "type": "section_header",
+      "content": "Results",
+      "line": 134
+    },
+    {
+      "type": "section_header",
+      "content": "Characteristics of the studied mosquito populations",
+      "line": 136
+    },
+    {
+      "type": "paragraph",
+      "content": "The  majority  of  female  mosquitoes  were  collected  and identified  morphologically  as An.  gam...",
+      "line": 138
+    },
+    {
+      "type": "section_header",
+      "content": "Knock-down (KD) and mortality of laboratory strains",
+      "line": 140
+    },
+    {
+      "type": "paragraph",
+      "content": "Figure 2 shows the proportion of laboratory mosquitoes (ace-1R-Kisumu,  kdr-Kisumu,  and  susceptibl...",
+      "line": 142
+    },
+    {
+      "type": "paragraph",
+      "content": "With the ace-1R-Kisumu strain, which carries the acetylcholinesterase-1  resistance  gene,  there  w...",
+      "line": 144
+    },
+    {
+      "type": "paragraph",
+      "content": "For  the  kdr-Kisumu  strain  (carrying  the  resistance knock-down),  the  knock-down  effects  obs...",
+      "line": 146
+    },
+    {
+      "type": "paragraph",
+      "content": "Kisumu  and  ace-1R-Kisumu  (Fig.  3).  With  the  kdrKisumu strain, mortality was 16% for Olyset Ne...",
+      "line": 148
+    },
+    {
+      "type": "section_header",
+      "content": "Inhibition of mortality conferred by the kdr resistance gene",
+      "line": 150
+    },
+    {
+      "type": "paragraph",
+      "content": "Comparing  the  mortality  observed  with  the  susceptible Kisumu strain with that of the resistant...",
+      "line": 152
+    },
+    {
+      "type": "section_header",
+      "content": "Knock-down (Kd) effect and mortality induced by mosquito nets on local An. gambiae s.l.",
+      "line": 154
+    },
+    {
+      "type": "paragraph",
+      "content": "Approximately  2819  local An.  gambiae s.l.  mosquitoes and 889 An. gambiae Kisumu laboratory strai...",
+      "line": 156
+    },
+    {
+      "type": "image_marker",
+      "content": "Image detected",
+      "line": 158
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 1  Biochemical and molecular characteristics of the Anopheles gambiae s.l. populations tested...",
+      "line": 160
+    },
+    {
+      "type": "paragraph",
+      "content": "| Strains of An. gambiae s.l.   | Average oxidase activ- ity (min/mg protein)   | Average α esterase...",
+      "line": 162
+    },
+    {
+      "type": "paragraph",
+      "content": "|-------------------------------|-----------------------------------------------|-------------------...",
+      "line": 163
+    },
+    {
+      "type": "paragraph",
+      "content": "| Kisumu                        | 0.1015 a                                      | 0.07409 a         ...",
+      "line": 164
+    },
+    {
+      "type": "paragraph",
+      "content": "| Agblangandan                  | 0.07966 a                                     | 0.07883 a         ...",
+      "line": 165
+    },
+    {
+      "type": "paragraph",
+      "content": "| Abomey-Calavi                 | 0.08454 a                                     | 0.07149 a         ...",
+      "line": 166
+    },
+    {
+      "type": "paragraph",
+      "content": "| Akron                         | 0.1604 b                                      | 0.08589 a         ...",
+      "line": 167
+    },
+    {
+      "type": "paragraph",
+      "content": "| Houeyiho                      | 0.17.39 b                                     | 0.07694 a         ...",
+      "line": 168
+    },
+    {
+      "type": "paragraph",
+      "content": "| Vossa                         | 0.07566 a                                     | 0.06897 a         ...",
+      "line": 169
+    },
+    {
+      "type": "paragraph",
+      "content": "| Ladji                         | 0.1737 b                                      | 0.07146 a         ...",
+      "line": 170
+    },
+    {
+      "type": "paragraph",
+      "content": "| Bame                          | 0.1106 a                                      | 0.0588 a          ...",
+      "line": 171
+    },
+    {
+      "type": "paragraph",
+      "content": "| Malanville                    | 0.06549 a                                     | 0.04949 a         ...",
+      "line": 172
+    },
+    {
+      "type": "paragraph",
+      "content": "| Parakou                       | 0.1536 b                                      | 0.08124 a         ...",
+      "line": 173
+    },
+    {
+      "type": "paragraph",
+      "content": "| Tanguieta                     | 0.2267 b                                      | 0.1585 b          ...",
+      "line": 174
+    },
+    {
+      "type": "paragraph",
+      "content": "- a, b Values with the same superscript do not differ significantly at α = 0.05...",
+      "line": 176
+    },
+    {
+      "type": "paragraph",
+      "content": "- 3 show the percentage of local strain mosquitoes knocked down after 60 min for LifeNet, Olyset Net...",
+      "line": 177
+    },
+    {
+      "type": "image_marker",
+      "content": "Image detected",
+      "line": 179
+    },
+    {
+      "type": "image_marker",
+      "content": "Image detected",
+      "line": 181
+    },
+    {
+      "type": "section_header",
+      "content": "Knock-down (KD) and mortality induced by the LLINs on mono-resistance mosquito strains",
+      "line": 183
+    },
+    {
+      "type": "paragraph",
+      "content": "Only  PermaNet  3.0,  Olyset  Plus  and  LifeNet  LLINs showed a knock-down effect greater than 50% ...",
+      "line": 185
+    },
+    {
+      "type": "paragraph",
+      "content": "PermaNet 3.0 was the only LLIN that showed significantly higher mortality of greater than 50% in all...",
+      "line": 187
+    },
+    {
+      "type": "section_header",
+      "content": "Inhibition of mortality in mono-resistant An. gambiae s.l. strains",
+      "line": 189
+    },
+    {
+      "type": "paragraph",
+      "content": "The  observed  inhibition  of  mortality  induced  by kdr resistance of local mosquito strains on LL...",
+      "line": 191
+    },
+    {
+      "type": "section_header",
+      "content": "Knock-down (KD) and mortality induced by the LLINs on multi-resistant mosquito strains (carrying kdr and biochemical resistance mutations)",
+      "line": 193
+    },
+    {
+      "type": "paragraph",
+      "content": "In  areas  with  multi-resistance,  the  knock-down  effects observed were also low (Table 3)....",
+      "line": 195
+    },
+    {
+      "type": "paragraph",
+      "content": "- At  Akron,  the  percentage  of  mosquitoes  knocked down  after 60 min was 31.48% [19.52-45.55] a...",
+      "line": 197
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 2  Distribution of the knock-down rate observed in localities where there was only one resista...",
+      "line": 199
+    },
+    {
+      "type": "paragraph",
+      "content": "| Strains          | LLINs        |   Nmosquito tested |   KDafter 60 min | 95%CI         |   Mortal...",
+      "line": 201
+    },
+    {
+      "type": "paragraph",
+      "content": "|------------------|--------------|--------------------|------------------|---------------|---------...",
+      "line": 202
+    },
+    {
+      "type": "paragraph",
+      "content": "| Malanville       | LifeNet      |                 55 |            72.27 | [59.03-83.86] |         ...",
+      "line": 203
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | Olyset Net   |                 53 |            30.19 | [18.34-44.34] |         ...",
+      "line": 204
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | Olyset Plus  |                 51 |            54.9  | [40.34-68.87] |         ...",
+      "line": 205
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | PermaNet 2.0 |                 59 |            28.81 | [17.76-42.08] |         ...",
+      "line": 206
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | PermaNet 3.0 |                 84 |            95.24 | [88.25-98.69] |         ...",
+      "line": 207
+    },
+    {
+      "type": "paragraph",
+      "content": "| Abomey-Calavi    | LifeNet      |                 53 |             9.43 | [3.13-20.66]  |         ...",
+      "line": 208
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | Olyset Net   |                 54 |            11.11 | [4.18-22.63]  |         ...",
+      "line": 209
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | Olyset Plus  |                 55 |            29.09 | [17.62-49.90] |         ...",
+      "line": 210
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | PermaNet 2.0 |                 52 |            70.49 | [57.43-81.84] |         ...",
+      "line": 211
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | PermaNet 3.0 |                 72 |            81.94 | [71.1-90.02]  |         ...",
+      "line": 212
+    },
+    {
+      "type": "paragraph",
+      "content": "| Zagnanado (Bamè) | LifeNet      |                 58 |            68.97 | [55.45-80.46] |         ...",
+      "line": 213
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | Olyset Net   |                 54 |            23.08 | [12.53-36.84] |         ...",
+      "line": 214
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | Olyset Plus  |                 55 |            33.96 | [21.51-46.27] |         ...",
+      "line": 215
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | PermaNet 2.0 |                 53 |            52.83 | [38.63-66.7]  |         ...",
+      "line": 216
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | PermaNet 3.0 |                 75 |            63.93 | [57.61-79.47] |         ...",
+      "line": 217
+    },
+    {
+      "type": "paragraph",
+      "content": "| Vossa            | LifeNet      |                 54 |            62.96 | [48.74-75.71] |         ...",
+      "line": 218
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | Olyset Net   |                 57 |            21.05 | [11.37-33.89] |         ...",
+      "line": 219
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | Olyset Plus  |                 53 |            41.51 | [28.13-55.87] |         ...",
+      "line": 220
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | PermaNet 2.0 |                 51 |            52.94 | [38.45-67.07] |         ...",
+      "line": 221
+    },
+    {
+      "type": "paragraph",
+      "content": "|                  | PermaNet 3.0 |                 73 |            79.45 | [68.38-88.02] |         ...",
+      "line": 222
+    },
+    {
+      "type": "paragraph",
+      "content": "N number, KD knock-down, min minutes, CI confidence interval, h hours respectively;  70.49%  [57.43-...",
+      "line": 224
+    },
+    {
+      "type": "paragraph",
+      "content": "The  same  observations  were  made  at  Ladji,  Parakou and Tanguiéta, where the KD induced by Olys...",
+      "line": 226
+    },
+    {
+      "type": "section_header",
+      "content": "Inhibition of mortality in multi-resistant strains",
+      "line": 228
+    },
+    {
+      "type": "paragraph",
+      "content": "The inhibition of the mortality induced by LLINs observed with strains carrying several resistance  ...",
+      "line": 230
+    },
+    {
+      "type": "section_header",
+      "content": "Knock-down time of LLINs on local An. gambiae s.l. strains",
+      "line": 232
+    },
+    {
+      "type": "paragraph",
+      "content": "The  average  time  estimated  for  knock-down  of  50%  of resistant  local An.  gambiae s.l.  popu...",
+      "line": 234
+    },
+    {
+      "type": "section_header",
+      "content": "Discussion",
+      "line": 236
+    },
+    {
+      "type": "paragraph",
+      "content": "This study is one of the first conducted in Benin to compare  the  response  of  local  malaria  vec...",
+      "line": 238
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 3  Distribution  of  the  knock-down  rate  observed  in  localities  where  there  were  seve...",
+      "line": 240
+    },
+    {
+      "type": "paragraph",
+      "content": "| Strains      | LLINs        | Nmosquito tested   | KDafter 60 min   | 95%CI          | Mortality (...",
+      "line": 242
+    },
+    {
+      "type": "paragraph",
+      "content": "|--------------|--------------|--------------------|------------------|----------------|------------...",
+      "line": 243
+    },
+    {
+      "type": "paragraph",
+      "content": "| Agblangandan | LifeNet      | 53                 | 50.94            | [36.83-64.96]  | 15.09      ...",
+      "line": 244
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Olyset Net   | 54                 | 20.75            | [10.84-34.11]  | 07.4       ...",
+      "line": 245
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Olyset Plus  | 55                 | 50.91            | [37.07-64.65]  | 34.72      ...",
+      "line": 246
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | PermaNet 2.0 | 47                 | 36.17            | [22.67-51.58]  | 17.02      ...",
+      "line": 247
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | PermaNet 3.0 | 66                 | 60.61            | [47.80-72.42]  | 65.15      ...",
+      "line": 248
+    },
+    {
+      "type": "paragraph",
+      "content": "| Ladji        | LifeNet      | 57                 | 85.96            | [74.2-93.74]   | 47.36      ...",
+      "line": 249
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Olyset Net   | 57                 | 50.88            | [37.28-64.37]  | 40.35      ...",
+      "line": 250
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Olyset Plus  | 56                 | 42.86            | [29.71-56.78]  | 41.07      ...",
+      "line": 251
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | PermaNet 2.0 | 50                 | 66               | [51.23-78.79]  | 14         ...",
+      "line": 252
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | PermaNet 3.0 | 69                 | 88.41            | [78.42-94.86]  | 44.93      ...",
+      "line": 253
+    },
+    {
+      "type": "paragraph",
+      "content": "| Akron        | LifeNet      | 52                 | 30.77            | [18.71-45.1]   | 15.38      ...",
+      "line": 254
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Olyset Net   | 54                 | 31.48            | [19.52-45.55]  | 5.56       ...",
+      "line": 255
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Olyset Plus  | 55                 | 74.55            | [60.99-85.33]  | 25.45      ...",
+      "line": 256
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | PermaNet 2.0 | 61                 | 70.49            | [57.43-81.84]  | 54.09      ...",
+      "line": 257
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | PermaNet 3.0 | 82                 | 81.71            | [71.63-89.38]  | 89.02      ...",
+      "line": 258
+    },
+    {
+      "type": "paragraph",
+      "content": "| Parakou      | LifeNet      | 51                 | 43.14            | [29.34-57.75]  | 09.80      ...",
+      "line": 259
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Olyset Net   | 52                 | 26.92            | [15.56-4 1.02] | 07.69      ...",
+      "line": 260
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Olyset Plus  | 50                 | 66               | [51.23-78.79]  | 28         ...",
+      "line": 261
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Permanet 2.0 | 56                 | 39.29            | [26.49-53.25]  | 37.50      ...",
+      "line": 262
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Permanet 3.0 | 88                 | 98.86            | [93.83-99.97]  | 82.95      ...",
+      "line": 263
+    },
+    {
+      "type": "paragraph",
+      "content": "| Houeyiho     | LifeNet      | 54                 | 61.11            | [46.87-74.08]  | 14.81      ...",
+      "line": 264
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Olyset Net   | 52                 | 23.08            | [12.53-36.84]  | 3.84       ...",
+      "line": 265
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Olyset Plus  | 59                 | 49.15            | [35.89-62.5]   | 23.72      ...",
+      "line": 266
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Permanet 2.0 | 54                 | 46.3             | [32.62-60.39]  | 22.22      ...",
+      "line": 267
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Permanet 3.0 | 65                 | 73.85            | [61.46-83.97]  | 61.54      ...",
+      "line": 268
+    },
+    {
+      "type": "paragraph",
+      "content": "| Tanguieta    | LifeNet      | -                  | -                | -              | -          ...",
+      "line": 269
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Olyset Net   | -                  | -                | -              | -          ...",
+      "line": 270
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | Olyset Plus  | 51                 | 74.51            | [60.36-85.67]  | 56.86      ...",
+      "line": 271
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | PermaNet 2.0 | 62                 | 75.81            | [63.25-85.78]  | 32.26      ...",
+      "line": 272
+    },
+    {
+      "type": "paragraph",
+      "content": "|              | PermaNet 3.0 | 86                 | 100              | [88.78-100]    | 78.82      ...",
+      "line": 273
+    },
+    {
+      "type": "paragraph",
+      "content": "N number, KD knock-down, min minutes, CI confidence interval, h hours...",
+      "line": 275
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 4  Probable time for 50 and 95% knock-down of Anopheles gambiae s.l. per LLIN...",
+      "line": 277
+    },
+    {
+      "type": "paragraph",
+      "content": "| LLINs        |   50%KDT (min) | 95%CI          | 95%KDT (min)   | 95%CI               |...",
+      "line": 279
+    },
+    {
+      "type": "paragraph",
+      "content": "|--------------|----------------|----------------|----------------|---------------------|...",
+      "line": 280
+    },
+    {
+      "type": "paragraph",
+      "content": "| LifeNet      |          33.12 | [32.5-33.91]   | 425.13         | [385.6- 468.69]     |...",
+      "line": 281
+    },
+    {
+      "type": "paragraph",
+      "content": "| Olyset Net   |          98.74 | [90.4- 107.85] | 10,257.58      | [7090.39- 14,839.5] |...",
+      "line": 282
+    },
+    {
+      "type": "paragraph",
+      "content": "| Olyset Plus  |          33.44 | [32.56- 34.34] | 674.68         | [595.91- 763.86]    |...",
+      "line": 283
+    },
+    {
+      "type": "paragraph",
+      "content": "| PermaNet 2.0 |          42.3  | [41.26- 43.37] | 468.28         | [424.57- 516.49]    |...",
+      "line": 284
+    },
+    {
+      "type": "paragraph",
+      "content": "| PermaNet3.0  |          12.61 | [12.30- 12.93] | 137.99         | [131.6- 144.69]     |...",
+      "line": 285
+    },
+    {
+      "type": "paragraph",
+      "content": "%KDT knock down time, IC 95% confidence interval at 95%, min minutes, CI confidence interval...",
+      "line": 287
+    },
+    {
+      "type": "paragraph",
+      "content": "Cone  tests  showed  that  LLINs  treated  with  piperonyl butoxide and pyrethroids (especially Perm...",
+      "line": 289
+    },
+    {
+      "type": "paragraph",
+      "content": "Several studies have shown a decrease in the bio-efficacy  of  LLINs  against  local  pyrethroid-res...",
+      "line": 291
+    },
+    {
+      "type": "paragraph",
+      "content": "time (KDT 50 and 95%) compared to other LLINs. In a recent study conducted in Benin [36], Olyset Plu...",
+      "line": 293
+    },
+    {
+      "type": "paragraph",
+      "content": "The reduced efficacy of LLINs treated with permethrin would be related to the strong resistance of t...",
+      "line": 295
+    },
+    {
+      "type": "paragraph",
+      "content": "The comparison of LLIN bio-efficacy performed in this study  provides  the  necessary  information  ...",
+      "line": 297
+    },
+    {
+      "type": "paragraph",
+      "content": "The mosquito populations assessed in the present study were characterized by a high frequency of the...",
+      "line": 299
+    },
+    {
+      "type": "paragraph",
+      "content": "The  WHO  recommends  preventive  measures  against vector resistance to insecticides [44]. The resu...",
+      "line": 301
+    },
+    {
+      "type": "paragraph",
+      "content": "This study also suggests the need to develop a routine for  monitoring  the  bio-efficacy  of  LLINs...",
+      "line": 303
+    },
+    {
+      "type": "paragraph",
+      "content": "Although  the  important  results  of  this  study,  it  had certain  limitations.  Strong  evaluati...",
+      "line": 305
+    },
+    {
+      "type": "section_header",
+      "content": "Conclusion",
+      "line": 307
+    },
+    {
+      "type": "paragraph",
+      "content": "This study showed variable effectiveness of LLINs on An. gambiae s.l. populations from different loc...",
+      "line": 309
+    },
+    {
+      "type": "section_header",
+      "content": "Authors' contributions",
+      "line": 311
+    },
+    {
+      "type": "paragraph",
+      "content": "MA, VG and MCA designed the study, supervised laboratory work, analyzed data and wrote the manuscrip...",
+      "line": 313
+    },
+    {
+      "type": "section_header",
+      "content": "Author details",
+      "line": 315
+    },
+    {
+      "type": "paragraph",
+      "content": "- 1 Centre de Recherche Entomologique de Cotonou (CREC), Cotonou, Benin. 2 Université d'Abomey-Calav...",
+      "line": 317
+    },
+    {
+      "type": "section_header",
+      "content": "Acknowledgements",
+      "line": 319
+    },
+    {
+      "type": "paragraph",
+      "content": "We thank CREC personnel for their technical assistance and collaboration....",
+      "line": 321
+    },
+    {
+      "type": "section_header",
+      "content": "Competing interests",
+      "line": 323
+    },
+    {
+      "type": "paragraph",
+      "content": "The authors declare that they have no competing interests....",
+      "line": 325
+    },
+    {
+      "type": "section_header",
+      "content": "Availability of data and materials",
+      "line": 327
+    },
+    {
+      "type": "paragraph",
+      "content": "Data collected during this study are included in the published article and its additional files....",
+      "line": 329
+    },
+    {
+      "type": "section_header",
+      "content": "Funding",
+      "line": 331
+    },
+    {
+      "type": "paragraph",
+      "content": "This work is supported by Faculty of Letters, Arts and Human Sciences of the University of Abomey-Ca...",
+      "line": 333
+    },
+    {
+      "type": "section_header",
+      "content": "Received: 5 December 2016   Accepted: 7 February 2017",
+      "line": 335
+    },
+    {
+      "type": "section_header",
+      "content": "References",
+      "line": 337
+    },
+    {
+      "type": "paragraph",
+      "content": "- 1. WHO. World malaria report 2015. Geneva: World Health Organization; 2015. http://www.who.int/mal...",
+      "line": 339
+    },
+    {
+      "type": "paragraph",
+      "content": "- 2. Gimnig JE, Lindblade KA, Mount DL, Atieli FK, Crawford S, Wolkon A, et al. Laboratory wash resi...",
+      "line": 340
+    },
+    {
+      "type": "paragraph",
+      "content": "- 3. WHO. The Abuja declaration and the plan of action. An extract from the African Summit on Roll B...",
+      "line": 341
+    },
+    {
+      "type": "paragraph",
+      "content": "- 4. Carnevale P, Robert V, Boudin C, Halna JM, Pazart L, Gazin P , et al. Control of malaria using ...",
+      "line": 342
+    },
+    {
+      "type": "paragraph",
+      "content": "- 5. Desfontaine M, Gelas H, Cabon H, Goghomou A, Kouka Bemba D, Carnevale P. Evaluation des pratiqu...",
+      "line": 343
+    },
+    {
+      "type": "paragraph",
+      "content": "- 6. Alonso PL, Lindsay SW, Armstrong JRM, de Francisco A, Shenton FC, Greenwood BM, et al. The effe...",
+      "line": 344
+    },
+    {
+      "type": "paragraph",
+      "content": "- 7. D'Alessandro U, Olaleye BO, McGuire W, Thomson MC, Langerock P, Bennett S, et al. A comparison ...",
+      "line": 345
+    },
+    {
+      "type": "paragraph",
+      "content": "- 8. Aikins MK, Fox-Rushby J, D'Alessandro U, Langerock P , Cham K, New L, et al. The Gambian Nation...",
+      "line": 346
+    },
+    {
+      "type": "paragraph",
+      "content": "- 9. Snow RW, Rowan KM, Lindsay SW, Greenwood BM. A trial of bed nets (mosquito nets) as a malaria c...",
+      "line": 347
+    },
+    {
+      "type": "paragraph",
+      "content": "- 10. Karch S, Garin B, Asidi N, Manzambi Z, Salaun JJ, Mouchet J. Moustiquaires impregnées contre l...",
+      "line": 348
+    },
+    {
+      "type": "paragraph",
+      "content": "- 11. Nevill CG, Some ES, Mung'ala VO, Mutemi W, New L, Marsh K, et al. Insecticide-treated bednets ...",
+      "line": 349
+    },
+    {
+      "type": "paragraph",
+      "content": "- 12. Binka FN, Kubaje A, Adjuik M, Williams LA, Lengeler C, Maude GH, et al. Impact of permethrin i...",
+      "line": 350
+    },
+    {
+      "type": "paragraph",
+      "content": "- 13. Akogbeto PM, Nahum A. Impact of deltamethrin impregnated mosquito nets on the transmission of ...",
+      "line": 351
+    },
+    {
+      "type": "paragraph",
+      "content": "- 14. Mathanga DP, Campbell CH, Taylor TE, Barlow R, Wilson ML. Reduction of childhood malaria by so...",
+      "line": 352
+    },
+    {
+      "type": "paragraph",
+      "content": "- 15. Chandre F, Darriet F, Manguin S, Brengues C, Carnevale P , Guillet P . Pyrethroid cross resist...",
+      "line": 353
+    },
+    {
+      "type": "paragraph",
+      "content": "- 16. Akogbeto M, Yakoubou S. Resistance of malaria vectors to pyrethrins used for impregnating mosq...",
+      "line": 354
+    },
+    {
+      "type": "paragraph",
+      "content": "- 17. Akogbeto MC, Djouaka R, Noukpo H. Use of agricultural insecticides in Benin. Bull Soc Pathol E...",
+      "line": 355
+    },
+    {
+      "type": "paragraph",
+      "content": "- 18. Corbel V, N'Guessan R, Brengues C, Chandre F, Djogbenou L, Martin T, et al. Multiple insectici...",
+      "line": 356
+    },
+    {
+      "type": "paragraph",
+      "content": "- 19. N'Guessan R, Corbel V, Bonnet J, Yates A, Asidi A, Boko P , et al. Evaluation of indoxacarb, a...",
+      "line": 357
+    },
+    {
+      "type": "paragraph",
+      "content": "- 20. Djènontin A, Chabi J, Baldet T, Irish S, Pennetier C, Hougard JM, et al. Managing insecticide ...",
+      "line": 358
+    },
+    {
+      "type": "paragraph",
+      "content": "- 21. Yadouleton AW, Padonou G, Asidi A, Moiroux N, Bio-Banganna S, Corbel V, et al. Insecticide res...",
+      "line": 359
+    },
+    {
+      "type": "paragraph",
+      "content": "- 22. Djogbénou L, Pasteur N, Akogbéto M, Weill M, Chandre F. Insecticide resistance in the Anophele...",
+      "line": 360
+    },
+    {
+      "type": "paragraph",
+      "content": "- 23. Gnanguenon V, Agossa FR, Badirou K, Govoetchan R, Anagonou R, OkeAgbo F, et al. Malaria vector...",
+      "line": 361
+    },
+    {
+      "type": "paragraph",
+      "content": "- 24. Henry MC, Assi SB, Rogier C, Yovo DJ, Chandre F, Guillet P , et al. Protective efficacy of lam...",
+      "line": 362
+    },
+    {
+      "type": "paragraph",
+      "content": "- 25. Curtis CF, Jana-Kara B, Maxwell CA. Insecticide treated nets: impact on vector populations and...",
+      "line": 363
+    },
+    {
+      "type": "paragraph",
+      "content": "- 26. Asidi A, N'Guessan R, Akogbeto M, Curtis C, Rowland M. Loss of household protection from use o...",
+      "line": 364
+    },
+    {
+      "type": "paragraph",
+      "content": "- 27. Aïkpon R, Sèzonlin M, Ossè R, Akogbéto M. Evidence of multiple mechanisms providing carbamate ...",
+      "line": 365
+    },
+    {
+      "type": "paragraph",
+      "content": "- 28. Corbel V, Hougard J-M, N'Guessan R, Chandre F. Evidence for selection of insecticide resistanc...",
+      "line": 366
+    },
+    {
+      "type": "paragraph",
+      "content": "- 29. Kweka EJ, Lyaruu LJ, Mahande AM. Efficacy of PermaNet ® 3.0 and PermaNet ® 2.0 nets against la...",
+      "line": 367
+    },
+    {
+      "type": "paragraph",
+      "content": "- 30. Brogdon WG, McAllister JC, Vulule JM. Association of heme peroxidase activity measured in sing...",
+      "line": 368
+    },
+    {
+      "type": "paragraph",
+      "content": "- 31. Martinez-Torres D, Chandre F, Williamson MS, Darriet F, Bergé JB, Devonshire AL, et al. Molecu...",
+      "line": 369
+    },
+    {
+      "type": "paragraph",
+      "content": "- 32. Hemingway J, Hawkes N, Prapanthadara L, Jayawardenal KGI, Ranson H. The role of gene splicing,...",
+      "line": 370
+    },
+    {
+      "type": "paragraph",
+      "content": "- 33. Finney D. Review of probit analysis: a statistical treatment of the sigmoid response curve. J ...",
+      "line": 371
+    },
+    {
+      "type": "paragraph",
+      "content": "- 34. Okia M, Ndyomugyenyi R, Kirunda J, Byaruhanga A, Adibaku S, Lwamafa DK, et al. Bioefficacy of ...",
+      "line": 372
+    },
+    {
+      "type": "paragraph",
+      "content": "- 35. Yewhalaw D, Asale A, Tushune K, Getachew Y, Duchateau L, Speybroeck N. Bio-efficacy of selecte...",
+      "line": 374
+    },
+    {
+      "type": "paragraph",
+      "content": "- 36. Pennetier C, Bouraima A, Chandre F, Piameu M, Etang J, Rossignol M, et al. Efficacy of Olyset ...",
+      "line": 375
+    },
+    {
+      "type": "paragraph",
+      "content": "- 37. Ranson H, Abdallah H, Badolo A, Guelbeogo WM, Kerah-Hinzoumbé C, Yangalbé-Kalnoné E, et al. In...",
+      "line": 376
+    },
+    {
+      "type": "paragraph",
+      "content": "- 38. Chouaibou MS, Chabi J, Bingham GV, Knox TB, N'Dri L, Kesse NB, et al. Increase in susceptibili...",
+      "line": 377
+    },
+    {
+      "type": "paragraph",
+      "content": "- 39. Akogbéto MC, Djouaka RF, Kindé-Gazard DA. Screening of pesticide residues in soil and water sa...",
+      "line": 378
+    },
+    {
+      "type": "paragraph",
+      "content": "- 40. Yadouleton A, Asidi A, Djouaka R, Braïma J, Agossou C, Akogbeto M. Development of vegetable fa...",
+      "line": 379
+    },
+    {
+      "type": "paragraph",
+      "content": "- insecticide resistance in populations of Anopheles gambiae in urban areas of Benin. Malar J. 2009;...",
+      "line": 380
+    },
+    {
+      "type": "paragraph",
+      "content": "- 41. Diabate A, Baldet T, Chandre F, Akogbeto M, Guiguemde TR, Darriet F, et al. The role of agricu...",
+      "line": 381
+    },
+    {
+      "type": "paragraph",
+      "content": "- 42. Djouaka R, Irving H, Tukur Z, Wondji CS. Exploring mechanisms of multiple insecticide resistan...",
+      "line": 382
+    },
+    {
+      "type": "paragraph",
+      "content": "- 43. Aïkpon R, Agossa F, Ossè R, Oussou O, Aïzoun N, Oké-Agbo F, et al. Bendiocarb resistance in An...",
+      "line": 383
+    },
+    {
+      "type": "paragraph",
+      "content": "- 44. WHO. Test procedures for insecticide resistance monitoring in malaria vector mosquitoes. Genev...",
+      "line": 384
+    },
+    {
+      "type": "paragraph",
+      "content": "- 45. WHO. Guidelines for laboratory and field-testing of long-lasting insecticidal nets. Geneva: Wo...",
+      "line": 385
+    },
+    {
+      "type": "section_header",
+      "content": "Submit your next manuscript to BioMed Central and we will help you at every step:",
+      "line": 387
+    },
+    {
+      "type": "paragraph",
+      "content": "- · Our selector tool helps you to find the most relevant journal...",
+      "line": 390
+    },
+    {
+      "type": "paragraph",
+      "content": "- · Inclusion in PubMed and all major indexing services...",
+      "line": 394
+    },
+    {
+      "type": "paragraph",
+      "content": "Submit your manuscript at www.biomedcentral.com/submit...",
+      "line": 397
+    },
+    {
+      "type": "image_marker",
+      "content": "Image detected",
+      "line": 399
+    }
+  ],
+  "metadata": {
+    "total_sections": 40,
+    "total_paragraphs": 203,
+    "has_structured_content": true
+  }
+}

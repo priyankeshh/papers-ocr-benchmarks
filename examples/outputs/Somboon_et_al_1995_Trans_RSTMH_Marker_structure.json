@@ -1,0 +1,873 @@
+{
+  "ocr_system": "Marker",
+  "format": "markdown",
+  "timestamp": "2025-07-03T02:03:20.491380",
+  "document_elements": {
+    "title": "252",
+    "authors": [
+      "Processing Time: 33.26s"
+    ],
+    "abstract": null,
+    "sections": [
+      {
+        "title": "Entomological evaluation of community-wide use of lambdacyhalothrinimpregnated bed nets against malaria in a border area of north-west Thailand",
+        "content": [
+          "Pradya Somboon', Jo Lines2, Apinun Aramrattana3, Udom Chitprarop4, Somsak Prajakwong4 and Chirasak Khamboonrua& 'Department of Parasitology, Faculty of Medicine, Chiang Mai University, Chiang Mai 50200, Thailand; 2Department of Medical Parasitology, London School of Hygiene and Tropical Medicine, Keppel Street, London, WCIE 7HT, UK; 3Department of Family Medicine, Faculty of Medicine, Chiang Mai University, Chiang Mai 50200, Thailand; 4Malaria Centre, Region 2, Chiang Mai 50200, Thailand; SResearch Institute for Health Sciences, Chiang Mai University, Chiang Mai 50200, Thailand",
+          "This paper reports 2 studies. (i) After a year of baseline data collection, lambdacyhalothrin-treated bed nets were introduced into 3 of 5 villages in north-west Thailand, the remaining 2 being treated with placebo. Human bait collections were carried out in each village on 2 nights per month, for 8 months of each year, and the biting densities were compared between the first year and the second year. The treated bed nets did not have any significant impact on the density or parous rates of Anopheles sawadwongporni and A. maculatus S.S. populations. The results for A. dirus s.1. were not conclusive because of the low number caught. Significant reductions in biting and parous rates of A. minimus species A were observed in only one of the 3 treated villages, and there was no overall difference between treated and control groups. However, the trial suffered from the washing of nets by villagers and the low rate of reimpregnation. (ii) A short-term study involved 4 villages in a cross-over design, and lasted 48 d. For the first 24 d, residents of 2 villages were given new treated nets while the other 2 villages retained their own untreated nets. For the second 24 d, this situation was reversed. Daily light-trapping revealed no significant difference in the indoor densities or parous rates of A. minimus species A between the periods with treated or untreated nets. Both studies, especially the second., suggested that the community-wide use of treated bed nets did not generally reduce the vectorial capacity of vectors in this area, probably because of the biting behaviour of the mosquitoes",
+          "Keywords: insecticide-impregnated bed nets, Anopheles sawadwongponi, A. maculatus, A. dirts, A. minimus, biting rate, paious rate, Thailand"
+        ],
+        "subsections": [
+          {
+            "title": "Abstract",
+            "content": []
+          }
+        ]
+      },
+      {
+        "title": "Introduction",
+        "content": [
+          "Malaria is a major public health problem in Thailand, especially in forest and border areas, Control of malaria transmission by DDT house spraying, although successful in interru plains areas o 4 ting malaria transmission in most of the the country, has experienced many problems elsewhere, including the exophilic behaviour of all main vector species (i.e., Anopheles minimus s.l., A. dirus s.l., and A. maculatus s.l.), the increasingly poor acceptance by communities of the spraying, and the movement of people to intense foci of transmission both inside and outside the country (KETRANGSEE etal., 1991)."
+        ],
+        "subsections": []
+      },
+      {
+        "title": "Materials and Methods",
+        "content": [
+          "Study area. The study was carried out in Karen villages located in forest and forest fringe areas in Mae Sarianp: district. Mae Hong Son movince. north-west Thailand: adjacent to the Mianmar horde;. The province is extremely mountainous and forested, with very limited plains areas. Forest fringe villa es are typically situated in foothills surrounded by rice H dds, scrub and secondary forest, with streams running through or alongside them. Farm huts, the temporary shelters to which villagers move during ploughing and harvesting periods, are scattered in rice fields m the valleys and on the mountains. Some villages are situated deeper in the hills and in the forest. Cattle and pigs are common in most Karen settlements.",
+          "Table 1. Population and numbers of bed nets in the 5 study villages, Mae Han, Mae Top Nua, Mae Chon, Mae Salap, and Huai Ngu, in the long-term study",
+          "Since the coverage of DDT spraying in the study villages had been very poor for a nhberbf years and there was little evidence that this method was still effective, spraying was suspended within a radius of 5 km from October 1989 until the end of the study. Other routine anti-malaria activities continued.",
+          "Study design. The study was divided into 2 phases, the first (baseline phase) during the high transmission season from May to December 1990 and the second (intervention phase) during the same months in 1991. In February/March 1991, bed nets in Mae Chon, Mae &lap and Huai Ngu were treated with lambdacyhalothrin (10 mg/m2) while those in Mae Han and Mae Top Nua were treated with placebo. The design permitted pre- and post-intervention comparisons in each village, and contemporary comparisons between treated and untreated villages.",
+          "Entomological data collection and analysis. Mosquitoes were collected on 2 human baits indoors and 2 outdoors for 2 nights each month from May to December 1990 (before intervention1 and Mav to December 1991 (after intervention). The indoor collections were perfo&ed outside the sleeping room of villagers throughout the night, but the outdoor catches (5-10 m away) were made only until midnight. Similar collections were carried out simultaneously at the farm hut areas of each forest fringe village (located 2-3 km away). After morphological identification, the ovaries of mosquitoes were examined for parity (DETINOVA, 1962).",
+          "In each catching site each year, the monthly counts of mosquitoes, indoors plus outdoors, were transformed as log (n+l) to stabilize the variance. Paired t tests were used to corn numbers be P ore and after intervention on a monthly are the difference between the mean log basis. Mantel-Haenszel x2 tests were used to compare the proportions of nulliparous and parous mosquitoes in ia& catchin EPISTAT@ so P site, stiatifying for corresponding months. tware (GUSTAFSON. 1989) was used to calculate and analyse da& , ,"
+        ],
+        "subsections": []
+      },
+      {
+        "title": "The short-term evaluation",
+        "content": [
+          "The study was conducted in 4 communities, 2 from the previous study (Mae Chon and Mae Top Nua), and 2 others: Mae Top Klang and the Wild Animal Conservation Centre. The human populations surveyed in May 1992 were 92, 99, 75 and 57, respectively. Mae Top Klang is another Karen village separated from Mae Top Nua by about 500 m and 2 hills (see above), and was involved-in the previous epidemiolbgical study as a control (untreated) unit in 1990-1991. The Wild Animal Conseriation Ceitre is a government office with permanently resident staff living in Karen style houses. It is about 8 km north of Mae Top Nua, and surrounded by relatively dense forest.",
+          "Shortly before the study began, malaria workers had treated the bed nets in all the neiahbourina villages as part of regional malaria control effoyts. DDTspraying in these study sites had been suspended since October 1989 (see above).",
+          "Intervention method. House-to-house surveys were carried out one month before the intervention began. The purpose of the experiment was explained to the residents. Since Mae Top Nua and Mae Top Klang are close to each other, and there may have been some overlapping of their mosquito populations, they were treated in the same period. On 1 July 1992 new cotton-polyester bed nets treated individually with lambdacyhalothrin (10 mglm2) were distributed to everyone in Mae Top Nua and Mae To P Klang except the occupants of 3 sentinel rooms used or mosquito trapping. The bed nets of residents who already hid them tier; temporarily stored to ensure that thev used onlv the treated ones. On 25 Tulv 1992 the treated nets were replaced with the occup&t? own bed nets, which were untreated. In the other 2 communities, Mae Chon and the Wild Animal Conservation Centre, this pattern was reversed. At the end of the study all the treated bed nets were given free to the villagers. The villagers' bed nets were also treated as requested. In Mae Chon, where 36% of nets had been treated in late 1991 in the long-term study (about 6 months before this study began), people were encouraged to wash their nets before the study.",
+          "aPaired parous rates compared by Mantel-Haenszel X' tests, stratifying for corresponding mgnths; co~@sris;fs000f0verall parous rates were stratified by month and village. Significant differences are indicated thus: P<O.Ol, . .",
+          "each bag was covered with a piece of wet cotton cloth. The mosquitoes collected from the 3 light traps in each community per night were pooled and identified to species. Most of them were dissected for parity.",
+          "The daily counts were log-transformed to reduce the variance. Comparisons of the geometric means between the periods when treated and untreated nets were used in each community were carried out by using Student's t tests. Analysis of variance (ANOVA) was carried out to partition variation into treatments and communities. The proportions of parous and nulliparous mos 9 uitoes between the 2 periods were compared by using x tests.",
+          "There was no statistically significant change in the village biting densities of A. sawadwongporni and A. maculatus S.S. m any of the treated villages; a significant increase in A. maculatus S.S. biting rate was observed in the untreated village Mae Top Nua. The density of A. dirus s.1. was significantly decreased in Mae Chon, but not elsewhere.",
+          "When the numbers collected each month were pooled between villages in the treated and untreated groups, there was no significant change from 1990 to 1991 in either group.",
+          "In the farm hut areas, where no intervention was carried out, there were statistically significant changes (mostly decreases) in the densities of each of the 4 species in some sites. However, the overall densities of only A. maculatus S.S. and A. dirus s.1. were significantly reduced.",
+          "Effect on parous rates. Changes in parous rates were broadly similar to the changes in density. The results are shown in detail only for A. minimus species A (Table 2); those for the other species were similar. Although the total numbers caught were reasonably large, the sample size of a given species in a given village was usually quite small, and few of the year-on-year comparisons were significant. Overall, positive changes in parous rate out-",
+          "numbered negative ones in treated as well as untreated villages. The only result that could possibly be interpreted as evidence for an effect of the nets was seen with A. minimus species A in Mae Chon, where there was a significant decrease in both density and parous rate. No calculation was made for A. dirus s.1. collected in the villages because of the very low numbers caught; at the farm huts, no significant change of the parous rate was observed."
+        ],
+        "subsections": []
+      },
+      {
+        "title": "The short-term evaluation",
+        "content": [
+          "Bednet usage. Excellent community participation was observed in all 4 communities. All residents used nets, except for a couple in Mae Top Nua who had never slept under a net and refused to use it. The proportion of residents who accepted the treated nets to replace their previous untreated nets ranged from 93% to 98%, excluding those in houses where light traps were used. Washing of a treated net was not observed during the study period.",
+          "Table 3. Analysis of variance on the log-transformed numbers of A. minimus species A collected by CDC light-traps hung beside occupied untreated bed nets in the periods when both treated and untreated were installed"
+        ],
+        "subsections": []
+      },
+      {
+        "title": "Discussion",
+        "content": [
+          "were compared between 1990 (pre-intervention) and 1991 (post-intervention), for each species and village, a broadly similar pattern was seen in both densities and parous rates. The great majority of year-on-year comparisons showed no significant change, and there was no hint that densities and parous rates in treated villages were more likely to decrease, or less likely to increase, than in untreated villages. Presumably, therefore, the significant changes that were seen were due to environmental factors rather than the intervention.",
+          "The fact that there was no apparent impact of the nets on populations of A. sawadwongpomi and A. maculatus S.S. is not surprising. These 2 species are largely exophagic and zoophilic (UPATHAM etal., 1988), and would not be expected to be greatly affected, at the population level, by the introduction of treated nets, even in conditions of high coverage. Neither was it very surprising that there was no consistent evidence for an effect of treated nets on any species in the farm hut setting. Although some villagers did take their treated nets with them on visits to the farm huts, many did not, and the proportion of potential hosts under treated nets was always much lower at the farm huts than in the villages.",
+          "One might have expected greater impact on the more anthropophilic A. minimus species A and A. dirus s.l., but there was little evidence for this. The strongest evidence came from the village Mae Chon; in the long-term study, the densities and/or parous rat& of these-species we& significantly lower in 1991 than 1990. Was this because the nets did have an effect in Mae Chon, but for some reason did not do so in Mae Salap and Huai Ngu, or were the decreases in Mae Chon merely a reflection of local environmental changes? There can be no conclusive answer to this question, but evidence in favour of the latter explanation, in the case of A. minimus species A, is available from the short-term study.",
+          "In the short-term study, densities of A. minimus soecies A in Mae Chon and in the Wild Animal Conservation Centre did decrease in the second half of the study, following the introduction of treated nets. However, there are 3 reasons for believing that this was not due to the treated nets. Firstly, a very similar pattern was seen at the same time in Mae Top Nua, where treated nets had been in use during the first half of the study and had just been removed. Secondly, the decrease in density was accompanied by a slight increase in parous rates, as would be expected if it were due to a decrease in recruitment, and <he opposite of what would be expected if it were due to an increase in mortalitv. Thirdlv, the decline in numbers in both Mae Chon and-the Wild-Animal Conservation Centre began 6-10 d after the introduction of treated nets. and continued for another 10-12 d. This is not the pat&n that would be expected if it were an effect of treated nets. Assuming that the parous rates observed in this study (50-70%) are a reasonable guide to rates of survival per gonotrophic cycle, few of the mosquitoes alive on a given day can be expected to remain alive one week later. Any killing effect by treated nets should therefore be manifest within a few days and be very close to its maximum within 10 d of intervention.",
+          "For these reasons, we conclude that the treated nets did not have a mass killing effect on A. minimus species A. The results agree with-2 other studies in Tak-province. about 200 km south of Mae Sariana, bv C. Green (unpublished data) and M. Prasittisuk &ersonal communication) .",
+          "The numbers of A. dims s.2. were too low to permit a conclusive result. However, C. Green (unpublished data) observed in a small trial in Tak province that treated nets had a significant impact on A. dirus species A, but not species D. Further investigation on this species group is needed.",
+          "In conclusion, these results indicate that communitywide use of pyrethroid-treated nets does not enerally reduce the vectorial capacity of populations o i: A. mtmmus '. species A and the A. macularus group in north-west Thailand. This does not mean that treated nets are ineffective in protecting against malaria; an individual sleeping under a treated net should nevertheless gain good personal protection against vector biting. However, the lack of a mass effect does mean that there is no protection for people outside nets. From the point of view of an individual who does sleep under a treated net, it does not matter whether or not others in the same community do so as well. From the public health point of view, it means that there is no advantage (in terms of efficacy) in organizing the impregnation of nets on a community-by-community basis, rather than household-by-household, which may often be easier in practice.",
+          "We are most grateful to MS Wanapa Suwonkerd, Mr Somsak Wongkatkul, and their insect collection teams for collecting mosquitoes. Many thanks also to the staff of Mae Sariang Malaria Sector and the residents of Mae Han, Mae Chon, Mae Top Nua, Mae Top Klang, Mae Salaq, Huiu Ngu and the Wdd Amma1 Conservation Centre for then warm co-operation. The insecticide was supplied by Zeneca, UK, via Dr Graham White. This study received financial support from the UNDP/World Bar&WHO Special Programme for Research and Training in Tropical Diseases and the Faculty of Medicine, Chiang Mai University.",
+          "- Coluzzi, M. (19 4). Heterogeneltles of the malaria vectorial sys-",
+          "tern in tropical Africa and their significance in malaria epidemiology and control. Bulletin of the World Health Organiaatiun, 62, supplement, 107-113.",
+          "- Hii, J. L. K., Kanai, L., Foli ela, A., Kan, S. K. P. Burkot T. R. 81 Wirtz, R. A. (19937. Impact of permethr&npre& nated mosquito nets compared with DDT house-spraying against malaria transmission by Anopheles farauti and A. urictulatus in the Solomon Islands. Medical and Veterinary \\$ ntomology, 7,333-338.",
+          "- Jana-Kara, B. R., Wajihullah, Shahi, B., Dev, V., Curtis, C. F. & Sharma, V. P. (in press). Deltamethrin impregnated bed nets against Anophilesmin&us transmitted maiariain Assam, India. 3amnal of Tropical Medicine and Hygiene.",
+          "- Lindsay, S. W., Alonso, P. L., Armstrong Schellenberg, J. R. M., Hemingway, J., Thomas, P. J., Shenton, F. C. & Greenwood, B. M. (1993a). A malaria control trial using insecticidetreated bed nets and targeted chemoprophylaxis in a rural area of The Gambia, West Africa. 3. Entomological characteristics of the study area. Transactions of the Royal Society of",
+          "Tropical Medicine and Hygiene, 87, supplement 2,1%23.",
+          "- Lindsay, S. W., Alonso, P. L., Armstrong Schellenberg, J. R. M., Hemingway, J., Adiamah, J. H., Shenton, F. C., Jawara, M. & Greenwood, B. M. (1993b). A malaria control trial using insecticide-treated bed nets and targeted chemoprophylaxis in a rural area of The Gambia, West Africa. 7. Impact of permethrin-impregnated bed nets on malaria vectors. Transactions of the Royal Society of Tropical Medicine and Hygiene, 87, supplement 2,45-5 1.",
+          "Received 5 July 1994; revised 12 December 1994; accepted fm publication 13 December 1994"
+        ],
+        "subsections": []
+      }
+    ],
+    "references": [
+      "One possible alternative method for control of malaria is the use of pyrethroid-treated bed nets (ROZENDAAL, 1989; WHO, 1989; CURTIS et al., 1990), which have shown benefits in reducing the number of bites on humans sleeping within them, even if there are holes in them, or on humans nearby because of the deterrent and excite-repellent effects and feeding inhibition of the insecticide (LINES et al., 1987). When used by a whole community, the treated nets might be expected to have a 'mass effect', reducing the density and longevity of vector populations, and thus providing an additional benefit above the improved personal protection provided by individual use. However, of the numerous trials reviewed by CURTIS (1992) or reported more recently (SAMA-RAWICKREMA et al., 1992; BEACH et al., 1993; DAS et al., 1993; HII et al., 1993; KARCH et al., 1993; KERE et al., 1993; LINDSAY et al., 1993a, 1993b), many were not designed to allow detection of a mass effect, and in others no mass effect was seen. The clearest evidence for a mass effect has come from trials with anthropophilic and endophilic A. gambiae in Africa (MAGESA et al., 1991; RO-BERT & CARNEVALE, 1991; KARCH et al., 1993), with endophilic populations of A. minimus s.1. in India (JANA-KARA et al., in press), and with A. farauti in the Solomon Islands (KERE et al., 1993). Howevey, evidence for the absence of a mass effect with A. gambtae s.1. was reported from The Gambia; this may have been due to the mixing of mosquito populations between villages with treated and untreated bed nets (LINDSAY et al., 1993b). In the A. tn4nctulatus complex in Papua New Guinea, there was a-reduction in th; human blood index and a sluft in the peak time of biting from late to early in",
+      "the night, but no evidence for a reduction in density or longevity (MILLEN, 1986; CHARLWOOD & GRAVES, 1987; GRAVES et al., 1987).",
+      "Starting in late 1989, a large-scale epidemiological trial of lambdacyhalothrin-treated bed nets was carried out in north-west Thailand. This paper presents the entomological evaluation, which consisted of a long-term and a short-term study. The impact on malaria incidence will be presented separately by A. Aramrattana et al. (paper in preparation).",
+      "Four forest fringe villages, Mae Han, Mae Chon, Mae Top Nua and Mae Salap, and a deep forest village, Huai Neu. were selected for the studv. These villages were aGong the 24 units of a arasitolo&cal evaluation(AR.4~- RATTANA, 1993). Mae f!I alap and Huai Ngu are isolated villages. At Mae Top Nua there is a neighbouring village about 500 m away, separated by 2 hills. Mae Han and Mae Chon are separated from each other by about 800 m and a hill. The annual malaria Darasite incidence in 1989 varied from 80.7-279.7 per 1060 persons. Details of the population and bed net usage are given in Table 1. Detection of malaria sporozoites by enzyme-linked immunosorbent assay (BURKOT et al., 1984; WIRTZ et al., 1987) has suggested that A. minimus species A, A. sawadwongporni (formerly A. maculatus species A), A. maculatus S.S. and A. dirus s.1. are the potential vectors in the area (SOMBOON, 1993).",
+      "aData from Mae Sariang Malaria Sector (1990).",
+      "Net census, impregnation and distribution. Most people in the area used cotton or cotton-polyester nets. In an attempt to obtain a high rate of net &age, a census was carried out in earlv 1990 and a number of additional nets were distributed at a subsidized price. Over 80% of nets in all the entomological study villages were treated in the first round of impregnation; except for Mae Han where the coverage was verv low (see Table 11. In the second round of Geatment in October/ November 1991, relatively low coverage was found over the whole study area. Details of net impregnation and distribution will be described by A. Aramrattana et al. (paper in preparation).",
+      "Study design and study area. Since recruitment to mosquito populations fluctuates widely in the short term, more intensive measurements of mosquito density and parous rates on a daily basis may give a more reliable picture than less intensive occasional sampling over longer periods, as was done in the long-term study (CHARL-WOOD et al., 1985; CHARLWOOD & GRAVES, 1987; HOLMES & BIRLEY, 1987). Daily sampling increases the sample size in relation to variability so that small changes in the mosquito density and parous rate may be detected. A short-term study of the effect of treated bed nets on vector populations was therefore carried out in order to complement the long-term study. A cross-over design permitted each village to act as both control and treated units, thus allowing for the permanent effects of environmental differences. Washing of nets was unlikely to have taken place over the relatively short study period and was easy to check.",
+      "Mosquito collection. CDC light-trap catches were used for daily collection of mosquitoes, hung beside occupied untreated bed nets (to avoid the deterrent and excitorepellent effects of the insecticide) in each of 3 houses in each community. They were connected with rechargeable batteries in the evening and disconnected in the morning by the project team. This method has shown a fairly good correlation with indoor human-biting catches in sampling A. minimus species A, which was the most abundant indoor biting species (ISMAIL et al., 1982; SOM-BOON, 1993). To reduce mortality of trapped mosquitoes caused by the wind from the trap's fan, the necks of the collection bags were extended to 35.5 cm, and the top of",
+      "The 2 studies described here differed not only in their timing but also in the intensity of entomological monitoring. The long-term study, which covered 8 months of the year, yielded adequate numbers of A. sawadwongpork and A. maculatus S.S. as well as A. minimus species A, but suffered from the washing of about 40% of the nets by villagers after the first impregnation, and from the low rate of reimpregnation. These problems were probably associated with the net washing habit of villagers, sideeffects of the insecticide and the timing of reimpregnation during the period of harvest, when most people were in the rice fields all day. The short-term study was more focused and did not suffer from the problems of net washing and low coverage. Washing nets is known to reduce greatly the insecticidal activity of treated nets (MIL-LER et al., 1991).",
+      "The absence of a detectable mass killing effect of treated nets on A. minimus species A contrasts with the results of JANA-KARA et al. (in press) in Assam, India. This is presumably related to the biting behaviour of mosquitoes. A. minimus species A in Thailand is exophaglc, exophilic, and readily bites humans and animals ihr&ghoutihenight (ISMAIL et al., ~~~~;RATANATHAM et al.. 1988: P. Somboon. unoublished data). A. minimus in A&am, 6y contrast, is'endbphagic, endophilic and anthropophilic with a biting peak after midnight (RAo,",
+      "1984; JANA-KARA et al., in press); similar behaviour used to be observed in Thailand before extensive DDT house spraying. The morphological features of A. minimus in Assam (RAo. 1984) and A. minimus soecies A in Thailand (SUCH~RIT et al., i988) are similar. -",
+      "In addition, the existence of domestic animals in a human residential area can diminish the mosquito attack rate on humans (COLUZZI, 1984; BURKOT et al., 1989). In most Karen communities, cattle are very common and can provide alternative blood meals. They are normally kept under a shelter away from houses. Blood meal identification of blood-fed A. minimus s ties A females collected by indoor light traps showed t r at about 50% of them (n=89) were from animal sources (P. Somboon, unpublished data).",
+      "- Aramrattana, A. (1993). Effectiveness of a lambda-cyhalothrin bednet impregnation againsi forestlbord& malaria in north west Thailand. PhD Thesis. Universitv of London.",
+      "- Beach, R. F., Ruebush; T. K., Sixton, J. D., Bright, P. L., Hightower, A. W., Breman, J. G., Mount, D. L. & 0100, A. J. (1993). Effectiveness of permethrin-impregnated bed nets and currains for malaria control in a holoendemic area of western Kenya. American Journal of Tropical Medicine and Hygieq 49,290-300.",
+      "- Burkot, T. R., Williams, J. L. & Schneider, I. (1984). Identification of Plasmodium falci arum-infected double antibody enzyme-lin i: mosquitoes by a ed immunosorbent assay. AmerG canyoumal of Tropical Medicine and Hygiene, 33,783-788.",
+      "- Burkot, T. R., Dye, C. & Graves, P. M. (1989). An analysis of some factors determining the sporozoite rates, human blood indexes, and biting rates of members of the Anophelespunctulatus corn lex in Pa ua New Guinea. American 3ournal of Tropical d- e&me an B Hygzene, 40,229-234.",
+      "- Charlwood, J. D. & Graves, P. M. (1987). The effect of permethrin-impregnatd bed nets on a population of A rauti in coastal Papua New Guinea. Medical and Yhelfsfa- etennary Entomology, 1,319-327.",
+      "- Charlwood, J. D., Birley, M. H., Dagaro, H., Paru, R. & Home, P. R. (1985). Assessing survival rates of Am&&es farauti (fiiptera:' Culicidae) fromPapua New Guinea. journal of AnimalEcolop 54,1003101\\$.,",
+      "- Curtis, C. F. (1992). Personal protection methods against vectors of disease. Review of Medical and Veterinary Entomology, 80,543-553.",
+      "- Curtis, C. F., Lines, J. D., Carnevale, P., Robert, V., Boudin, C., Halna, J.-M., Pazert, L., Gazin, P., Richard, A., Mouchet, J., Charlwood, J. D., Graves? P. M., Hossain,, M. I., Kurihara, T., Ichimori? K., Li ZUZI, Lu Baolin, Malori, G., Sabatinelli, G., Coluzw, M., Njunwa, K. J., Ilkes, T. J., Snow, R. W. & Lindsay, S. W. (1990). Impregnated bed nets and curtains against malaria mosquitoes. In: Appropriate Technology in Vector Control, Curtis, C. F. (editor). Boca Raton, Florida: CRC Press.",
+      "- Das, P. K., Das, L. K., Parida, S. K., Patra, K. P. & Jambulingarn, P. (1993). Lambdacyhalothrin treated bed nets as an alternative method of malaria control in tribal villages of Koraput District, Orissa State, India. Southeast AsianJournal of Tropical Medicine and Public Health? 24,5 13-52 1.",
+      "- Detinova, T. S. (1962). Age Grou m Methods in Di tera of Medical Importance: with Special f;f e erence w Some J ecwrs of Malaria. Geneva: World Health Organization, monograph series, no. 47.",
+      "- Graves, P. M., Brabin, B. J., Charlwood? J. D., Burkot, T. R., Cattani, J. A., Ginny, M., Pairo, J., Gibson, F. D. & Alpers, M. P. (1987). Reduction in Plusmodium falciparum incidence and prevalence in children under five by permethrin impregnation of mosquito nets. Bulletin of the World Health Organization,65,869-877.",
+      "- Gus&on, T. L. (1989). True EPrsTAThfand, 3rd edition. Richardson, Texas: Epistat.",
+      "- Holmes, P. R. & Birley, M. H. (1987). An improved method for survival rate analysis from time series of haematophagous dipteran populations.Journul ofAnimal Ecology, 56,427-440.",
+      "- Ismail, I. A. H., Notananda, V. & Sche ens, J. (1974). Studies on malaria and responses of Anop Re les balabacensis balabace+s and Anopheles mini,mus to DDT residual spraying in ~~~~s\\$. Part I. Pre-spraying observations. Acta Troprca, 31,",
+      "- Ismail, I. A. H., Pinichpongse, S., Chitprarop, U., Prasittisuk, C. & Schepens, J. (1982). Trials with CDC and Monks Wood light-traps for sampling malaria vectors in Thailand. Geneva: World Health Organization, mimeographed document WHONB(X32.864.",
+      "- Karch, S., Garin, B., Asidi, M., Manzambi, Z., Salaun, J. J. & Mouchet, J. (1993). Moustiquaires impregn&s contre le paludisme au Zaire. Annules de la So&e! Belge de Mhdecine Tropicale, 73,37-53.",
+      "- Kere, N. K., Parkinson, A. D. & Samrawickerema, W. A. (1993). The effect of permethrin impregnated bednets on the incidence of Plasmodium falciparum in children of north Guadalcanal, Solomon Islands. Southeast AsianJournal of Tropical Medicine and Public Health, 24,130-137.",
+      "- Ketrangsee, S., Suvannadabba, S., Thimasarn, K., Prasittisuk, C. & Rooney, W. (1991). Malaria situation in Thailand with special reference to forest related malaria. In: Forest Malaria in Southeast Asia. Proceedings of an Informal Consultative Meeting, Sharma, V. P. & Kondrashin, A. V. (editors). New Delhi: World Health Organization/Medical Research Council.",
+      "- Lines, J. D., Myamba, J. & Curtis, C. F. (1987). Experimental hut trials of permethrin impregnated nets and curtains against malaria vectors in Tanzania. Medical and Vetetinaty Entm logy, 1,37-51.",
+      "- Magesa, S. M., Wilkes, T. J., Mnzava, A. E. P., Njunwa, K. J., Myamba, J., Kivuyq, M. D. P., Hill., N., Lines, J. D. & Curtis, C. F. (1991). Trial of pyrethroid unpregnated bednets in an area of Tanzania holoendemic for malaria. Part 2. Effects on the malaria vector population. Acta Tropica, 49, 97- 10X \\_\"\".",
+      "- Miller+ D. B. (1986). Alternative methods of personal protection agarnst the vectors of malaria in lowland Papua New Guinea with empkasis on the evaluation of permethrin-impregnated bednets. MPM Thesis, Simon Fraser University.",
+      "- Miller, J. E., Lindsay, S. W. & Armstrong, J. R. M. (1991). Experimental hut trials of bednets impregnated with synthetic pyrethroid or organophosphate insecticide for mosquito contr;127The Gambia. Medical and Veterinay Etttomologv, 5,",
+      "- Rao, T.R.' (1984). Tke Anophelines of India, revised edition. New Delhi: Malaria Research Centre, Indian Council of Medical Research.",
+      "- Ratanatham, S., Upatham, E. S., Prasittisuk, C., Rojanasunan, W., Teerasil Bionomics o P , N., Tremongkol, A. & Viyanant, V. (1988). Anopheles minimus and its role in malaria transmission in Thailand. Southeast Asian 3ownal of Tropical Medicine and Public Health, 19,283-289.",
+      "- Robert, V. & Camevale, P. (1991). Influence of deitamethrin treatment of bed nets on malaria transmission in the Kou valley, Burkina Faso. Bulletin of the World Health Organization. 69,735-740.",
+      "- Rozebdaal, J. A. (1989). Impregnated mosquito nets and curtains for self-protection and vector control. Tropical Diseases Bulletin, 86, supplement, I-41.",
+      "- Samarawickrema, W. A., Parkinson, A. D., Kere? N. & Gala, 0. (1992). Seasonal abundance and biting behavlour ofAnop kelespunctulatus and A. koliensis in Malaita Province, Solomon Islands, and a trial of permethrin impregnated bednets against malaria transmission. Medical and Veterinary Entomology, 6,371-378.",
+      "- Somboon, P. (1993). Forest malaria vectors in northwest Thailand and a trial of control with mrethroid-treated bednets. PhD Thesis, Univeisity of London: \\*",
+      "- Sucharit, S., Komalanisra, N., Leerningsawat, S., Apiwathnasom, C. & Thongrungkiat, S. (1988). Population genetic studies on the Anopheles minimus complex in Thailand. Southeast Asian Journal of Tropical Medicine and Public Health, 19, 717-723.",
+      "- Upatharn, E. S., Prasittisuk, C., Ratanatham, S., Green, C. A., Rojansunan, W., Setakana, P., Theerasilp, N., Tremongkol, A:, Viyanant, V., Pantuwatana, S. & Andre, R. G. (1988). Bionomics of Anopkeles macukztus complex and their role in malaria transmission in Thailand. Southeast Asian Journal of Tropical Medicine and Public Health, 19,259-269.",
+      "- WHO (1989). The use of impregnated bednets and other materials for vector-borne disease control. Geneva: World Health Organization, mimeo ra hed document WHONBC/89.981.",
+      "- Wirtz, R. A., BE ur ot, T. R., Graves, P. M. & Andre, R. G. (1987). Field evaluation of enzyme-linked immunosorbent assays for Plasmodium falciparum and Plasmodium vivax sporozoites in mosquitoes (Diptera: Culicidae) from Papua New Guinea.Jounral of Medical Entomology, 24,433-437."
+    ],
+    "equations": [
+      "Fig. 3. Changes in the parous rate of A. minimus species A. Numbers of nulliparous and parous females collected in every four-night period were pooled. Broken lines show values when untreated bed nets were installed and the solid lines show those for treated bed nets. MTN=Mae Top Nua, MTK-Mae Top Klang, WAC=Wild Animal Conservation Centre, and MC=Mae Chon.",
+      "The ANOVA results (Table 3) showed that there was significant variation of A. minimus species A densities among the study communities. The effect of treated bed nets was of borderline significance (P=O\\*O96). During the second half of the study period? there was a declining trend in densities in 3 of the 4 villages, including 2 of those with treated nets. However, if this had been caused, at least in those 2 villages, by the intervention of treated nets, there should have been a corresponding decline in parous rates. In fact, there was a slight increasing trend, suggesting that the decline in density was related to a decline in recruitment."
+    ],
+    "tables": [
+      "|                             |            | Control villa es |             | Treatitzllages |            |\n|-----------------------------|------------|------------------|-------------|----------------|------------|\n|                             | Mae<br>Han | ii ae Top<br>Nua | Mae<br>Chon | ⪅              |            |",
+      "|                             |            | Control villa es |             | Treatitzllages |            |\n|-----------------------------|------------|------------------|-------------|----------------|------------|\n|                             | Mae<br>Han | ii ae Top<br>Nua | Mae<br>Chon | ⪅              |            |\n| No. of households           | 149        |                  |             |                |            |",
+      "|                             |            | Control villa es |             | Treatitzllages |            |\n|-----------------------------|------------|------------------|-------------|----------------|------------|\n|                             | Mae<br>Han | ii ae Top<br>Nua | Mae<br>Chon | ⪅              |            |\n| No. of households           | 149        |                  |             |                |            |\n| Populationa                 | 719        | lIf!l            | ;:          | 2::            | 1;:        |",
+      "|-----------------------------|------------|------------------|-------------|----------------|------------|\n|                             | Mae<br>Han | ii ae Top<br>Nua | Mae<br>Chon | ⪅              |            |\n| No. of households           | 149        |                  |             |                |            |\n| Populationa                 | 719        | lIf!l            | ;:          | 2::            | 1;:        |\n| No. of nets currently usedb | 304        |                  |             | 118            |            |",
+      "|                             | Mae<br>Han | ii ae Top<br>Nua | Mae<br>Chon | ⪅              |            |\n| No. of households           | 149        |                  |             |                |            |\n| Populationa                 | 719        | lIf!l            | ;:          | 2::            | 1;:        |\n| No. of nets currently usedb | 304        |                  |             | 118            |            |\n| No. of persons/net          | 2.4        | 2437             | 2::         | 2.2            | 2%         |",
+      "| No. of households           | 149        |                  |             |                |            |\n| Populationa                 | 719        | lIf!l            | ;:          | 2::            | 1;:        |\n| No. of nets currently usedb | 304        |                  |             | 118            |            |\n| No. of persons/net          | 2.4        | 2437             | 2::         | 2.2            | 2%         |\n| No. of nets treated         |            |                  |             |                |            |",
+      "| Populationa                 | 719        | lIf!l            | ;:          | 2::            | 1;:        |\n| No. of nets currently usedb | 304        |                  |             | 118            |            |\n| No. of persons/net          | 2.4        | 2437             | 2::         | 2.2            | 2%         |\n| No. of nets treated         |            |                  |             |                |            |\n| First treatmentC            | 55 (18.1%) | 36 (83.7%)       | 31 (81.5%)  | 96 (81.4%)     | 47 (97.9%) |",
+      "| No. of nets currently usedb | 304        |                  |             | 118            |            |\n| No. of persons/net          | 2.4        | 2437             | 2::         | 2.2            | 2%         |\n| No. of nets treated         |            |                  |             |                |            |\n| First treatmentC            | 55 (18.1%) | 36 (83.7%)       | 31 (81.5%)  | 96 (81.4%)     | 47 (97.9%) |\n| Second treatmentd           | 18 (5.9%)  | 12 (27.9%)       | 14 (36.8%)  | 37 (31.4%)     | 30 (62.5%) |",
+      "| No. of persons/net          | 2.4        | 2437             | 2::         | 2.2            | 2%         |\n| No. of nets treated         |            |                  |             |                |            |\n| First treatmentC            | 55 (18.1%) | 36 (83.7%)       | 31 (81.5%)  | 96 (81.4%)     | 47 (97.9%) |\n| Second treatmentd           | 18 (5.9%)  | 12 (27.9%)       | 14 (36.8%)  | 37 (31.4%)     | 30 (62.5%) |",
+      "| No. of nets treated         |            |                  |             |                |            |\n| First treatmentC            | 55 (18.1%) | 36 (83.7%)       | 31 (81.5%)  | 96 (81.4%)     | 47 (97.9%) |\n| Second treatmentd           | 18 (5.9%)  | 12 (27.9%)       | 14 (36.8%)  | 37 (31.4%)     | 30 (62.5%) |",
+      "|  |  | Table 2. Comparisons of the parous rates of A. minimus species A before (1990) and after (1991) intervention |  |  |  |  |  |\n|--|--|--------------------------------------------------------------------------------------------------------------|--|--|--|--|--|\n|--|--|--------------------------------------------------------------------------------------------------------------|--|--|--|--|--|",
+      "|  |  | Table 2. Comparisons of the parous rates of A. minimus species A before (1990) and after (1991) intervention |  |  |  |  |  |\n|--|--|--------------------------------------------------------------------------------------------------------------|--|--|--|--|--|\n|--|--|--------------------------------------------------------------------------------------------------------------|--|--|--|--|--|",
+      "|  |  | Table 2. Comparisons of the parous rates of A. minimus species A before (1990) and after (1991) intervention |  |  |  |  |  |\n|--|--|--------------------------------------------------------------------------------------------------------------|--|--|--|--|--|\n|--|--|--------------------------------------------------------------------------------------------------------------|--|--|--|--|--|\n|                      | 1990 | No. dissected<br>1991 | 1990   | Parous rate (%<br>1 3 91 | Diffeenc<br>. a , | Y2a I\"    |  |  |",
+      "|--|--|--------------------------------------------------------------------------------------------------------------|--|--|--|--|--|\n|                      | 1990 | No. dissected<br>1991 | 1990   | Parous rate (%<br>1 3 91 | Diffeenc<br>. a , | Y2a I\"    |  |  |\n|----------------------|------|-----------------------|--------|--------------------------|-------------------|-----------|--|--|\n|                      |      |                       |        |                          |                   |           |  |  |",
+      "|                      | 1990 | No. dissected<br>1991 | 1990   | Parous rate (%<br>1 3 91 | Diffeenc<br>. a , | Y2a I\"    |  |  |\n|----------------------|------|-----------------------|--------|--------------------------|-------------------|-----------|--|--|\n|                      |      |                       |        |                          |                   |           |  |  |\n| Un;tr~e\\$lllages     |      |                       | 57.1   |                          | -0.2              | 0.01      |  |  |",
+      "|                      | 1990 | No. dissected<br>1991 | 1990   | Parous rate (%<br>1 3 91 | Diffeenc<br>. a , | Y2a I\"    |  |  |\n|----------------------|------|-----------------------|--------|--------------------------|-------------------|-----------|--|--|\n|                      |      |                       |        |                          |                   |           |  |  |\n| Un;tr~e\\$lllages     |      |                       | 57.1   |                          | -0.2              | 0.01      |  |  |\n| Nua                  | 1E   | 3;:                   | 67.3   | E                        | +6.3              | 2.89      |  |  |",
+      "|----------------------|------|-----------------------|--------|--------------------------|-------------------|-----------|--|--|\n|                      |      |                       |        |                          |                   |           |  |  |\n| Un;tr~e\\$lllages     |      |                       | 57.1   |                          | -0.2              | 0.01      |  |  |\n| Nua                  | 1E   | 3;:                   | 67.3   | E                        | +6.3              | 2.89      |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |",
+      "|                      |      |                       |        |                          |                   |           |  |  |\n| Un;tr~e\\$lllages     |      |                       | 57.1   |                          | -0.2              | 0.01      |  |  |\n| Nua                  | 1E   | 3;:                   | 67.3   | E                        | +6.3              | 2.89      |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |",
+      "| Un;tr~e\\$lllages     |      |                       | 57.1   |                          | -0.2              | 0.01      |  |  |\n| Nua                  | 1E   | 3;:                   | 67.3   | E                        | +6.3              | 2.89      |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |\n| Tr;~Cvi~;ges<br>ErZ\" | 231  | 417 102               | 65.884 | 7019 53.9                | - +5.1 14.5       | 7.19* 271 |  |  |",
+      "| Nua                  | 1E   | 3;:                   | 67.3   | E                        | +6.3              | 2.89      |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |\n| Tr;~Cvi~;ges<br>ErZ\" | 231  | 417 102               | 65.884 | 7019 53.9                | - +5.1 14.5       | 7.19* 271 |  |  |\n|                      | 3T;  |                       | 74.1   | 87.5                     | +13*4             | 0.10      |  |  |",
+      "|                      |      |                       |        |                          |                   |           |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |\n| Tr;~Cvi~;ges<br>ErZ\" | 231  | 417 102               | 65.884 | 7019 53.9                | - +5.1 14.5       | 7.19* 271 |  |  |\n|                      | 3T;  |                       | 74.1   | 87.5                     | +13*4             | 0.10      |  |  |\n|                      | 180  | 29:                   | 62.8   |                          | +7.6              | 0.63      |  |  |",
+      "|                      |      |                       |        |                          |                   |           |  |  |\n| Tr;~Cvi~;ges<br>ErZ\" | 231  | 417 102               | 65.884 | 7019 53.9                | - +5.1 14.5       | 7.19* 271 |  |  |\n|                      | 3T;  |                       | 74.1   | 87.5                     | +13*4             | 0.10      |  |  |\n|                      | 180  | 29:                   | 62.8   |                          | +7.6              | 0.63      |  |  |\n|                      | 514  | 404                   | 66.7   | ;:::                     | -0.1              | 0.76      |  |  |",
+      "| Tr;~Cvi~;ges<br>ErZ\" | 231  | 417 102               | 65.884 | 7019 53.9                | - +5.1 14.5       | 7.19* 271 |  |  |\n|                      | 3T;  |                       | 74.1   | 87.5                     | +13*4             | 0.10      |  |  |\n|                      | 180  | 29:                   | 62.8   |                          | +7.6              | 0.63      |  |  |\n|                      | 514  | 404                   | 66.7   | ;:::                     | -0.1              | 0.76      |  |  |\n| Farm huts            |      |                       |        |                          |                   |           |  |  |",
+      "|                      | 3T;  |                       | 74.1   | 87.5                     | +13*4             | 0.10      |  |  |\n|                      | 180  | 29:                   | 62.8   |                          | +7.6              | 0.63      |  |  |\n|                      | 514  | 404                   | 66.7   | ;:::                     | -0.1              | 0.76      |  |  |\n| Farm huts            |      |                       |        |                          |                   |           |  |  |\n| Mae Han              | 527  | 925                   | if;    | 35.5 547                 | -17.1 +6.8        | 30.10***  |  |  |",
+      "|                      | 180  | 29:                   | 62.8   |                          | +7.6              | 0.63      |  |  |\n|                      | 514  | 404                   | 66.7   | ;:::                     | -0.1              | 0.76      |  |  |\n| Farm huts            |      |                       |        |                          |                   |           |  |  |\n| Mae Han              | 527  | 925                   | if;    | 35.5 547                 | -17.1 +6.8        | 30.10***  |  |  |\n| f\\$:<br>'@WNua       |      | 718                   |        |                          |                   |           |  |  |",
+      "|                      | 514  | 404                   | 66.7   | ;:::                     | -0.1              | 0.76      |  |  |\n| Farm huts            |      |                       |        |                          |                   |           |  |  |\n| Mae Han              | 527  | 925                   | if;    | 35.5 547                 | -17.1 +6.8        | 30.10***  |  |  |\n| f\\$:<br>'@WNua       |      | 718                   |        |                          |                   |           |  |  |\n|                      | :2   | 272                   | 51:5   | 59.2                     | +7.7              |           |  |  |",
+      "| Farm huts            |      |                       |        |                          |                   |           |  |  |\n| Mae Han              | 527  | 925                   | if;    | 35.5 547                 | -17.1 +6.8        | 30.10***  |  |  |\n| f\\$:<br>'@WNua       |      | 718                   |        |                          |                   |           |  |  |\n|                      | :2   | 272                   | 51:5   | 59.2                     | +7.7              |           |  |  |\n|                      | 223  | 100                   |        |                          |                   |           |  |  |",
+      "| Mae Han              | 527  | 925                   | if;    | 35.5 547                 | -17.1 +6.8        | 30.10***  |  |  |\n| f\\$:<br>'@WNua       |      | 718                   |        |                          |                   |           |  |  |\n|                      | :2   | 272                   | 51:5   | 59.2                     | +7.7              |           |  |  |\n|                      | 223  | 100                   |        |                          |                   |           |  |  |\n| E&Z1ap               | 1663 | 2015                  | :i:;   | 46.3 510                 | -4.24             |           |  |  |",
+      "| f\\$:<br>'@WNua       |      | 718                   |        |                          |                   |           |  |  |\n|                      | :2   | 272                   | 51:5   | 59.2                     | +7.7              |           |  |  |\n|                      | 223  | 100                   |        |                          |                   |           |  |  |\n| E&Z1ap               | 1663 | 2015                  | :i:;   | 46.3 510                 | -4.24             |           |  |  |",
+      "|                      | :2   | 272                   | 51:5   | 59.2                     | +7.7              |           |  |  |\n|                      | 223  | 100                   |        |                          |                   |           |  |  |\n| E&Z1ap               | 1663 | 2015                  | :i:;   | 46.3 510                 | -4.24             |           |  |  |",
+      "| Source of<br>variation     | Sum of  | Degrees Mean<br>squares of freedom square |                 | F    | P          |\n|----------------------------|---------|-------------------------------------------|-----------------|------|------------|\n| Community                  | 2.2334  | 3                                         | yn              | 7.31 | 0~0001     |",
+      "| Source of<br>variation     | Sum of  | Degrees Mean<br>squares of freedom square |                 | F    | P          |\n|----------------------------|---------|-------------------------------------------|-----------------|------|------------|\n| Community                  | 2.2334  | 3                                         | yn              | 7.31 | 0~0001     |\n| Treated net<br>Community X | 0.2855  | 1                                         |                 |      | 2.81 0.096 |",
+      "| Source of<br>variation     | Sum of  | Degrees Mean<br>squares of freedom square |                 | F    | P          |\n|----------------------------|---------|-------------------------------------------|-----------------|------|------------|\n| Community                  | 2.2334  | 3                                         | yn              | 7.31 | 0~0001     |\n| Treated net<br>Community X | 0.2855  | 1                                         |                 |      | 2.81 0.096 |\n| treated net                | 0.4678  | 3                                         | 0.1559 1.53 0.2 |      |            |",
+      "|----------------------------|---------|-------------------------------------------|-----------------|------|------------|\n| Community                  | 2.2334  | 3                                         | yn              | 7.31 | 0~0001     |\n| Treated net<br>Community X | 0.2855  | 1                                         |                 |      | 2.81 0.096 |\n| treated net                | 0.4678  | 3                                         | 0.1559 1.53 0.2 |      |            |\n| Residual                   | 18.7378 |                                           | 0.1018          | -    | -          |",
+      "| Community                  | 2.2334  | 3                                         | yn              | 7.31 | 0~0001     |\n| Treated net<br>Community X | 0.2855  | 1                                         |                 |      | 2.81 0.096 |\n| treated net                | 0.4678  | 3                                         | 0.1559 1.53 0.2 |      |            |\n| Residual                   | 18.7378 |                                           | 0.1018          | -    | -          |\n| Total                      | 21.7245 | :i:                                       | -               | -    | -          |",
+      "| Treated net<br>Community X | 0.2855  | 1                                         |                 |      | 2.81 0.096 |\n| treated net                | 0.4678  | 3                                         | 0.1559 1.53 0.2 |      |            |\n| Residual                   | 18.7378 |                                           | 0.1018          | -    | -          |\n| Total                      | 21.7245 | :i:                                       | -               | -    | -          |",
+      "| treated net                | 0.4678  | 3                                         | 0.1559 1.53 0.2 |      |            |\n| Residual                   | 18.7378 |                                           | 0.1018          | -    | -          |\n| Total                      | 21.7245 | :i:                                       | -               | -    | -          |"
+    ],
+    "figures": [
+      "Fig. 2. Numbers of A. minimus species A females collected daily by 3 CDC light traps hung beside occupied untreated bed nets in houses in the periods when both treated and untreated nets were installed in 4 communities.",
+      "Effect on mosquito densities. Mean monthly mosquito densities in 1990 and 1991 are shown by species in Fig. 1. From 1990 to 1991, a statistically significant reduction in the biting density of A. minimus species A was observed in the village collection in Mae Chon, but this effect was not seen in the other treated villages or in either untreated village.",
+      "Light trap catches. The numbers of A. minimus species A females collected each night from each community are shown in Fig. 2 and the patterns of the parous rates in Fig. 3. There were great fluctuations of both mosquito density and parous rate. Heavy rains followed by flooding occurred in the middle of the first period and at the end of July to early August. This seemed to be associated with a large reduction in the mosquito densities in most sites, which were observed 4-5 d after flooding."
+    ],
+    "captions": []
+  },
+  "reading_order": [
+    {
+      "type": "authors",
+      "content": [
+        "Processing Time: 33.26s"
+      ],
+      "line": 2
+    },
+    {
+      "type": "paragraph",
+      "content": "============================================================...",
+      "line": 6
+    },
+    {
+      "type": "section_header",
+      "content": "Entomological evaluation of community-wide use of lambdacyhalothrinimpregnated bed nets against malaria in a border area of north-west Thailand",
+      "line": 8
+    },
+    {
+      "type": "paragraph",
+      "content": "Pradya Somboon', Jo Lines2, Apinun Aramrattana3, Udom Chitprarop4, Somsak Prajakwong4 and Chirasak K...",
+      "line": 10
+    },
+    {
+      "type": "subsection_header",
+      "content": "Abstract",
+      "line": 12
+    },
+    {
+      "type": "paragraph",
+      "content": "This paper reports 2 studies. (i) After a year of baseline data collection, lambdacyhalothrin-treate...",
+      "line": 14
+    },
+    {
+      "type": "paragraph",
+      "content": "Keywords: insecticide-impregnated bed nets, Anopheles sawadwongponi, A. maculatus, A. dirts, A. mini...",
+      "line": 16
+    },
+    {
+      "type": "section_header",
+      "content": "Introduction",
+      "line": 18
+    },
+    {
+      "type": "paragraph",
+      "content": "Malaria is a major public health problem in Thailand, especially in forest and border areas, Control...",
+      "line": 20
+    },
+    {
+      "type": "reference",
+      "content": "One possible alternative method for control of malaria is the use of pyrethroid-treated bed nets (ROZENDAAL, 1989; WHO, 1989; CURTIS et al., 1990), which have shown benefits in reducing the number of bites on humans sleeping within them, even if there are holes in them, or on humans nearby because of the deterrent and excite-repellent effects and feeding inhibition of the insecticide (LINES et al., 1987). When used by a whole community, the treated nets might be expected to have a 'mass effect', reducing the density and longevity of vector populations, and thus providing an additional benefit above the improved personal protection provided by individual use. However, of the numerous trials reviewed by CURTIS (1992) or reported more recently (SAMA-RAWICKREMA et al., 1992; BEACH et al., 1993; DAS et al., 1993; HII et al., 1993; KARCH et al., 1993; KERE et al., 1993; LINDSAY et al., 1993a, 1993b), many were not designed to allow detection of a mass effect, and in others no mass effect was seen. The clearest evidence for a mass effect has come from trials with anthropophilic and endophilic A. gambiae in Africa (MAGESA et al., 1991; RO-BERT & CARNEVALE, 1991; KARCH et al., 1993), with endophilic populations of A. minimus s.1. in India (JANA-KARA et al., in press), and with A. farauti in the Solomon Islands (KERE et al., 1993). Howevey, evidence for the absence of a mass effect with A. gambtae s.1. was reported from The Gambia; this may have been due to the mixing of mosquito populations between villages with treated and untreated bed nets (LINDSAY et al., 1993b). In the A. tn4nctulatus complex in Papua New Guinea, there was a-reduction in th; human blood index and a sluft in the peak time of biting from late to early in",
+      "line": 22
+    },
+    {
+      "type": "reference",
+      "content": "the night, but no evidence for a reduction in density or longevity (MILLEN, 1986; CHARLWOOD & GRAVES, 1987; GRAVES et al., 1987).",
+      "line": 24
+    },
+    {
+      "type": "reference",
+      "content": "Starting in late 1989, a large-scale epidemiological trial of lambdacyhalothrin-treated bed nets was carried out in north-west Thailand. This paper presents the entomological evaluation, which consisted of a long-term and a short-term study. The impact on malaria incidence will be presented separately by A. Aramrattana et al. (paper in preparation).",
+      "line": 26
+    },
+    {
+      "type": "section_header",
+      "content": "Materials and Methods",
+      "line": 28
+    },
+    {
+      "type": "paragraph",
+      "content": "Study area. The study was carried out in Karen villages located in forest and forest fringe areas in...",
+      "line": 32
+    },
+    {
+      "type": "reference",
+      "content": "Four forest fringe villages, Mae Han, Mae Chon, Mae Top Nua and Mae Salap, and a deep forest village, Huai Neu. were selected for the studv. These villages were aGong the 24 units of a arasitolo&cal evaluation(AR.4~- RATTANA, 1993). Mae f!I alap and Huai Ngu are isolated villages. At Mae Top Nua there is a neighbouring village about 500 m away, separated by 2 hills. Mae Han and Mae Chon are separated from each other by about 800 m and a hill. The annual malaria Darasite incidence in 1989 varied from 80.7-279.7 per 1060 persons. Details of the population and bed net usage are given in Table 1. Detection of malaria sporozoites by enzyme-linked immunosorbent assay (BURKOT et al., 1984; WIRTZ et al., 1987) has suggested that A. minimus species A, A. sawadwongporni (formerly A. maculatus species A), A. maculatus S.S. and A. dirus s.1. are the potential vectors in the area (SOMBOON, 1993).",
+      "line": 34
+    },
+    {
+      "type": "table",
+      "content": "|                             |            | Control villa es |             | Treatitzllages |            |\n|-----------------------------|------------|------------------|-------------|----------------|------------|\n|                             | Mae<br>Han | ii ae Top<br>Nua | Mae<br>Chon | ⪅              |            |",
+      "line": 36
+    },
+    {
+      "type": "table",
+      "content": "|                             |            | Control villa es |             | Treatitzllages |            |\n|-----------------------------|------------|------------------|-------------|----------------|------------|\n|                             | Mae<br>Han | ii ae Top<br>Nua | Mae<br>Chon | ⪅              |            |\n| No. of households           | 149        |                  |             |                |            |",
+      "line": 37
+    },
+    {
+      "type": "table",
+      "content": "|                             |            | Control villa es |             | Treatitzllages |            |\n|-----------------------------|------------|------------------|-------------|----------------|------------|\n|                             | Mae<br>Han | ii ae Top<br>Nua | Mae<br>Chon | ⪅              |            |\n| No. of households           | 149        |                  |             |                |            |\n| Populationa                 | 719        | lIf!l            | ;:          | 2::            | 1;:        |",
+      "line": 38
+    },
+    {
+      "type": "table",
+      "content": "|-----------------------------|------------|------------------|-------------|----------------|------------|\n|                             | Mae<br>Han | ii ae Top<br>Nua | Mae<br>Chon | ⪅              |            |\n| No. of households           | 149        |                  |             |                |            |\n| Populationa                 | 719        | lIf!l            | ;:          | 2::            | 1;:        |\n| No. of nets currently usedb | 304        |                  |             | 118            |            |",
+      "line": 39
+    },
+    {
+      "type": "table",
+      "content": "|                             | Mae<br>Han | ii ae Top<br>Nua | Mae<br>Chon | ⪅              |            |\n| No. of households           | 149        |                  |             |                |            |\n| Populationa                 | 719        | lIf!l            | ;:          | 2::            | 1;:        |\n| No. of nets currently usedb | 304        |                  |             | 118            |            |\n| No. of persons/net          | 2.4        | 2437             | 2::         | 2.2            | 2%         |",
+      "line": 40
+    },
+    {
+      "type": "table",
+      "content": "| No. of households           | 149        |                  |             |                |            |\n| Populationa                 | 719        | lIf!l            | ;:          | 2::            | 1;:        |\n| No. of nets currently usedb | 304        |                  |             | 118            |            |\n| No. of persons/net          | 2.4        | 2437             | 2::         | 2.2            | 2%         |\n| No. of nets treated         |            |                  |             |                |            |",
+      "line": 41
+    },
+    {
+      "type": "table",
+      "content": "| Populationa                 | 719        | lIf!l            | ;:          | 2::            | 1;:        |\n| No. of nets currently usedb | 304        |                  |             | 118            |            |\n| No. of persons/net          | 2.4        | 2437             | 2::         | 2.2            | 2%         |\n| No. of nets treated         |            |                  |             |                |            |\n| First treatmentC            | 55 (18.1%) | 36 (83.7%)       | 31 (81.5%)  | 96 (81.4%)     | 47 (97.9%) |",
+      "line": 42
+    },
+    {
+      "type": "table",
+      "content": "| No. of nets currently usedb | 304        |                  |             | 118            |            |\n| No. of persons/net          | 2.4        | 2437             | 2::         | 2.2            | 2%         |\n| No. of nets treated         |            |                  |             |                |            |\n| First treatmentC            | 55 (18.1%) | 36 (83.7%)       | 31 (81.5%)  | 96 (81.4%)     | 47 (97.9%) |\n| Second treatmentd           | 18 (5.9%)  | 12 (27.9%)       | 14 (36.8%)  | 37 (31.4%)     | 30 (62.5%) |",
+      "line": 43
+    },
+    {
+      "type": "table",
+      "content": "| No. of persons/net          | 2.4        | 2437             | 2::         | 2.2            | 2%         |\n| No. of nets treated         |            |                  |             |                |            |\n| First treatmentC            | 55 (18.1%) | 36 (83.7%)       | 31 (81.5%)  | 96 (81.4%)     | 47 (97.9%) |\n| Second treatmentd           | 18 (5.9%)  | 12 (27.9%)       | 14 (36.8%)  | 37 (31.4%)     | 30 (62.5%) |",
+      "line": 44
+    },
+    {
+      "type": "table",
+      "content": "| No. of nets treated         |            |                  |             |                |            |\n| First treatmentC            | 55 (18.1%) | 36 (83.7%)       | 31 (81.5%)  | 96 (81.4%)     | 47 (97.9%) |\n| Second treatmentd           | 18 (5.9%)  | 12 (27.9%)       | 14 (36.8%)  | 37 (31.4%)     | 30 (62.5%) |",
+      "line": 45
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 1. Population and numbers of bed nets in the 5 study villages, Mae Han, Mae Top Nua, Mae Chon,...",
+      "line": 47
+    },
+    {
+      "type": "reference",
+      "content": "aData from Mae Sariang Malaria Sector (1990).",
+      "line": 49
+    },
+    {
+      "type": "paragraph",
+      "content": "Since the coverage of DDT spraying in the study villages had been very poor for a nhberbf years and ...",
+      "line": 57
+    },
+    {
+      "type": "paragraph",
+      "content": "Study design. The study was divided into 2 phases, the first (baseline phase) during the high transm...",
+      "line": 59
+    },
+    {
+      "type": "reference",
+      "content": "Net census, impregnation and distribution. Most people in the area used cotton or cotton-polyester nets. In an attempt to obtain a high rate of net &age, a census was carried out in earlv 1990 and a number of additional nets were distributed at a subsidized price. Over 80% of nets in all the entomological study villages were treated in the first round of impregnation; except for Mae Han where the coverage was verv low (see Table 11. In the second round of Geatment in October/ November 1991, relatively low coverage was found over the whole study area. Details of net impregnation and distribution will be described by A. Aramrattana et al. (paper in preparation).",
+      "line": 61
+    },
+    {
+      "type": "paragraph",
+      "content": "Entomological data collection and analysis. Mosquitoes were collected on 2 human baits indoors and 2...",
+      "line": 63
+    },
+    {
+      "type": "paragraph",
+      "content": "In each catching site each year, the monthly counts of mosquitoes, indoors plus outdoors, were trans...",
+      "line": 65
+    },
+    {
+      "type": "section_header",
+      "content": "The short-term evaluation",
+      "line": 67
+    },
+    {
+      "type": "reference",
+      "content": "Study design and study area. Since recruitment to mosquito populations fluctuates widely in the short term, more intensive measurements of mosquito density and parous rates on a daily basis may give a more reliable picture than less intensive occasional sampling over longer periods, as was done in the long-term study (CHARL-WOOD et al., 1985; CHARLWOOD & GRAVES, 1987; HOLMES & BIRLEY, 1987). Daily sampling increases the sample size in relation to variability so that small changes in the mosquito density and parous rate may be detected. A short-term study of the effect of treated bed nets on vector populations was therefore carried out in order to complement the long-term study. A cross-over design permitted each village to act as both control and treated units, thus allowing for the permanent effects of environmental differences. Washing of nets was unlikely to have taken place over the relatively short study period and was easy to check.",
+      "line": 69
+    },
+    {
+      "type": "paragraph",
+      "content": "The study was conducted in 4 communities, 2 from the previous study (Mae Chon and Mae Top Nua), and ...",
+      "line": 71
+    },
+    {
+      "type": "paragraph",
+      "content": "Shortly before the study began, malaria workers had treated the bed nets in all the neiahbourina vil...",
+      "line": 73
+    },
+    {
+      "type": "paragraph",
+      "content": "Intervention method. House-to-house surveys were carried out one month before the intervention began...",
+      "line": 75
+    },
+    {
+      "type": "reference",
+      "content": "Mosquito collection. CDC light-trap catches were used for daily collection of mosquitoes, hung beside occupied untreated bed nets (to avoid the deterrent and excitorepellent effects of the insecticide) in each of 3 houses in each community. They were connected with rechargeable batteries in the evening and disconnected in the morning by the project team. This method has shown a fairly good correlation with indoor human-biting catches in sampling A. minimus species A, which was the most abundant indoor biting species (ISMAIL et al., 1982; SOM-BOON, 1993). To reduce mortality of trapped mosquitoes caused by the wind from the trap's fan, the necks of the collection bags were extended to 35.5 cm, and the top of",
+      "line": 81
+    },
+    {
+      "type": "figure",
+      "content": "Fig. 2. Numbers of A. minimus species A females collected daily by 3 CDC light traps hung beside occupied untreated bed nets in houses in the periods when both treated and untreated nets were installed in 4 communities.",
+      "line": 85
+    },
+    {
+      "type": "table",
+      "content": "|  |  | Table 2. Comparisons of the parous rates of A. minimus species A before (1990) and after (1991) intervention |  |  |  |  |  |\n|--|--|--------------------------------------------------------------------------------------------------------------|--|--|--|--|--|\n|--|--|--------------------------------------------------------------------------------------------------------------|--|--|--|--|--|",
+      "line": 87
+    },
+    {
+      "type": "table",
+      "content": "|  |  | Table 2. Comparisons of the parous rates of A. minimus species A before (1990) and after (1991) intervention |  |  |  |  |  |\n|--|--|--------------------------------------------------------------------------------------------------------------|--|--|--|--|--|\n|--|--|--------------------------------------------------------------------------------------------------------------|--|--|--|--|--|",
+      "line": 88
+    },
+    {
+      "type": "table",
+      "content": "|  |  | Table 2. Comparisons of the parous rates of A. minimus species A before (1990) and after (1991) intervention |  |  |  |  |  |\n|--|--|--------------------------------------------------------------------------------------------------------------|--|--|--|--|--|\n|--|--|--------------------------------------------------------------------------------------------------------------|--|--|--|--|--|\n|                      | 1990 | No. dissected<br>1991 | 1990   | Parous rate (%<br>1 3 91 | Diffeenc<br>. a , | Y2a I\"    |  |  |",
+      "line": 89
+    },
+    {
+      "type": "table",
+      "content": "|--|--|--------------------------------------------------------------------------------------------------------------|--|--|--|--|--|\n|                      | 1990 | No. dissected<br>1991 | 1990   | Parous rate (%<br>1 3 91 | Diffeenc<br>. a , | Y2a I\"    |  |  |\n|----------------------|------|-----------------------|--------|--------------------------|-------------------|-----------|--|--|\n|                      |      |                       |        |                          |                   |           |  |  |",
+      "line": 91
+    },
+    {
+      "type": "table",
+      "content": "|                      | 1990 | No. dissected<br>1991 | 1990   | Parous rate (%<br>1 3 91 | Diffeenc<br>. a , | Y2a I\"    |  |  |\n|----------------------|------|-----------------------|--------|--------------------------|-------------------|-----------|--|--|\n|                      |      |                       |        |                          |                   |           |  |  |\n| Un;tr~e\\$lllages     |      |                       | 57.1   |                          | -0.2              | 0.01      |  |  |",
+      "line": 92
+    },
+    {
+      "type": "table",
+      "content": "|                      | 1990 | No. dissected<br>1991 | 1990   | Parous rate (%<br>1 3 91 | Diffeenc<br>. a , | Y2a I\"    |  |  |\n|----------------------|------|-----------------------|--------|--------------------------|-------------------|-----------|--|--|\n|                      |      |                       |        |                          |                   |           |  |  |\n| Un;tr~e\\$lllages     |      |                       | 57.1   |                          | -0.2              | 0.01      |  |  |\n| Nua                  | 1E   | 3;:                   | 67.3   | E                        | +6.3              | 2.89      |  |  |",
+      "line": 93
+    },
+    {
+      "type": "table",
+      "content": "|----------------------|------|-----------------------|--------|--------------------------|-------------------|-----------|--|--|\n|                      |      |                       |        |                          |                   |           |  |  |\n| Un;tr~e\\$lllages     |      |                       | 57.1   |                          | -0.2              | 0.01      |  |  |\n| Nua                  | 1E   | 3;:                   | 67.3   | E                        | +6.3              | 2.89      |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |",
+      "line": 94
+    },
+    {
+      "type": "table",
+      "content": "|                      |      |                       |        |                          |                   |           |  |  |\n| Un;tr~e\\$lllages     |      |                       | 57.1   |                          | -0.2              | 0.01      |  |  |\n| Nua                  | 1E   | 3;:                   | 67.3   | E                        | +6.3              | 2.89      |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |",
+      "line": 95
+    },
+    {
+      "type": "table",
+      "content": "| Un;tr~e\\$lllages     |      |                       | 57.1   |                          | -0.2              | 0.01      |  |  |\n| Nua                  | 1E   | 3;:                   | 67.3   | E                        | +6.3              | 2.89      |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |\n| Tr;~Cvi~;ges<br>ErZ\" | 231  | 417 102               | 65.884 | 7019 53.9                | - +5.1 14.5       | 7.19* 271 |  |  |",
+      "line": 96
+    },
+    {
+      "type": "table",
+      "content": "| Nua                  | 1E   | 3;:                   | 67.3   | E                        | +6.3              | 2.89      |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |\n| Tr;~Cvi~;ges<br>ErZ\" | 231  | 417 102               | 65.884 | 7019 53.9                | - +5.1 14.5       | 7.19* 271 |  |  |\n|                      | 3T;  |                       | 74.1   | 87.5                     | +13*4             | 0.10      |  |  |",
+      "line": 97
+    },
+    {
+      "type": "table",
+      "content": "|                      |      |                       |        |                          |                   |           |  |  |\n|                      |      |                       |        |                          |                   |           |  |  |\n| Tr;~Cvi~;ges<br>ErZ\" | 231  | 417 102               | 65.884 | 7019 53.9                | - +5.1 14.5       | 7.19* 271 |  |  |\n|                      | 3T;  |                       | 74.1   | 87.5                     | +13*4             | 0.10      |  |  |\n|                      | 180  | 29:                   | 62.8   |                          | +7.6              | 0.63      |  |  |",
+      "line": 98
+    },
+    {
+      "type": "table",
+      "content": "|                      |      |                       |        |                          |                   |           |  |  |\n| Tr;~Cvi~;ges<br>ErZ\" | 231  | 417 102               | 65.884 | 7019 53.9                | - +5.1 14.5       | 7.19* 271 |  |  |\n|                      | 3T;  |                       | 74.1   | 87.5                     | +13*4             | 0.10      |  |  |\n|                      | 180  | 29:                   | 62.8   |                          | +7.6              | 0.63      |  |  |\n|                      | 514  | 404                   | 66.7   | ;:::                     | -0.1              | 0.76      |  |  |",
+      "line": 99
+    },
+    {
+      "type": "table",
+      "content": "| Tr;~Cvi~;ges<br>ErZ\" | 231  | 417 102               | 65.884 | 7019 53.9                | - +5.1 14.5       | 7.19* 271 |  |  |\n|                      | 3T;  |                       | 74.1   | 87.5                     | +13*4             | 0.10      |  |  |\n|                      | 180  | 29:                   | 62.8   |                          | +7.6              | 0.63      |  |  |\n|                      | 514  | 404                   | 66.7   | ;:::                     | -0.1              | 0.76      |  |  |\n| Farm huts            |      |                       |        |                          |                   |           |  |  |",
+      "line": 100
+    },
+    {
+      "type": "table",
+      "content": "|                      | 3T;  |                       | 74.1   | 87.5                     | +13*4             | 0.10      |  |  |\n|                      | 180  | 29:                   | 62.8   |                          | +7.6              | 0.63      |  |  |\n|                      | 514  | 404                   | 66.7   | ;:::                     | -0.1              | 0.76      |  |  |\n| Farm huts            |      |                       |        |                          |                   |           |  |  |\n| Mae Han              | 527  | 925                   | if;    | 35.5 547                 | -17.1 +6.8        | 30.10***  |  |  |",
+      "line": 101
+    },
+    {
+      "type": "table",
+      "content": "|                      | 180  | 29:                   | 62.8   |                          | +7.6              | 0.63      |  |  |\n|                      | 514  | 404                   | 66.7   | ;:::                     | -0.1              | 0.76      |  |  |\n| Farm huts            |      |                       |        |                          |                   |           |  |  |\n| Mae Han              | 527  | 925                   | if;    | 35.5 547                 | -17.1 +6.8        | 30.10***  |  |  |\n| f\\$:<br>'@WNua       |      | 718                   |        |                          |                   |           |  |  |",
+      "line": 102
+    },
+    {
+      "type": "table",
+      "content": "|                      | 514  | 404                   | 66.7   | ;:::                     | -0.1              | 0.76      |  |  |\n| Farm huts            |      |                       |        |                          |                   |           |  |  |\n| Mae Han              | 527  | 925                   | if;    | 35.5 547                 | -17.1 +6.8        | 30.10***  |  |  |\n| f\\$:<br>'@WNua       |      | 718                   |        |                          |                   |           |  |  |\n|                      | :2   | 272                   | 51:5   | 59.2                     | +7.7              |           |  |  |",
+      "line": 103
+    },
+    {
+      "type": "table",
+      "content": "| Farm huts            |      |                       |        |                          |                   |           |  |  |\n| Mae Han              | 527  | 925                   | if;    | 35.5 547                 | -17.1 +6.8        | 30.10***  |  |  |\n| f\\$:<br>'@WNua       |      | 718                   |        |                          |                   |           |  |  |\n|                      | :2   | 272                   | 51:5   | 59.2                     | +7.7              |           |  |  |\n|                      | 223  | 100                   |        |                          |                   |           |  |  |",
+      "line": 104
+    },
+    {
+      "type": "table",
+      "content": "| Mae Han              | 527  | 925                   | if;    | 35.5 547                 | -17.1 +6.8        | 30.10***  |  |  |\n| f\\$:<br>'@WNua       |      | 718                   |        |                          |                   |           |  |  |\n|                      | :2   | 272                   | 51:5   | 59.2                     | +7.7              |           |  |  |\n|                      | 223  | 100                   |        |                          |                   |           |  |  |\n| E&Z1ap               | 1663 | 2015                  | :i:;   | 46.3 510                 | -4.24             |           |  |  |",
+      "line": 105
+    },
+    {
+      "type": "table",
+      "content": "| f\\$:<br>'@WNua       |      | 718                   |        |                          |                   |           |  |  |\n|                      | :2   | 272                   | 51:5   | 59.2                     | +7.7              |           |  |  |\n|                      | 223  | 100                   |        |                          |                   |           |  |  |\n| E&Z1ap               | 1663 | 2015                  | :i:;   | 46.3 510                 | -4.24             |           |  |  |",
+      "line": 106
+    },
+    {
+      "type": "table",
+      "content": "|                      | :2   | 272                   | 51:5   | 59.2                     | +7.7              |           |  |  |\n|                      | 223  | 100                   |        |                          |                   |           |  |  |\n| E&Z1ap               | 1663 | 2015                  | :i:;   | 46.3 510                 | -4.24             |           |  |  |",
+      "line": 107
+    },
+    {
+      "type": "paragraph",
+      "content": "aPaired parous rates compared by Mantel-Haenszel X' tests, stratifying for corresponding mgnths; co~...",
+      "line": 109
+    },
+    {
+      "type": "paragraph",
+      "content": "each bag was covered with a piece of wet cotton cloth. The mosquitoes collected from the 3 light tra...",
+      "line": 111
+    },
+    {
+      "type": "paragraph",
+      "content": "The daily counts were log-transformed to reduce the variance. Comparisons of the geometric means bet...",
+      "line": 113
+    },
+    {
+      "type": "title",
+      "content": "252",
+      "line": 115
+    },
+    {
+      "type": "figure",
+      "content": "Effect on mosquito densities. Mean monthly mosquito densities in 1990 and 1991 are shown by species in Fig. 1. From 1990 to 1991, a statistically significant reduction in the biting density of A. minimus species A was observed in the village collection in Mae Chon, but this effect was not seen in the other treated villages or in either untreated village.",
+      "line": 121
+    },
+    {
+      "type": "paragraph",
+      "content": "There was no statistically significant change in the village biting densities of A. sawadwongporni a...",
+      "line": 123
+    },
+    {
+      "type": "paragraph",
+      "content": "When the numbers collected each month were pooled between villages in the treated and untreated grou...",
+      "line": 125
+    },
+    {
+      "type": "paragraph",
+      "content": "In the farm hut areas, where no intervention was carried out, there were statistically significant c...",
+      "line": 127
+    },
+    {
+      "type": "paragraph",
+      "content": "Effect on parous rates. Changes in parous rates were broadly similar to the changes in density. The ...",
+      "line": 129
+    },
+    {
+      "type": "equation",
+      "content": "Fig. 3. Changes in the parous rate of A. minimus species A. Numbers of nulliparous and parous females collected in every four-night period were pooled. Broken lines show values when untreated bed nets were installed and the solid lines show those for treated bed nets. MTN=Mae Top Nua, MTK-Mae Top Klang, WAC=Wild Animal Conservation Centre, and MC=Mae Chon.",
+      "line": 133
+    },
+    {
+      "type": "paragraph",
+      "content": "numbered negative ones in treated as well as untreated villages. The only result that could possibly...",
+      "line": 135
+    },
+    {
+      "type": "section_header",
+      "content": "The short-term evaluation",
+      "line": 137
+    },
+    {
+      "type": "paragraph",
+      "content": "Bednet usage. Excellent community participation was observed in all 4 communities. All residents use...",
+      "line": 139
+    },
+    {
+      "type": "figure",
+      "content": "Light trap catches. The numbers of A. minimus species A females collected each night from each community are shown in Fig. 2 and the patterns of the parous rates in Fig. 3. There were great fluctuations of both mosquito density and parous rate. Heavy rains followed by flooding occurred in the middle of the first period and at the end of July to early August. This seemed to be associated with a large reduction in the mosquito densities in most sites, which were observed 4-5 d after flooding.",
+      "line": 141
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 3. Analysis of variance on the log-transformed numbers of A. minimus species A collected by CD...",
+      "line": 143
+    },
+    {
+      "type": "table",
+      "content": "| Source of<br>variation     | Sum of  | Degrees Mean<br>squares of freedom square |                 | F    | P          |\n|----------------------------|---------|-------------------------------------------|-----------------|------|------------|\n| Community                  | 2.2334  | 3                                         | yn              | 7.31 | 0~0001     |",
+      "line": 145
+    },
+    {
+      "type": "table",
+      "content": "| Source of<br>variation     | Sum of  | Degrees Mean<br>squares of freedom square |                 | F    | P          |\n|----------------------------|---------|-------------------------------------------|-----------------|------|------------|\n| Community                  | 2.2334  | 3                                         | yn              | 7.31 | 0~0001     |\n| Treated net<br>Community X | 0.2855  | 1                                         |                 |      | 2.81 0.096 |",
+      "line": 146
+    },
+    {
+      "type": "table",
+      "content": "| Source of<br>variation     | Sum of  | Degrees Mean<br>squares of freedom square |                 | F    | P          |\n|----------------------------|---------|-------------------------------------------|-----------------|------|------------|\n| Community                  | 2.2334  | 3                                         | yn              | 7.31 | 0~0001     |\n| Treated net<br>Community X | 0.2855  | 1                                         |                 |      | 2.81 0.096 |\n| treated net                | 0.4678  | 3                                         | 0.1559 1.53 0.2 |      |            |",
+      "line": 147
+    },
+    {
+      "type": "table",
+      "content": "|----------------------------|---------|-------------------------------------------|-----------------|------|------------|\n| Community                  | 2.2334  | 3                                         | yn              | 7.31 | 0~0001     |\n| Treated net<br>Community X | 0.2855  | 1                                         |                 |      | 2.81 0.096 |\n| treated net                | 0.4678  | 3                                         | 0.1559 1.53 0.2 |      |            |\n| Residual                   | 18.7378 |                                           | 0.1018          | -    | -          |",
+      "line": 148
+    },
+    {
+      "type": "table",
+      "content": "| Community                  | 2.2334  | 3                                         | yn              | 7.31 | 0~0001     |\n| Treated net<br>Community X | 0.2855  | 1                                         |                 |      | 2.81 0.096 |\n| treated net                | 0.4678  | 3                                         | 0.1559 1.53 0.2 |      |            |\n| Residual                   | 18.7378 |                                           | 0.1018          | -    | -          |\n| Total                      | 21.7245 | :i:                                       | -               | -    | -          |",
+      "line": 149
+    },
+    {
+      "type": "table",
+      "content": "| Treated net<br>Community X | 0.2855  | 1                                         |                 |      | 2.81 0.096 |\n| treated net                | 0.4678  | 3                                         | 0.1559 1.53 0.2 |      |            |\n| Residual                   | 18.7378 |                                           | 0.1018          | -    | -          |\n| Total                      | 21.7245 | :i:                                       | -               | -    | -          |",
+      "line": 150
+    },
+    {
+      "type": "table",
+      "content": "| treated net                | 0.4678  | 3                                         | 0.1559 1.53 0.2 |      |            |\n| Residual                   | 18.7378 |                                           | 0.1018          | -    | -          |\n| Total                      | 21.7245 | :i:                                       | -               | -    | -          |",
+      "line": 151
+    },
+    {
+      "type": "equation",
+      "content": "The ANOVA results (Table 3) showed that there was significant variation of A. minimus species A densities among the study communities. The effect of treated bed nets was of borderline significance (P=O\\*O96). During the second half of the study period? there was a declining trend in densities in 3 of the 4 villages, including 2 of those with treated nets. However, if this had been caused, at least in those 2 villages, by the intervention of treated nets, there should have been a corresponding decline in parous rates. In fact, there was a slight increasing trend, suggesting that the decline in density was related to a decline in recruitment.",
+      "line": 153
+    },
+    {
+      "type": "section_header",
+      "content": "Discussion",
+      "line": 155
+    },
+    {
+      "type": "reference",
+      "content": "The 2 studies described here differed not only in their timing but also in the intensity of entomological monitoring. The long-term study, which covered 8 months of the year, yielded adequate numbers of A. sawadwongpork and A. maculatus S.S. as well as A. minimus species A, but suffered from the washing of about 40% of the nets by villagers after the first impregnation, and from the low rate of reimpregnation. These problems were probably associated with the net washing habit of villagers, sideeffects of the insecticide and the timing of reimpregnation during the period of harvest, when most people were in the rice fields all day. The short-term study was more focused and did not suffer from the problems of net washing and low coverage. Washing nets is known to reduce greatly the insecticidal activity of treated nets (MIL-LER et al., 1991).",
+      "line": 157
+    },
+    {
+      "type": "paragraph",
+      "content": "were compared between 1990 (pre-intervention) and 1991 (post-intervention), for each species and vil...",
+      "line": 163
+    },
+    {
+      "type": "paragraph",
+      "content": "The fact that there was no apparent impact of the nets on populations of A. sawadwongpomi and A. mac...",
+      "line": 165
+    },
+    {
+      "type": "paragraph",
+      "content": "One might have expected greater impact on the more anthropophilic A. minimus species A and A. dirus ...",
+      "line": 167
+    },
+    {
+      "type": "paragraph",
+      "content": "In the short-term study, densities of A. minimus soecies A in Mae Chon and in the Wild Animal Conser...",
+      "line": 169
+    },
+    {
+      "type": "paragraph",
+      "content": "For these reasons, we conclude that the treated nets did not have a mass killing effect on A. minimu...",
+      "line": 171
+    },
+    {
+      "type": "reference",
+      "content": "The absence of a detectable mass killing effect of treated nets on A. minimus species A contrasts with the results of JANA-KARA et al. (in press) in Assam, India. This is presumably related to the biting behaviour of mosquitoes. A. minimus species A in Thailand is exophaglc, exophilic, and readily bites humans and animals ihr&ghoutihenight (ISMAIL et al., ~~~~;RATANATHAM et al.. 1988: P. Somboon. unoublished data). A. minimus in A&am, 6y contrast, is'endbphagic, endophilic and anthropophilic with a biting peak after midnight (RAo,",
+      "line": 173
+    },
+    {
+      "type": "reference",
+      "content": "1984; JANA-KARA et al., in press); similar behaviour used to be observed in Thailand before extensive DDT house spraying. The morphological features of A. minimus in Assam (RAo. 1984) and A. minimus soecies A in Thailand (SUCH~RIT et al., i988) are similar. -",
+      "line": 175
+    },
+    {
+      "type": "reference",
+      "content": "In addition, the existence of domestic animals in a human residential area can diminish the mosquito attack rate on humans (COLUZZI, 1984; BURKOT et al., 1989). In most Karen communities, cattle are very common and can provide alternative blood meals. They are normally kept under a shelter away from houses. Blood meal identification of blood-fed A. minimus s ties A females collected by indoor light traps showed t r at about 50% of them (n=89) were from animal sources (P. Somboon, unpublished data).",
+      "line": 177
+    },
+    {
+      "type": "paragraph",
+      "content": "The numbers of A. dims s.2. were too low to permit a conclusive result. However, C. Green (unpublish...",
+      "line": 179
+    },
+    {
+      "type": "paragraph",
+      "content": "In conclusion, these results indicate that communitywide use of pyrethroid-treated nets does not ene...",
+      "line": 181
+    },
+    {
+      "type": "paragraph",
+      "content": "We are most grateful to MS Wanapa Suwonkerd, Mr Somsak Wongkatkul, and their insect collection teams...",
+      "line": 185
+    },
+    {
+      "type": "reference",
+      "content": "- Aramrattana, A. (1993). Effectiveness of a lambda-cyhalothrin bednet impregnation againsi forestlbord& malaria in north west Thailand. PhD Thesis. Universitv of London.",
+      "line": 189
+    },
+    {
+      "type": "reference",
+      "content": "- Beach, R. F., Ruebush; T. K., Sixton, J. D., Bright, P. L., Hightower, A. W., Breman, J. G., Mount, D. L. & 0100, A. J. (1993). Effectiveness of permethrin-impregnated bed nets and currains for malaria control in a holoendemic area of western Kenya. American Journal of Tropical Medicine and Hygieq 49,290-300.",
+      "line": 190
+    },
+    {
+      "type": "reference",
+      "content": "- Burkot, T. R., Williams, J. L. & Schneider, I. (1984). Identification of Plasmodium falci arum-infected double antibody enzyme-lin i: mosquitoes by a ed immunosorbent assay. AmerG canyoumal of Tropical Medicine and Hygiene, 33,783-788.",
+      "line": 191
+    },
+    {
+      "type": "reference",
+      "content": "- Burkot, T. R., Dye, C. & Graves, P. M. (1989). An analysis of some factors determining the sporozoite rates, human blood indexes, and biting rates of members of the Anophelespunctulatus corn lex in Pa ua New Guinea. American 3ournal of Tropical d- e&me an B Hygzene, 40,229-234.",
+      "line": 192
+    },
+    {
+      "type": "reference",
+      "content": "- Charlwood, J. D. & Graves, P. M. (1987). The effect of permethrin-impregnatd bed nets on a population of A rauti in coastal Papua New Guinea. Medical and Yhelfsfa- etennary Entomology, 1,319-327.",
+      "line": 193
+    },
+    {
+      "type": "reference",
+      "content": "- Charlwood, J. D., Birley, M. H., Dagaro, H., Paru, R. & Home, P. R. (1985). Assessing survival rates of Am&&es farauti (fiiptera:' Culicidae) fromPapua New Guinea. journal of AnimalEcolop 54,1003101\\$.,",
+      "line": 194
+    },
+    {
+      "type": "paragraph",
+      "content": "- Coluzzi, M. (19 4). Heterogeneltles of the malaria vectorial sys-...",
+      "line": 195
+    },
+    {
+      "type": "paragraph",
+      "content": "tern in tropical Africa and their significance in malaria epidemiology and control. Bulletin of the ...",
+      "line": 197
+    },
+    {
+      "type": "reference",
+      "content": "- Curtis, C. F. (1992). Personal protection methods against vectors of disease. Review of Medical and Veterinary Entomology, 80,543-553.",
+      "line": 199
+    },
+    {
+      "type": "reference",
+      "content": "- Curtis, C. F., Lines, J. D., Carnevale, P., Robert, V., Boudin, C., Halna, J.-M., Pazert, L., Gazin, P., Richard, A., Mouchet, J., Charlwood, J. D., Graves? P. M., Hossain,, M. I., Kurihara, T., Ichimori? K., Li ZUZI, Lu Baolin, Malori, G., Sabatinelli, G., Coluzw, M., Njunwa, K. J., Ilkes, T. J., Snow, R. W. & Lindsay, S. W. (1990). Impregnated bed nets and curtains against malaria mosquitoes. In: Appropriate Technology in Vector Control, Curtis, C. F. (editor). Boca Raton, Florida: CRC Press.",
+      "line": 200
+    },
+    {
+      "type": "reference",
+      "content": "- Das, P. K., Das, L. K., Parida, S. K., Patra, K. P. & Jambulingarn, P. (1993). Lambdacyhalothrin treated bed nets as an alternative method of malaria control in tribal villages of Koraput District, Orissa State, India. Southeast AsianJournal of Tropical Medicine and Public Health? 24,5 13-52 1.",
+      "line": 201
+    },
+    {
+      "type": "reference",
+      "content": "- Detinova, T. S. (1962). Age Grou m Methods in Di tera of Medical Importance: with Special f;f e erence w Some J ecwrs of Malaria. Geneva: World Health Organization, monograph series, no. 47.",
+      "line": 202
+    },
+    {
+      "type": "reference",
+      "content": "- Graves, P. M., Brabin, B. J., Charlwood? J. D., Burkot, T. R., Cattani, J. A., Ginny, M., Pairo, J., Gibson, F. D. & Alpers, M. P. (1987). Reduction in Plusmodium falciparum incidence and prevalence in children under five by permethrin impregnation of mosquito nets. Bulletin of the World Health Organization,65,869-877.",
+      "line": 203
+    },
+    {
+      "type": "reference",
+      "content": "- Gus&on, T. L. (1989). True EPrsTAThfand, 3rd edition. Richardson, Texas: Epistat.",
+      "line": 204
+    },
+    {
+      "type": "paragraph",
+      "content": "- Hii, J. L. K., Kanai, L., Foli ela, A., Kan, S. K. P. Burkot T. R. 81 Wirtz, R. A. (19937. Impact ...",
+      "line": 205
+    },
+    {
+      "type": "reference",
+      "content": "- Holmes, P. R. & Birley, M. H. (1987). An improved method for survival rate analysis from time series of haematophagous dipteran populations.Journul ofAnimal Ecology, 56,427-440.",
+      "line": 206
+    },
+    {
+      "type": "reference",
+      "content": "- Ismail, I. A. H., Notananda, V. & Sche ens, J. (1974). Studies on malaria and responses of Anop Re les balabacensis balabace+s and Anopheles mini,mus to DDT residual spraying in ~~~~s\\$. Part I. Pre-spraying observations. Acta Troprca, 31,",
+      "line": 207
+    },
+    {
+      "type": "reference",
+      "content": "- Ismail, I. A. H., Pinichpongse, S., Chitprarop, U., Prasittisuk, C. & Schepens, J. (1982). Trials with CDC and Monks Wood light-traps for sampling malaria vectors in Thailand. Geneva: World Health Organization, mimeographed document WHONB(X32.864.",
+      "line": 208
+    },
+    {
+      "type": "paragraph",
+      "content": "- Jana-Kara, B. R., Wajihullah, Shahi, B., Dev, V., Curtis, C. F. & Sharma, V. P. (in press). Deltam...",
+      "line": 209
+    },
+    {
+      "type": "reference",
+      "content": "- Karch, S., Garin, B., Asidi, M., Manzambi, Z., Salaun, J. J. & Mouchet, J. (1993). Moustiquaires impregn&s contre le paludisme au Zaire. Annules de la So&e! Belge de Mhdecine Tropicale, 73,37-53.",
+      "line": 210
+    },
+    {
+      "type": "reference",
+      "content": "- Kere, N. K., Parkinson, A. D. & Samrawickerema, W. A. (1993). The effect of permethrin impregnated bednets on the incidence of Plasmodium falciparum in children of north Guadalcanal, Solomon Islands. Southeast AsianJournal of Tropical Medicine and Public Health, 24,130-137.",
+      "line": 211
+    },
+    {
+      "type": "reference",
+      "content": "- Ketrangsee, S., Suvannadabba, S., Thimasarn, K., Prasittisuk, C. & Rooney, W. (1991). Malaria situation in Thailand with special reference to forest related malaria. In: Forest Malaria in Southeast Asia. Proceedings of an Informal Consultative Meeting, Sharma, V. P. & Kondrashin, A. V. (editors). New Delhi: World Health Organization/Medical Research Council.",
+      "line": 212
+    },
+    {
+      "type": "paragraph",
+      "content": "- Lindsay, S. W., Alonso, P. L., Armstrong Schellenberg, J. R. M., Hemingway, J., Thomas, P. J., She...",
+      "line": 213
+    },
+    {
+      "type": "paragraph",
+      "content": "Tropical Medicine and Hygiene, 87, supplement 2,1%23....",
+      "line": 215
+    },
+    {
+      "type": "paragraph",
+      "content": "- Lindsay, S. W., Alonso, P. L., Armstrong Schellenberg, J. R. M., Hemingway, J., Adiamah, J. H., Sh...",
+      "line": 217
+    },
+    {
+      "type": "reference",
+      "content": "- Lines, J. D., Myamba, J. & Curtis, C. F. (1987). Experimental hut trials of permethrin impregnated nets and curtains against malaria vectors in Tanzania. Medical and Vetetinaty Entm logy, 1,37-51.",
+      "line": 218
+    },
+    {
+      "type": "reference",
+      "content": "- Magesa, S. M., Wilkes, T. J., Mnzava, A. E. P., Njunwa, K. J., Myamba, J., Kivuyq, M. D. P., Hill., N., Lines, J. D. & Curtis, C. F. (1991). Trial of pyrethroid unpregnated bednets in an area of Tanzania holoendemic for malaria. Part 2. Effects on the malaria vector population. Acta Tropica, 49, 97- 10X \\_\"\".",
+      "line": 219
+    },
+    {
+      "type": "reference",
+      "content": "- Miller+ D. B. (1986). Alternative methods of personal protection agarnst the vectors of malaria in lowland Papua New Guinea with empkasis on the evaluation of permethrin-impregnated bednets. MPM Thesis, Simon Fraser University.",
+      "line": 220
+    },
+    {
+      "type": "reference",
+      "content": "- Miller, J. E., Lindsay, S. W. & Armstrong, J. R. M. (1991). Experimental hut trials of bednets impregnated with synthetic pyrethroid or organophosphate insecticide for mosquito contr;127The Gambia. Medical and Veterinay Etttomologv, 5,",
+      "line": 221
+    },
+    {
+      "type": "reference",
+      "content": "- Rao, T.R.' (1984). Tke Anophelines of India, revised edition. New Delhi: Malaria Research Centre, Indian Council of Medical Research.",
+      "line": 222
+    },
+    {
+      "type": "reference",
+      "content": "- Ratanatham, S., Upatham, E. S., Prasittisuk, C., Rojanasunan, W., Teerasil Bionomics o P , N., Tremongkol, A. & Viyanant, V. (1988). Anopheles minimus and its role in malaria transmission in Thailand. Southeast Asian 3ownal of Tropical Medicine and Public Health, 19,283-289.",
+      "line": 223
+    },
+    {
+      "type": "reference",
+      "content": "- Robert, V. & Camevale, P. (1991). Influence of deitamethrin treatment of bed nets on malaria transmission in the Kou valley, Burkina Faso. Bulletin of the World Health Organization. 69,735-740.",
+      "line": 224
+    },
+    {
+      "type": "reference",
+      "content": "- Rozebdaal, J. A. (1989). Impregnated mosquito nets and curtains for self-protection and vector control. Tropical Diseases Bulletin, 86, supplement, I-41.",
+      "line": 225
+    },
+    {
+      "type": "reference",
+      "content": "- Samarawickrema, W. A., Parkinson, A. D., Kere? N. & Gala, 0. (1992). Seasonal abundance and biting behavlour ofAnop kelespunctulatus and A. koliensis in Malaita Province, Solomon Islands, and a trial of permethrin impregnated bednets against malaria transmission. Medical and Veterinary Entomology, 6,371-378.",
+      "line": 226
+    },
+    {
+      "type": "reference",
+      "content": "- Somboon, P. (1993). Forest malaria vectors in northwest Thailand and a trial of control with mrethroid-treated bednets. PhD Thesis, Univeisity of London: \\*",
+      "line": 227
+    },
+    {
+      "type": "reference",
+      "content": "- Sucharit, S., Komalanisra, N., Leerningsawat, S., Apiwathnasom, C. & Thongrungkiat, S. (1988). Population genetic studies on the Anopheles minimus complex in Thailand. Southeast Asian Journal of Tropical Medicine and Public Health, 19, 717-723.",
+      "line": 228
+    },
+    {
+      "type": "reference",
+      "content": "- Upatharn, E. S., Prasittisuk, C., Ratanatham, S., Green, C. A., Rojansunan, W., Setakana, P., Theerasilp, N., Tremongkol, A:, Viyanant, V., Pantuwatana, S. & Andre, R. G. (1988). Bionomics of Anopkeles macukztus complex and their role in malaria transmission in Thailand. Southeast Asian Journal of Tropical Medicine and Public Health, 19,259-269.",
+      "line": 229
+    },
+    {
+      "type": "reference",
+      "content": "- WHO (1989). The use of impregnated bednets and other materials for vector-borne disease control. Geneva: World Health Organization, mimeo ra hed document WHONBC/89.981.",
+      "line": 230
+    },
+    {
+      "type": "reference",
+      "content": "- Wirtz, R. A., BE ur ot, T. R., Graves, P. M. & Andre, R. G. (1987). Field evaluation of enzyme-linked immunosorbent assays for Plasmodium falciparum and Plasmodium vivax sporozoites in mosquitoes (Diptera: Culicidae) from Papua New Guinea.Jounral of Medical Entomology, 24,433-437.",
+      "line": 231
+    },
+    {
+      "type": "paragraph",
+      "content": "Received 5 July 1994; revised 12 December 1994; accepted fm publication 13 December 1994...",
+      "line": 233
+    }
+  ],
+  "metadata": {
+    "total_sections": 6,
+    "total_paragraphs": 40,
+    "has_structured_content": true
+  }
+}

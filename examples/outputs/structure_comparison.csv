@@ -1,0 +1,10 @@
+PDF,OCR_System,Total_Sections,Total_Paragraphs,Has_Structured_Content,Title_Detected,Authors_Detected,Abstract_Detected,Equations_Found,Tables_Found,Figures_Found,References_Found,Reading_Order_Items
+2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi,Docling,25,202,True,False,False,False,0,0,0,0,231
+2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi,Marker,0,80,False,True,True,False,13,82,6,35,220
+2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi,PyMuPDF,0,628,False,False,False,False,0,0,0,0,638
+Allossogbe_et_al_2017_Mal_J,Docling,40,203,True,False,False,False,0,0,0,0,250
+Allossogbe_et_al_2017_Mal_J,Marker,1,86,True,True,True,False,45,83,0,10,228
+Allossogbe_et_al_2017_Mal_J,PyMuPDF,0,570,False,False,False,False,0,0,0,0,581
+Somboon_et_al_1995_Trans_RSTMH,Docling,11,121,True,False,False,False,0,0,0,0,146
+Somboon_et_al_1995_Trans_RSTMH,Marker,6,40,True,True,True,False,2,37,3,44,135
+Somboon_et_al_1995_Trans_RSTMH,PyMuPDF,0,523,False,False,False,False,0,0,0,0,530

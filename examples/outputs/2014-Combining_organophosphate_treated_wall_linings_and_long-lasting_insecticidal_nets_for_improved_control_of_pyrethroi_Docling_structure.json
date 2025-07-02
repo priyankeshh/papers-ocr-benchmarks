@@ -1,0 +1,1279 @@
+{
+  "ocr_system": "Docling",
+  "format": "markdown_enhanced",
+  "timestamp": "2025-07-03T02:03:20.394794",
+  "document_elements": {
+    "title": null,
+    "authors": [],
+    "abstract": null,
+    "sections": [
+      {
+        "title": "Combining Organophosphate Treated Wall Linings and Long-lasting Insecticidal Nets for Improved Control of Pyrethroid Resistant Anopheles gambiae",
+        "content": []
+      },
+      {
+        "title": "Abstract",
+        "content": []
+      },
+      {
+        "title": "Introduction",
+        "content": []
+      },
+      {
+        "title": "Materials and Methods",
+        "content": []
+      },
+      {
+        "title": "Experimental huts",
+        "content": []
+      },
+      {
+        "title": "Susceptibility tests",
+        "content": []
+      },
+      {
+        "title": "Experimental hut treatments",
+        "content": []
+      },
+      {
+        "title": "Treatment of materials",
+        "content": []
+      },
+      {
+        "title": "Setting up treated materials to walls",
+        "content": []
+      },
+      {
+        "title": "Rotation of sleepers and treatments",
+        "content": []
+      },
+      {
+        "title": "Entomological Outcomes",
+        "content": []
+      },
+      {
+        "title": "Residual activity of insecticide treatments",
+        "content": []
+      },
+      {
+        "title": "Studies on selection of insecticide resistance genes",
+        "content": []
+      },
+      {
+        "title": "Statistical analysis",
+        "content": []
+      },
+      {
+        "title": "Ethics Statement",
+        "content": []
+      },
+      {
+        "title": "Results",
+        "content": []
+      },
+      {
+        "title": "Susceptibility tests",
+        "content": []
+      },
+      {
+        "title": "Experimental hut trials",
+        "content": []
+      },
+      {
+        "title": "Residual activity of insecticide",
+        "content": []
+      },
+      {
+        "title": "Selection of resistance alleles and genotypes",
+        "content": []
+      },
+      {
+        "title": "Discussion",
+        "content": []
+      },
+      {
+        "title": "Conclusion",
+        "content": []
+      },
+      {
+        "title": "Acknowledgments",
+        "content": []
+      },
+      {
+        "title": "References",
+        "content": []
+      },
+      {
+        "title": "Author Contributions",
+        "content": []
+      }
+    ],
+    "references": [],
+    "equations": [],
+    "tables": [],
+    "figures": [],
+    "captions": []
+  },
+  "reading_order": [
+    {
+      "type": "paragraph",
+      "content": "PDF: 2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_impr...",
+      "line": 1
+    },
+    {
+      "type": "paragraph",
+      "content": "============================================================...",
+      "line": 6
+    },
+    {
+      "type": "image_marker",
+      "content": "Image detected",
+      "line": 8
+    },
+    {
+      "type": "section_header",
+      "content": "Combining Organophosphate Treated Wall Linings and Long-lasting Insecticidal Nets for Improved Control of Pyrethroid Resistant Anopheles gambiae",
+      "line": 10
+    },
+    {
+      "type": "paragraph",
+      "content": "Corine Ngufor 1 * , Emile Tchicaya 2 , Benjamin Koudou 2 , Sagnon N'Fale 3 , Roch Dabire 4 , Paul Jo...",
+      "line": 12
+    },
+    {
+      "type": "paragraph",
+      "content": "1 London School of Hygiene and Tropical Medicine, London, United Kingdom, 2 Centre Suisse de Recherc...",
+      "line": 14
+    },
+    {
+      "type": "section_header",
+      "content": "Abstract",
+      "line": 16
+    },
+    {
+      "type": "paragraph",
+      "content": "Background: New approaches to delivering insecticides need to be developed to improve malaria vector...",
+      "line": 18
+    },
+    {
+      "type": "paragraph",
+      "content": "Methods: Experimental hut trials were carried out in Valley du Kou, Burkina Faso to evaluate the eff...",
+      "line": 20
+    },
+    {
+      "type": "paragraph",
+      "content": "Results: The overall kdr and ace-1 R allele frequencies were 0.95 and 0.01 respectively. Mortality w...",
+      "line": 22
+    },
+    {
+      "type": "paragraph",
+      "content": "Conclusion: P-methyl DL and NWH outperformed pyrethroid DL. Combining p-methyl DL and NWH with LLINs...",
+      "line": 24
+    },
+    {
+      "type": "paragraph",
+      "content": "Citation: Ngufor C, Tchicaya E, Koudou B, N'Fale S, Dabire R, et al. (2014) Combining Organophosphat...",
+      "line": 26
+    },
+    {
+      "type": "paragraph",
+      "content": "Received August 23, 2013; Accepted November 10, 2013; Published January 7, 2014...",
+      "line": 30
+    },
+    {
+      "type": "paragraph",
+      "content": "Copyright: /C223 2014 Ngufor et al. This is an open-access article distributed under the terms of th...",
+      "line": 32
+    },
+    {
+      "type": "paragraph",
+      "content": "Funding: The research leading to these results has received funding from the European Union Seventh ...",
+      "line": 34
+    },
+    {
+      "type": "paragraph",
+      "content": "Competing Interests: The authors have declared that no competing interests exist....",
+      "line": 36
+    },
+    {
+      "type": "section_header",
+      "content": "Introduction",
+      "line": 40
+    },
+    {
+      "type": "paragraph",
+      "content": "Malaria vector control largely depends on a limited collection of tools. Long lasting insecticidal n...",
+      "line": 42
+    },
+    {
+      "type": "paragraph",
+      "content": "The covering of home walls with insecticidal materials is a novel approach that simulates IRS. Insec...",
+      "line": 44
+    },
+    {
+      "type": "paragraph",
+      "content": "where recurrent IRS treatments are normally required for interruption of transmission. DL also has t...",
+      "line": 46
+    },
+    {
+      "type": "paragraph",
+      "content": "In rural Africa, householders often cover their walls with wall hangings made from netting material ...",
+      "line": 48
+    },
+    {
+      "type": "paragraph",
+      "content": "It is now clear that the development and rapid spread of insecticide resistance in An gambiae popula...",
+      "line": 50
+    },
+    {
+      "type": "paragraph",
+      "content": "The aim of the current study was to investigate via a series of experimental hut trials whether DL o...",
+      "line": 52
+    },
+    {
+      "type": "section_header",
+      "content": "Materials and Methods",
+      "line": 54
+    },
+    {
+      "type": "section_header",
+      "content": "Experimental huts",
+      "line": 56
+    },
+    {
+      "type": "paragraph",
+      "content": "The trials were carried out at the Centre Muraz experimental hut station in Valley du Kou 5 (4 u 25 ...",
+      "line": 58
+    },
+    {
+      "type": "section_header",
+      "content": "Susceptibility tests",
+      "line": 60
+    },
+    {
+      "type": "paragraph",
+      "content": "During the trials, samples of adult An. gambiae which emerged from larvae collected from the experim...",
+      "line": 62
+    },
+    {
+      "type": "section_header",
+      "content": "Experimental hut treatments",
+      "line": 64
+    },
+    {
+      "type": "paragraph",
+      "content": "Three experimental hut trials were carried out. The first two trials lasted 6 weeks and the third la...",
+      "line": 66
+    },
+    {
+      "type": "paragraph",
+      "content": "- 1. Untreated Control (untreated plastic sheeting)...",
+      "line": 68
+    },
+    {
+      "type": "paragraph",
+      "content": "- 2. Pyrethroid treated durable lining (ZeroVector H , Vestergaard Frandsen, Switzerland) on walls...",
+      "line": 69
+    },
+    {
+      "type": "paragraph",
+      "content": "- 3. P-methyl CS treated durable lining (p-methyl DL) on walls...",
+      "line": 70
+    },
+    {
+      "type": "paragraph",
+      "content": "- 4. P-methyl CS treated net wall hangings (p-methyl NWH) on walls...",
+      "line": 71
+    },
+    {
+      "type": "paragraph",
+      "content": "In the second experimental hut trial, the p-methyl DL and NWH were combined with LLINs and compared ...",
+      "line": 75
+    },
+    {
+      "type": "paragraph",
+      "content": "- 2. Pyrethroid LLIN (Permanet H 2.0 Vestergaard Frandsen, Switzerland), with 6 holes...",
+      "line": 78
+    },
+    {
+      "type": "paragraph",
+      "content": "- 5. P-methyl DL on walls and ceilings + Pyrethroid LLIN with 6 holes...",
+      "line": 81
+    },
+    {
+      "type": "paragraph",
+      "content": "- 6. P-methyl NWH on walls and ceilings + Pyrethroid LLIN with 6 holes...",
+      "line": 82
+    },
+    {
+      "type": "paragraph",
+      "content": "In the third trial we compared the combination of pyrethroid DL and LLIN to the combination of p-met...",
+      "line": 84
+    },
+    {
+      "type": "paragraph",
+      "content": "- 2. Pyrethroid LLIN (Permanet H 2.0 Vestergaard Frandsen, Switzerland), with 6 holes...",
+      "line": 87
+    },
+    {
+      "type": "paragraph",
+      "content": "- 3. Pyrethroid DL (ZeroVector H , Vestergaard Frandsen, Switzerland)on walls and ceilings + Pyrethr...",
+      "line": 88
+    },
+    {
+      "type": "paragraph",
+      "content": "- 4. P-methyl NWH on walls and ceilings + Pyrethroid LLIN with 6 holes...",
+      "line": 89
+    },
+    {
+      "type": "section_header",
+      "content": "Treatment of materials",
+      "line": 91
+    },
+    {
+      "type": "paragraph",
+      "content": "The DL was 50% shade cloth made of woven high density polyethylene (HDPE) plastic (Capatex Ltd, UK)....",
+      "line": 93
+    },
+    {
+      "type": "section_header",
+      "content": "Setting up treated materials to walls",
+      "line": 95
+    },
+    {
+      "type": "paragraph",
+      "content": "In order to minimise contamination of the hut walls when rotating the treatments, a removable underl...",
+      "line": 97
+    },
+    {
+      "type": "section_header",
+      "content": "Rotation of sleepers and treatments",
+      "line": 99
+    },
+    {
+      "type": "paragraph",
+      "content": "Treatments were allocated to the six experimental huts and rotated each week using a randomised Lati...",
+      "line": 101
+    },
+    {
+      "type": "section_header",
+      "content": "Entomological Outcomes",
+      "line": 103
+    },
+    {
+      "type": "paragraph",
+      "content": "The entomological impact of each treatment in this study was expressed in terms of the following ent...",
+      "line": 105
+    },
+    {
+      "type": "paragraph",
+      "content": "- 1. Deterrence: percentage reduction in the number of mosquitoes caught in treated hut relative to ...",
+      "line": 107
+    },
+    {
+      "type": "paragraph",
+      "content": "- 2. Exiting rates due to potential irritant effect of treatments expressed as percentage of the mos...",
+      "line": 108
+    },
+    {
+      "type": "paragraph",
+      "content": "- 3. Inhibition of blood feeding: reduction in blood feeding rate relative to the control. This was ...",
+      "line": 109
+    },
+    {
+      "type": "paragraph",
+      "content": "Where Bfu is the proportion of blood-fed mosquitoes in the untreated control huts and Bft is the pro...",
+      "line": 113
+    },
+    {
+      "type": "paragraph",
+      "content": "- 4. Mortality: percentage of dead mosquitoes in treated hut at the time of collection and after a 2...",
+      "line": 115
+    },
+    {
+      "type": "paragraph",
+      "content": "- 5. The personal protective effect of the treatments which is described by a reduction in the numbe...",
+      "line": 116
+    },
+    {
+      "type": "paragraph",
+      "content": "Where Bu=is the number of blood-fed mosquitoes in the untreated control huts and Bt is the number of...",
+      "line": 120
+    },
+    {
+      "type": "paragraph",
+      "content": "- 6. The overall insecticidal effect of a treatment relative to the number of mosquitoes that would ...",
+      "line": 122
+    },
+    {
+      "type": "paragraph",
+      "content": "where Kt is the number killed in the treated hut, Ku is the number dying in the untreated control hu...",
+      "line": 126
+    },
+    {
+      "type": "section_header",
+      "content": "Residual activity of insecticide treatments",
+      "line": 128
+    },
+    {
+      "type": "paragraph",
+      "content": "To measure residual activity, WHO cone bioassays were undertaken on treated materials in situ using ...",
+      "line": 130
+    },
+    {
+      "type": "section_header",
+      "content": "Studies on selection of insecticide resistance genes",
+      "line": 132
+    },
+    {
+      "type": "paragraph",
+      "content": "Samples of An gambiae (dead and alive) collected from the respective experimental hut treatments thr...",
+      "line": 134
+    },
+    {
+      "type": "paragraph",
+      "content": "trials were preserved for molecular analysis. Only samples from the first and second experimental hu...",
+      "line": 136
+    },
+    {
+      "type": "section_header",
+      "content": "Statistical analysis",
+      "line": 138
+    },
+    {
+      "type": "paragraph",
+      "content": "The effects of the different experimental hut treatments on each of the main entomological outcomes ...",
+      "line": 140
+    },
+    {
+      "type": "paragraph",
+      "content": "For genotyping data, differences in survival of resistant genotypes for each treatment was analysed ...",
+      "line": 142
+    },
+    {
+      "type": "section_header",
+      "content": "Ethics Statement",
+      "line": 144
+    },
+    {
+      "type": "paragraph",
+      "content": "Ethical approval for the study was obtained from the Ethics Review Board of the London School of Hyg...",
+      "line": 146
+    },
+    {
+      "type": "section_header",
+      "content": "Results",
+      "line": 148
+    },
+    {
+      "type": "section_header",
+      "content": "Susceptibility tests",
+      "line": 150
+    },
+    {
+      "type": "paragraph",
+      "content": "An gambiae from Valley du Kou 5 was very resistant to pyrethroids recording 2% mortality with deltam...",
+      "line": 152
+    },
+    {
+      "type": "section_header",
+      "content": "Experimental hut trials",
+      "line": 154
+    },
+    {
+      "type": "paragraph",
+      "content": "Over 5000 An gambiae ss were collected from the experimental huts during the trials. The numbers of ...",
+      "line": 156
+    },
+    {
+      "type": "paragraph",
+      "content": "- 1. Single intervention trial: A total of 3933 An gambiae ss were collected from the experimental h...",
+      "line": 158
+    },
+    {
+      "type": "paragraph",
+      "content": "- 2. First combined intervention trial: A total of 320 An gambiae ss were collected from the experim...",
+      "line": 159
+    },
+    {
+      "type": "paragraph",
+      "content": "- 3. Second combined intervention trial: The results are presented in Table 5 and Figure 3. A total ...",
+      "line": 160
+    },
+    {
+      "type": "section_header",
+      "content": "Residual activity of insecticide",
+      "line": 162
+    },
+    {
+      "type": "paragraph",
+      "content": "Mortality of laboratory reared susceptible An gambiae (Kisumu) tested in WHO cone bioassay on p-meth...",
+      "line": 164
+    },
+    {
+      "type": "section_header",
+      "content": "Selection of resistance alleles and genotypes",
+      "line": 166
+    },
+    {
+      "type": "paragraph",
+      "content": "The An gambiae population was predominantly of the Mmolecular form. Of 559 An gambiae samples which ...",
+      "line": 168
+    },
+    {
+      "type": "paragraph",
+      "content": "- A total of 732 and 656 An gambiae samples collected from the first two experimental hut trials wer...",
+      "line": 170
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 1. Susceptibility of wild An gambiae ss from Valley du Kou 5 (VK5) to deltamethrin (0.05%) in ...",
+      "line": 172
+    },
+    {
+      "type": "paragraph",
+      "content": "| Species                  |   No. tested | % KD (95% CI)   | 24 h % mortality (95% CI)   |...",
+      "line": 174
+    },
+    {
+      "type": "paragraph",
+      "content": "|--------------------------|--------------|-----------------|-----------------------------|...",
+      "line": 175
+    },
+    {
+      "type": "paragraph",
+      "content": "| An gambiae s.s. (Kisumu) |          100 | 100 (96-100)    | 100 (96-100)                |...",
+      "line": 176
+    },
+    {
+      "type": "paragraph",
+      "content": "| An gambiae s.s. (VK5)    |          100 | 5 (0-12)        | 2 (0-7)                     |...",
+      "line": 177
+    },
+    {
+      "type": "paragraph",
+      "content": "(n = 535) in the first trial and 0.86 (n = 197) in the second trial while the overall ace-1 R allele...",
+      "line": 181
+    },
+    {
+      "type": "paragraph",
+      "content": "While the ace-1 R was low, there was generally a greater tendency for mosquitoes bearing the ace-1 R...",
+      "line": 183
+    },
+    {
+      "type": "section_header",
+      "content": "Discussion",
+      "line": 185
+    },
+    {
+      "type": "paragraph",
+      "content": "In the current study, p-methyl treated DL and NWH outperformed pyrethroid treated DL by killing almo...",
+      "line": 187
+    },
+    {
+      "type": "paragraph",
+      "content": "Increasing the level of wall coverage with p-methyl DL and NWH from walls only to walls plus ceiling...",
+      "line": 189
+    },
+    {
+      "type": "paragraph",
+      "content": "LLINs are capable of inducing high levels of mortality and providing significant personal protection...",
+      "line": 191
+    },
+    {
+      "type": "paragraph",
+      "content": "In contrast to p-methyl DL, combining pyrethroid DL and LLIN in the same hut did not show any improv...",
+      "line": 193
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 2. Susceptibilty of wild An gambiae ss from Valley du Kou 5 (VK5) to pirimiphos methyl (0.25%)...",
+      "line": 195
+    },
+    {
+      "type": "paragraph",
+      "content": "| Species                  |   No. tested | % KD (95% CI)   | 24 h % mortality (95% CI)   |...",
+      "line": 197
+    },
+    {
+      "type": "paragraph",
+      "content": "|--------------------------|--------------|-----------------|-----------------------------|...",
+      "line": 198
+    },
+    {
+      "type": "paragraph",
+      "content": "| An gambiae s.s. (Kisumu) |          100 | 87 (80-94)      | 100 (96-100)                |...",
+      "line": 199
+    },
+    {
+      "type": "paragraph",
+      "content": "| An gambiae s.s. (VK5)    |          102 | 86 (79-92)      | 100 (96-100)                |...",
+      "line": 200
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 3. Personal protection and killing effect of p-methyl DL and NWH against pyrethroid resistant ...",
+      "line": 204
+    },
+    {
+      "type": "paragraph",
+      "content": "|                              | Control (untreated DL on walls)   | pyrethroid treated on walls DL ...",
+      "line": 206
+    },
+    {
+      "type": "paragraph",
+      "content": "|------------------------------|-----------------------------------|--------------------------------...",
+      "line": 207
+    },
+    {
+      "type": "paragraph",
+      "content": "| Total females caught         | 995 a                             | 464 b                          ...",
+      "line": 208
+    },
+    {
+      "type": "paragraph",
+      "content": "| Deterrence (%)               | -                                 | 53                             ...",
+      "line": 209
+    },
+    {
+      "type": "paragraph",
+      "content": "| Total females blood fed      | 781                               | 282                            ...",
+      "line": 210
+    },
+    {
+      "type": "paragraph",
+      "content": "| Blood feeding Inhibition (%) | -                                 | 20                             ...",
+      "line": 211
+    },
+    {
+      "type": "paragraph",
+      "content": "| Personal Protection (%)      | -                                 | 64                             ...",
+      "line": 212
+    },
+    {
+      "type": "paragraph",
+      "content": "| Exiting rates (%)            | 18 a                              | 52 b                           ...",
+      "line": 213
+    },
+    {
+      "type": "paragraph",
+      "content": "| Total dead                   | 81                                | 236                            ...",
+      "line": 214
+    },
+    {
+      "type": "paragraph",
+      "content": "| Corrected mortality          | 0 a                               | 38 b                           ...",
+      "line": 215
+    },
+    {
+      "type": "paragraph",
+      "content": "| Overall killing effect (%)   | -                                 | 16                             ...",
+      "line": 216
+    },
+    {
+      "type": "paragraph",
+      "content": "Values along each row sharing the same letter superscript are not significantly different at the 5% ...",
+      "line": 218
+    },
+    {
+      "type": "paragraph",
+      "content": "served as a positive control to demonstrate the importance of a non-resisted insecticide in the dura...",
+      "line": 222
+    },
+    {
+      "type": "paragraph",
+      "content": "The frequency of the kdr (L1014F) mutation in An gambiae in Vallee du Kou 5 as observed in the curre...",
+      "line": 224
+    },
+    {
+      "type": "paragraph",
+      "content": "Figure 1. Mortality and bloodfeeding rates of pyrethroid resistant An gambiae in experimental huts w...",
+      "line": 226
+    },
+    {
+      "type": "image_marker",
+      "content": "Image detected",
+      "line": 228
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 4. Personal protection and killing effect of combining p-methyl DL and NWH with LLINs against ...",
+      "line": 230
+    },
+    {
+      "type": "paragraph",
+      "content": "|                              | Control (untreated net)   | LLIN   | p-methyl DL   | p-methyl NWH  ...",
+      "line": 232
+    },
+    {
+      "type": "paragraph",
+      "content": "|------------------------------|---------------------------|--------|---------------|---------------...",
+      "line": 233
+    },
+    {
+      "type": "paragraph",
+      "content": "| Total females caught         | 81 a                      | 42 b   | 68 ac         | 45 bc         ...",
+      "line": 234
+    },
+    {
+      "type": "paragraph",
+      "content": "| Deterrence (%)               | -                         | 48     | 16            | 44            ...",
+      "line": 235
+    },
+    {
+      "type": "paragraph",
+      "content": "| Total females blood fed      | 64                        | 11     | 28            | 18            ...",
+      "line": 236
+    },
+    {
+      "type": "paragraph",
+      "content": "| Blood feeding Inhibition (%) | -                         | 70     | 50            | 50            ...",
+      "line": 237
+    },
+    {
+      "type": "paragraph",
+      "content": "| Personal Protection (%)      | -                         | 83     | 56            | 72            ...",
+      "line": 238
+    },
+    {
+      "type": "paragraph",
+      "content": "| Total inside net (%)         | 36                        | 0      | -             | -             ...",
+      "line": 239
+    },
+    {
+      "type": "paragraph",
+      "content": "| Exiting rates (%)            | 33 a                      | 57 b   | 53 b          | 43 ab         ...",
+      "line": 240
+    },
+    {
+      "type": "paragraph",
+      "content": "| Total dead                   | 12                        | 25     | 68            | 38            ...",
+      "line": 241
+    },
+    {
+      "type": "paragraph",
+      "content": "| Corrected mortality          | 0 a                       | 54 b   | 100 c         | 100 c         ...",
+      "line": 242
+    },
+    {
+      "type": "paragraph",
+      "content": "| Overall killing effect (%)   | -                         | 19     | 81            | 48            ...",
+      "line": 243
+    },
+    {
+      "type": "paragraph",
+      "content": "Values along each row sharing the same letter superscript are not significantly different at the 5% ...",
+      "line": 245
+    },
+    {
+      "type": "paragraph",
+      "content": "for kdr with the treatments tested. Nevertheless there was some evidence that selection of heterozyg...",
+      "line": 249
+    },
+    {
+      "type": "image_marker",
+      "content": "Image detected",
+      "line": 253
+    },
+    {
+      "type": "paragraph",
+      "content": "Figure 2. Mortality and bloodfeeding rates of pyrethroid resistant An gambiae in experimental huts w...",
+      "line": 255
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 5. Personal protection and killing effect of combining p-methyl DL vs pyrethroid DL with LLINs...",
+      "line": 257
+    },
+    {
+      "type": "paragraph",
+      "content": "|                              | Control   | LLIN   | pyrethroid DL + LLIN   | p-methyl DL + LLIN   ...",
+      "line": 259
+    },
+    {
+      "type": "paragraph",
+      "content": "|------------------------------|-----------|--------|------------------------|----------------------...",
+      "line": 260
+    },
+    {
+      "type": "paragraph",
+      "content": "| Total females caught         | 255 a     | 72 bc  | 67 b                   | 96 c                 ...",
+      "line": 261
+    },
+    {
+      "type": "paragraph",
+      "content": "| Deterrence (%)               | -         | 72     | 74                     | 62                   ...",
+      "line": 262
+    },
+    {
+      "type": "paragraph",
+      "content": "| Total females blood fed      | 114       | 15     | 6                      | 11                   ...",
+      "line": 263
+    },
+    {
+      "type": "paragraph",
+      "content": "| Blood feeding Inhibition (%) | -         | 53     | 80                     | 74                   ...",
+      "line": 264
+    },
+    {
+      "type": "paragraph",
+      "content": "| Personal protection (%)      | -         | 87     | 95                     | 90                   ...",
+      "line": 265
+    },
+    {
+      "type": "paragraph",
+      "content": "| Total inside net (%)         | 29        | 1      | 0                      | 2                    ...",
+      "line": 266
+    },
+    {
+      "type": "paragraph",
+      "content": "| Exiting rates (%)            | 31 a      | 63 b   | 61 b                   | 45 a                 ...",
+      "line": 267
+    },
+    {
+      "type": "paragraph",
+      "content": "| Total dead                   | 24        | 32     | 32                     | 94                   ...",
+      "line": 268
+    },
+    {
+      "type": "paragraph",
+      "content": "| Corrected Mortality (%)      | 0 a       | 39 b   | 43 b                   | 98 c                 ...",
+      "line": 269
+    },
+    {
+      "type": "paragraph",
+      "content": "| Overall killing effect (%)   | -         | 4      | 4                      | 32                   ...",
+      "line": 270
+    },
+    {
+      "type": "paragraph",
+      "content": "Values along each row sharing the same letter superscript are not significantly different at the 5% ...",
+      "line": 272
+    },
+    {
+      "type": "paragraph",
+      "content": "Residual activity with p-methyl treated DL and NWH declined over the course of the six weeks trials....",
+      "line": 274
+    },
+    {
+      "type": "paragraph",
+      "content": "Net wall hangings probably due to their light weight were much easier to hang on the walls than fixi...",
+      "line": 276
+    },
+    {
+      "type": "section_header",
+      "content": "Conclusion",
+      "line": 278
+    },
+    {
+      "type": "paragraph",
+      "content": "Pirimiphos methyl treated DL and NWH show potential to provide improved control of pyrethroid resist...",
+      "line": 280
+    },
+    {
+      "type": "image_marker",
+      "content": "Image detected",
+      "line": 282
+    },
+    {
+      "type": "paragraph",
+      "content": "Figure 3. Mortality and bloodfeeding rates of pyrethroid resistant An gambiae in experimental huts (...",
+      "line": 286
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 6. Comparative kdr and ace 1 R allele frequencies in live and dead An gambiae ss collected fro...",
+      "line": 288
+    },
+    {
+      "type": "paragraph",
+      "content": "|                             |                                  | Kdr allele freq (n)   | Kdr allel...",
+      "line": 290
+    },
+    {
+      "type": "paragraph",
+      "content": "|-----------------------------|----------------------------------|-----------------------|----------...",
+      "line": 291
+    },
+    {
+      "type": "paragraph",
+      "content": "| Treatments                  |                                  | Live                  | Dead     ...",
+      "line": 292
+    },
+    {
+      "type": "paragraph",
+      "content": "| S ingle intervention trial  | S ingle intervention trial       |                       |          ...",
+      "line": 293
+    },
+    {
+      "type": "paragraph",
+      "content": "| 1                           | Control (untreated DL)           | 0.95 (140)            | -        ...",
+      "line": 294
+    },
+    {
+      "type": "paragraph",
+      "content": "| 2                           | Pyrethroid DL                    | 0.91 (51)             | 0.90 (51)...",
+      "line": 295
+    },
+    {
+      "type": "paragraph",
+      "content": "| 3                           | P-methyl DL (walls only)         | 1.0 (9)               | 0.97 (58)...",
+      "line": 296
+    },
+    {
+      "type": "paragraph",
+      "content": "| 4                           | P-methyl NWH (walls only)        | 1.0 (18)              | 0.95 (58)...",
+      "line": 297
+    },
+    {
+      "type": "paragraph",
+      "content": "| 5                           | P-methyl DL (walls and ceiling)  | 1.0 (18)              | 0.94 (61)...",
+      "line": 298
+    },
+    {
+      "type": "paragraph",
+      "content": "| 6                           | P-methyl NWH (walls and ceiling) | 1.0 (3)               | 0.96 (68)...",
+      "line": 299
+    },
+    {
+      "type": "paragraph",
+      "content": "| Combined intervention trial | Combined intervention trial      |                       |          ...",
+      "line": 300
+    },
+    {
+      "type": "paragraph",
+      "content": "| 1                           | Control (untreated DL)           | 0.87 (63)             | -        ...",
+      "line": 301
+    },
+    {
+      "type": "paragraph",
+      "content": "| 2                           | LLIN                             | 0.83 (9)              | 0.85 (27)...",
+      "line": 302
+    },
+    {
+      "type": "paragraph",
+      "content": "| 3                           | P-methyl DL*                     | -                     | 0.82 (31)...",
+      "line": 303
+    },
+    {
+      "type": "paragraph",
+      "content": "| 4                           | P-methyl NWH*                    | -                     | 0.84 (19)...",
+      "line": 304
+    },
+    {
+      "type": "paragraph",
+      "content": "| 5                           | P-methyl DL + LLIN*              | -                     | 0.87 (23)...",
+      "line": 305
+    },
+    {
+      "type": "paragraph",
+      "content": "| 6                           | P-methyl NWH + LLIN*             | -                     | 0.94 (25)...",
+      "line": 306
+    },
+    {
+      "type": "paragraph",
+      "content": "*no live mosquitoes were collected from huts with these treatments....",
+      "line": 308
+    },
+    {
+      "type": "paragraph",
+      "content": "compared to currently available pyrethroid DL or IRS. Combining p-methyl DL/NWH with LLINs provides ...",
+      "line": 312
+    },
+    {
+      "type": "section_header",
+      "content": "Acknowledgments",
+      "line": 314
+    },
+    {
+      "type": "paragraph",
+      "content": "We thank Andy Bywater of Syngenta for providing the insecticide. We are grateful to Nestor Kesse and...",
+      "line": 316
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 7. Genotype selection by the single and combination treatments: percentage survival of An gamb...",
+      "line": 318
+    },
+    {
+      "type": "paragraph",
+      "content": "|                             | kdr                              | kdr       | kdr         | ace-1 R...",
+      "line": 320
+    },
+    {
+      "type": "paragraph",
+      "content": "|-----------------------------|----------------------------------|-----------|-------------|--------...",
+      "line": 321
+    },
+    {
+      "type": "paragraph",
+      "content": "| Treatments                  |                                  | SS        | RS          | SS     ...",
+      "line": 322
+    },
+    {
+      "type": "paragraph",
+      "content": "| S ingle intervention trial  |                                  |           |             |        ...",
+      "line": 323
+    },
+    {
+      "type": "paragraph",
+      "content": "| 1                           | Control (untreated DL)           | -         | 100 (11/11) | 100(96/...",
+      "line": 324
+    },
+    {
+      "type": "paragraph",
+      "content": "| 2                           | Pyrethroid DL                    | -         | 47 (7/15)   | -      ...",
+      "line": 325
+    },
+    {
+      "type": "paragraph",
+      "content": "| 3                           | P-methyl DL (walls only)         | -         | 0 (0/4)     | 40 (19/...",
+      "line": 326
+    },
+    {
+      "type": "paragraph",
+      "content": "| 4                           | P-methyl NWH (walls only)        | -         | 0 (0/6)     | 37 (36/...",
+      "line": 327
+    },
+    {
+      "type": "paragraph",
+      "content": "| 5                           | P-methyl DL (walls and ceiling)  | -         | 0 (0/7)     | 27 (24/...",
+      "line": 328
+    },
+    {
+      "type": "paragraph",
+      "content": "| 6                           | P-methyl NWH (walls and ceiling) | -         | 0 (0/6)     | 28 (26/...",
+      "line": 329
+    },
+    {
+      "type": "paragraph",
+      "content": "| Combined intervention trial |                                  |           |             |        ...",
+      "line": 330
+    },
+    {
+      "type": "paragraph",
+      "content": "| 1                           | Control (untreated DL)           | 100 (2/2) | 100 (13/13) | 100(75/...",
+      "line": 331
+    },
+    {
+      "type": "paragraph",
+      "content": "| 2                           | LLIN                             | 0(0/1)    | 33 (3/9)    | -      ...",
+      "line": 332
+    },
+    {
+      "type": "paragraph",
+      "content": "| 3                           | P-methyl DL*                     | 0 (0/3)   | 0 (0/5)     | 0 (0/33...",
+      "line": 333
+    },
+    {
+      "type": "paragraph",
+      "content": "| 4                           | P-methyl NWH*                    | 0 (0/2)   | 0 (0/2)     | 0 (0/30...",
+      "line": 334
+    },
+    {
+      "type": "paragraph",
+      "content": "| 5                           | P-methyl DL + LLIN*              | 0 (0/1)   | 0 (0/4)     | 0 (0/42...",
+      "line": 335
+    },
+    {
+      "type": "paragraph",
+      "content": "| 6                           | P-methyl NWH + LLIN*             | -         | 0 (0/3)     | 0 (0/35...",
+      "line": 336
+    },
+    {
+      "type": "paragraph",
+      "content": "*no live mosquitoes were collected from huts with these treatments, SS = Homozygous susceptible, RS ...",
+      "line": 338
+    },
+    {
+      "type": "paragraph",
+      "content": "Dr Christopher Jones (LSTM) and Dr Raphael N'Guessan (LSHTM/ CREC) for their support and encourageme...",
+      "line": 340
+    },
+    {
+      "type": "section_header",
+      "content": "References",
+      "line": 342
+    },
+    {
+      "type": "paragraph",
+      "content": "- 1. World Health Organisation (2011) World malaria report: 2011. WHO website. Available: http://www...",
+      "line": 344
+    },
+    {
+      "type": "paragraph",
+      "content": "- 2. Sharma S, Upadhyay A, Haque M, Tyagi P, Mohanty S, et al. (2009) Field evaluation of ZeroFly H ...",
+      "line": 345
+    },
+    {
+      "type": "paragraph",
+      "content": "- 3. Messenger L, Matias A, Manana AN, Stiles-Ocran JB, Knowles S BD, et al. (2012) Multicentre stud...",
+      "line": 346
+    },
+    {
+      "type": "paragraph",
+      "content": "- 4. Ranson H, N'guessan R, Lines J, Moiroux N, Nkuni Z, et al. (2011) Pyrethroid resistance in Afri...",
+      "line": 347
+    },
+    {
+      "type": "paragraph",
+      "content": "- 5. World Health Organization (2012) World Malaria Report: 2012. WHO website. Available:http://www....",
+      "line": 348
+    },
+    {
+      "type": "paragraph",
+      "content": "- 6. Chandre F, Dabire RK, Hougard JM, Djogbenou LS, Irish SR, et al. (2010) Field efficacy of pyret...",
+      "line": 349
+    },
+    {
+      "type": "paragraph",
+      "content": "- 7. Diabate A, Chandre F, Rowland M, N'guessan R, Duchon SK, et al. (2006) The indoor use of plasti...",
+      "line": 350
+    },
+    {
+      "type": "paragraph",
+      "content": "- 8. N'Guessan R, Corbel V, Akogbeto M, Rowland M (2007) Reduced efficacy of insecticide-treated net...",
+      "line": 351
+    },
+    {
+      "type": "paragraph",
+      "content": "- 9. World Health Organisation (2010) The technical basis for coordinated action against insecticide...",
+      "line": 352
+    },
+    {
+      "type": "paragraph",
+      "content": "- 10. Rowland M, Boko P, Odjo A, Asidi A, Akogbeto M, et al. (2013) A New LongLasting Indoor Residua...",
+      "line": 353
+    },
+    {
+      "type": "paragraph",
+      "content": "- 11. Vanlerberghe V, Villegas E, Oviedo M, Baly A, Lenhart A, et al. (2011) Evaluation of the effec...",
+      "line": 354
+    },
+    {
+      "type": "paragraph",
+      "content": "- 12. Vanlerberghe V, Trongtokit Y, Cremonini L, Jirarojwatana S, Apiwathnasorn C, et al. (2010) Res...",
+      "line": 355
+    },
+    {
+      "type": "paragraph",
+      "content": "- 13. Ranson H, Abdallah H, Badolo A, Guelbeogo WM, Kerah-Hinzoumbe C, et al. (2009) Insecticide res...",
+      "line": 356
+    },
+    {
+      "type": "paragraph",
+      "content": "- 14. Sharp BL, Ridl FC, Govender D, Kuklinski J, Kleinschmidt I (2007) Malaria vector control by in...",
+      "line": 357
+    },
+    {
+      "type": "paragraph",
+      "content": "- 15. Hargreaves K, Koekemoer LL, Brooke BD, Hunt RH, Mthembu J, et al. (2000) Anopheles funestus re...",
+      "line": 358
+    },
+    {
+      "type": "paragraph",
+      "content": "- 16. Asidi A, N'Guessan R, Akogbeto M, Curtis C, Rowland M (2012) Loss of household protection from...",
+      "line": 359
+    },
+    {
+      "type": "section_header",
+      "content": "Author Contributions",
+      "line": 361
+    },
+    {
+      "type": "paragraph",
+      "content": "Conceived and designed the experiments: CN HR MR. Performed the experiments: CN ET BK. Analyzed the ...",
+      "line": 363
+    },
+    {
+      "type": "paragraph",
+      "content": "- 17. World Health Organisation (2012) Global Plan for Insecticide Resistance Management (GPIRM). WH...",
+      "line": 365
+    },
+    {
+      "type": "paragraph",
+      "content": "- 18. Dje `nontin A, Chandre F, Dabire ´ KR, Chabi J, N'Guessan R, et al. (2010) Indoor Use of Plast...",
+      "line": 366
+    },
+    {
+      "type": "paragraph",
+      "content": "- 19. Ngufor C, N'Guessan R, Boko P, Odjo A, Vigninou E, et al. (2011) Combining indoor residual spr...",
+      "line": 367
+    },
+    {
+      "type": "paragraph",
+      "content": "- 20. Denholm I, Rowland MW (1992) Tactics for managing pesticide resistance in arthropods: theory a...",
+      "line": 368
+    },
+    {
+      "type": "paragraph",
+      "content": "- 21. Dabire ´ KR, Diabate ´ A, Djogbenou L, Ouari A, N'Guessan R, et al. (2008) Dynamics of multipl...",
+      "line": 369
+    },
+    {
+      "type": "paragraph",
+      "content": "- 22. World Health Organistion (2006) Guidelines for testing mosquito adulticides for indoor residua...",
+      "line": 370
+    },
+    {
+      "type": "paragraph",
+      "content": "- 23. Livak KJ (1984) Organization and mapping of a sequence on the Drosophila melanogaster X and Y ...",
+      "line": 371
+    },
+    {
+      "type": "paragraph",
+      "content": "- 24. Bass C, Nikou D, Donnelly MJ, Williamson MS, Ranson H, et al. (2007) Detection of knockdown re...",
+      "line": 372
+    },
+    {
+      "type": "paragraph",
+      "content": "- 25. Agresti A (1996) An Introduction to Categorical Data Analysis. New York, Wiley....",
+      "line": 373
+    },
+    {
+      "type": "paragraph",
+      "content": "- 26. R Foundation for Statistical Computing (2011) R: A language and environment for statistical co...",
+      "line": 374
+    },
+    {
+      "type": "paragraph",
+      "content": "- 27. Yakob L, Dunning R, Yan G (2011) Indoor residual spray and insecticidetreated bednets for mala...",
+      "line": 375
+    },
+    {
+      "type": "paragraph",
+      "content": "- 28. Dabire KR, Diabate A, Namountougou M, Toe KH, Ouari A, et al. (2009) Distribution of pyrethroi...",
+      "line": 376
+    },
+    {
+      "type": "paragraph",
+      "content": "- 29. Roush RT (1993) Occurrence, genetics and management of insecticide resistance. Parasitol Today...",
+      "line": 377
+    },
+    {
+      "type": "paragraph",
+      "content": "- 30. IRAC (2010) Prevention and Management of Insecticide Resistance. In: Vectors of Public Health ...",
+      "line": 378
+    },
+    {
+      "type": "paragraph",
+      "content": "- 31. Edi CVA, Koudou BG, Jones CM, Weetman D, Ranson H (2012) MultipleInsecticide Resistance in Ano...",
+      "line": 379
+    },
+    {
+      "type": "paragraph",
+      "content": "- 32. Djogbenou L, Pasteur N, Akogbeto M, Weill M, Chandre F (2011) Insecticide resistance in the An...",
+      "line": 380
+    },
+    {
+      "type": "paragraph",
+      "content": "- 33. Alou LPA, Koffi AA, Adja MA, Tia E, Kouassi PK, et al. (2010) Distribution of ace-1 R and resi...",
+      "line": 381
+    }
+  ],
+  "metadata": {
+    "total_sections": 25,
+    "total_paragraphs": 202,
+    "has_structured_content": true
+  }
+}
