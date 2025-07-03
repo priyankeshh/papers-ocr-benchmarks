@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 GPU Environment Setup and Verification Script
-For OCR Benchmark - GSoC Project
+For OCR Benchmark 
 Author: Priyankesh
 
 This script helps setup and verify GPU environment for optimal OCR benchmarking.

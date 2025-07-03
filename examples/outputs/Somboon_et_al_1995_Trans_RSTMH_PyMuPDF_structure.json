@@ -1,0 +1,2673 @@
+{
+  "ocr_system": "PyMuPDF",
+  "format": "plain_text",
+  "timestamp": "2025-07-03T02:03:20.503990",
+  "document_elements": {
+    "title": null,
+    "authors": [],
+    "abstract": null,
+    "sections": [],
+    "references": [],
+    "equations": [],
+    "tables": [],
+    "figures": [],
+    "captions": []
+  },
+  "reading_order": [
+    {
+      "type": "paragraph",
+      "content": "============================================================...",
+      "line": 6
+    },
+    {
+      "type": "page_break",
+      "content": "=== Page 1 ===",
+      "line": 9
+    },
+    {
+      "type": "paragraph",
+      "content": "OF THE ROYAL SOCIETY OF TROPICAL MEDICINE AND HYGIENE (1995) 89, 248-254...",
+      "line": 12
+    },
+    {
+      "type": "paragraph",
+      "content": "Pradya Somboon’, Jo Lines2, Apinun Aramrattana3, Udom Chitprarop4, Somsak Prajakwong4 and Chirasak...",
+      "line": 22
+    },
+    {
+      "type": "paragraph",
+      "content": "‘Department of Parasitology, Faculty of Medicine, Chiang Mai University, Chiang Mai 50200,...",
+      "line": 24
+    },
+    {
+      "type": "paragraph",
+      "content": "Thailand; 2Department of Medical Parasitology, London School of Hygiene and Tropical Medicine, Keppe...",
+      "line": 25
+    },
+    {
+      "type": "paragraph",
+      "content": "7HT, UK; 3Department of Family Medicine, Faculty of Medicine, Chiang Mai University, Chiang Mai 5020...",
+      "line": 27
+    },
+    {
+      "type": "paragraph",
+      "content": "Thailand; 4Malaria Centre, Region 2, Chiang Mai 50200, Thailand; SResearch Institute for Health Scie...",
+      "line": 28
+    },
+    {
+      "type": "paragraph",
+      "content": "This paper reports 2 studies. (i) After a year of baseline data collection, lambdacyhalothrin-treate...",
+      "line": 31
+    },
+    {
+      "type": "paragraph",
+      "content": "were introduced into 3 of 5 villages in north-west Thailand, the remaining 2 being treated with plac...",
+      "line": 32
+    },
+    {
+      "type": "paragraph",
+      "content": "Human bait collections were carried out in each village on 2 nights per month, for 8 months of each ...",
+      "line": 33
+    },
+    {
+      "type": "paragraph",
+      "content": "and the biting densities were compared between the first year and the second year. The treated bed n...",
+      "line": 34
+    },
+    {
+      "type": "paragraph",
+      "content": "not have any significant impact on the density or parous rates of Anopheles sawadwongporni and A. ma...",
+      "line": 35
+    },
+    {
+      "type": "paragraph",
+      "content": "S.S. populations. The results for A. dirus s.1. were not conclusive because of the low number caught...",
+      "line": 36
+    },
+    {
+      "type": "paragraph",
+      "content": "cant reductions in biting and parous rates of A. minimus species A were observed in only one of the ...",
+      "line": 37
+    },
+    {
+      "type": "paragraph",
+      "content": "villages, and there was no overall difference between treated and control groups. However, the trial...",
+      "line": 38
+    },
+    {
+      "type": "paragraph",
+      "content": "from the washing of nets by villagers and the low rate of reimpregnation. (ii) A short-term study in...",
+      "line": 39
+    },
+    {
+      "type": "paragraph",
+      "content": "villages in a cross-over design, and lasted 48 d. For the first 24 d, residents of 2 villages were g...",
+      "line": 40
+    },
+    {
+      "type": "paragraph",
+      "content": "treated nets while the other 2 villages retained their own untreated nets. For the second 24 d, this...",
+      "line": 41
+    },
+    {
+      "type": "paragraph",
+      "content": "was reversed. Daily light-trapping revealed no significant difference in the indoor densities or par...",
+      "line": 42
+    },
+    {
+      "type": "paragraph",
+      "content": "of A. minimus species A between the periods with treated or untreated nets. Both studies, especially...",
+      "line": 43
+    },
+    {
+      "type": "paragraph",
+      "content": "ond., suggested that the community-wide use of treated bed nets did not generally reduce the vectori...",
+      "line": 44
+    },
+    {
+      "type": "paragraph",
+      "content": "pacity of vectors in this area, probably because of the biting behaviour of the mosquitoes...",
+      "line": 45
+    },
+    {
+      "type": "paragraph",
+      "content": "bed nets, Anopheles sawadwongponi, A. maculatus, A. dirts, A. minimus, biting rate,...",
+      "line": 47
+    },
+    {
+      "type": "paragraph",
+      "content": "Malaria is a major public health problem in Thailand,...",
+      "line": 50
+    },
+    {
+      "type": "paragraph",
+      "content": "especially in forest and border areas, Control of malaria...",
+      "line": 51
+    },
+    {
+      "type": "paragraph",
+      "content": "transmission by DDT house spraying, although success-...",
+      "line": 52
+    },
+    {
+      "type": "paragraph",
+      "content": "lems elsewhere, including the exophilic behaviour of all...",
+      "line": 57
+    },
+    {
+      "type": "paragraph",
+      "content": "main vector species (i.e., Anopheles minimus s.l., A. dirus...",
+      "line": 58
+    },
+    {
+      "type": "paragraph",
+      "content": "s.l., and A. maculatus s.l.), the increasingly poor accept-...",
+      "line": 59
+    },
+    {
+      "type": "paragraph",
+      "content": "ance by communities of the spraying, and the movement...",
+      "line": 60
+    },
+    {
+      "type": "paragraph",
+      "content": "of people to intense foci of transmission both inside and...",
+      "line": 61
+    },
+    {
+      "type": "paragraph",
+      "content": "One possible alternative method for control of malaria...",
+      "line": 64
+    },
+    {
+      "type": "paragraph",
+      "content": "is the use of pyrethroid-treated bed nets (ROZENDAAL,...",
+      "line": 65
+    },
+    {
+      "type": "paragraph",
+      "content": "shown benefits in reducing the number of bites on hu-...",
+      "line": 67
+    },
+    {
+      "type": "paragraph",
+      "content": "mans sleeping within them, even if there are holes in...",
+      "line": 68
+    },
+    {
+      "type": "paragraph",
+      "content": "them, or on humans nearby because of the deterrent and...",
+      "line": 69
+    },
+    {
+      "type": "paragraph",
+      "content": "excite-repellent effects and feeding inhibition of the in-...",
+      "line": 70
+    },
+    {
+      "type": "paragraph",
+      "content": "secticide (LINES et al., 1987). When used by a whole...",
+      "line": 71
+    },
+    {
+      "type": "paragraph",
+      "content": "community, the treated nets might be expected to have a...",
+      "line": 72
+    },
+    {
+      "type": "paragraph",
+      "content": "‘mass effect’, reducing the density and longevity of vec-...",
+      "line": 73
+    },
+    {
+      "type": "paragraph",
+      "content": "tor populations, and thus providing an additional benefit...",
+      "line": 74
+    },
+    {
+      "type": "paragraph",
+      "content": "above the improved personal protection provided by in-...",
+      "line": 75
+    },
+    {
+      "type": "paragraph",
+      "content": "dividual use. However, of the numerous trials reviewed...",
+      "line": 76
+    },
+    {
+      "type": "paragraph",
+      "content": "1993; HII et al., 1993; KARCH et al., 1993; KERE et al.,...",
+      "line": 80
+    },
+    {
+      "type": "paragraph",
+      "content": "1993; LINDSAY et al., 1993a, 1993b), many were not de-...",
+      "line": 81
+    },
+    {
+      "type": "paragraph",
+      "content": "signed to allow detection of a mass effect, and in others...",
+      "line": 82
+    },
+    {
+      "type": "paragraph",
+      "content": "no mass effect was seen. The clearest evidence for a mass...",
+      "line": 83
+    },
+    {
+      "type": "paragraph",
+      "content": "effect has come from trials with anthropophilic and endo-...",
+      "line": 84
+    },
+    {
+      "type": "paragraph",
+      "content": "philic A. gambiae in Africa (MAGESA et al., 1991; RO-...",
+      "line": 85
+    },
+    {
+      "type": "paragraph",
+      "content": "BERT & CARNEVALE, 1991; KARCH et al., 1993), with en-...",
+      "line": 86
+    },
+    {
+      "type": "paragraph",
+      "content": "(JANA-KARA et al., in press), and with A. farauti in the...",
+      "line": 89
+    },
+    {
+      "type": "paragraph",
+      "content": "Solomon Islands (KERE et al., 1993). Howevey, evidence...",
+      "line": 90
+    },
+    {
+      "type": "paragraph",
+      "content": "for the absence of a mass effect with A. gambtae s.1. was...",
+      "line": 91
+    },
+    {
+      "type": "paragraph",
+      "content": "reported from The Gambia; this may have been due to...",
+      "line": 92
+    },
+    {
+      "type": "paragraph",
+      "content": "the mixing of mosquito populations between villages...",
+      "line": 93
+    },
+    {
+      "type": "paragraph",
+      "content": "with treated and untreated bed nets (LINDSAY et al.,...",
+      "line": 94
+    },
+    {
+      "type": "paragraph",
+      "content": "1993b). In the A. tn4nctulatus complex in Papua New...",
+      "line": 95
+    },
+    {
+      "type": "paragraph",
+      "content": "Guinea, there was a-reduction in th; human blood index...",
+      "line": 96
+    },
+    {
+      "type": "paragraph",
+      "content": "and a sluft in the peak time of biting from late to early in...",
+      "line": 97
+    },
+    {
+      "type": "paragraph",
+      "content": "the night, but no evidence for a reduction in density or...",
+      "line": 98
+    },
+    {
+      "type": "paragraph",
+      "content": "Starting in late 1989, a large-scale epidemiological trial...",
+      "line": 102
+    },
+    {
+      "type": "paragraph",
+      "content": "of lambdacyhalothrin-treated bed nets was carried out in...",
+      "line": 103
+    },
+    {
+      "type": "paragraph",
+      "content": "north-west Thailand. This paper presents the entomo-...",
+      "line": 104
+    },
+    {
+      "type": "paragraph",
+      "content": "logical evaluation, which consisted of a long-term and a...",
+      "line": 105
+    },
+    {
+      "type": "paragraph",
+      "content": "short-term study. The impact on malaria incidence will...",
+      "line": 106
+    },
+    {
+      "type": "paragraph",
+      "content": "be presented separately by A. Aramrattana et al. (paper...",
+      "line": 107
+    },
+    {
+      "type": "paragraph",
+      "content": "Study area. The study was carried out in Karen vil-...",
+      "line": 111
+    },
+    {
+      "type": "paragraph",
+      "content": "lages located in forest and forest fringe areas in Mae Sa-...",
+      "line": 112
+    },
+    {
+      "type": "paragraph",
+      "content": "rianp: district. Mae Hong Son movince. north-west Thai-...",
+      "line": 113
+    },
+    {
+      "type": "paragraph",
+      "content": "land: adjacent to the Mianmar horde;. The province is...",
+      "line": 114
+    },
+    {
+      "type": "paragraph",
+      "content": "extremely mountainous and forested, with very limited...",
+      "line": 115
+    },
+    {
+      "type": "paragraph",
+      "content": "plains areas. Forest fringe villa es are typically situated...",
+      "line": 116
+    },
+    {
+      "type": "paragraph",
+      "content": "in foothills surrounded by rice dds, scrub and second-...",
+      "line": 117
+    },
+    {
+      "type": "paragraph",
+      "content": "ary forest, with streams running through or alongside...",
+      "line": 119
+    },
+    {
+      "type": "paragraph",
+      "content": "them. Farm huts, the temporary shelters to which vil-...",
+      "line": 120
+    },
+    {
+      "type": "paragraph",
+      "content": "lagers move during ploughing and harvesting periods,...",
+      "line": 121
+    },
+    {
+      "type": "paragraph",
+      "content": "are scattered in rice fields m the valleys and on the moun-...",
+      "line": 122
+    },
+    {
+      "type": "paragraph",
+      "content": "tains. Some villages are situated deeper in the hills and in...",
+      "line": 123
+    },
+    {
+      "type": "paragraph",
+      "content": "the forest. Cattle and pigs are common in most Karen...",
+      "line": 124
+    },
+    {
+      "type": "paragraph",
+      "content": "Four forest fringe villages, Mae Han, Mae Chon, Mae...",
+      "line": 126
+    },
+    {
+      "type": "paragraph",
+      "content": "Top Nua and Mae Salap, and a deep forest village, Huai...",
+      "line": 127
+    },
+    {
+      "type": "paragraph",
+      "content": "Neu. were selected for the studv. These villages were...",
+      "line": 128
+    },
+    {
+      "type": "paragraph",
+      "content": "aGong the 24 units of a arasitolo&cal evaluation(AR.4~-...",
+      "line": 129
+    },
+    {
+      "type": "paragraph",
+      "content": "RATTANA, 1993). Mae f!I alap and Huai Ngu are isolated...",
+      "line": 130
+    },
+    {
+      "type": "paragraph",
+      "content": "villages. At Mae Top Nua there is a neighbouring village...",
+      "line": 131
+    },
+    {
+      "type": "paragraph",
+      "content": "about 500 m away, separated by 2 hills. Mae Han and...",
+      "line": 132
+    },
+    {
+      "type": "paragraph",
+      "content": "Mae Chon are separated from each other by about 800 m...",
+      "line": 133
+    },
+    {
+      "type": "paragraph",
+      "content": "and a hill. The annual malaria Darasite incidence in 1989...",
+      "line": 134
+    },
+    {
+      "type": "paragraph",
+      "content": "varied from 80.7-279.7 per 1060 persons. Details of the...",
+      "line": 135
+    },
+    {
+      "type": "paragraph",
+      "content": "population and bed net usage are given in Table 1. De-...",
+      "line": 136
+    },
+    {
+      "type": "paragraph",
+      "content": "tection of malaria sporozoites by enzyme-linked immu-...",
+      "line": 137
+    },
+    {
+      "type": "paragraph",
+      "content": "nosorbent assay (BURKOT et al., 1984; WIRTZ et al.,...",
+      "line": 138
+    },
+    {
+      "type": "paragraph",
+      "content": "1987) has suggested that A. minimus species A, A. sawad-...",
+      "line": 139
+    },
+    {
+      "type": "paragraph",
+      "content": "wongporni (formerly A. maculatus species A), A. macu-...",
+      "line": 140
+    },
+    {
+      "type": "paragraph",
+      "content": "latus S.S. and A. dirus s.1. are the potential vectors in the...",
+      "line": 141
+    },
+    {
+      "type": "paragraph",
+      "content": "Downloaded from https://academic.oup.com/trstmh/article-abstract/89/3/248/1885449 by Columbia Univer...",
+      "line": 143
+    },
+    {
+      "type": "page_break",
+      "content": "=== Page 2 ===",
+      "line": 146
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 1. Population and numbers of bed nets in the 5 study villages, Mae Han, Mae Top Nua, Mae Chon,...",
+      "line": 148
+    },
+    {
+      "type": "paragraph",
+      "content": "Since the coverage of DDT spraying in the study vil-...",
+      "line": 193
+    },
+    {
+      "type": "paragraph",
+      "content": "was little evidence that this method was still effective,...",
+      "line": 196
+    },
+    {
+      "type": "paragraph",
+      "content": "spraying was suspended within a radius of 5 km from...",
+      "line": 197
+    },
+    {
+      "type": "paragraph",
+      "content": "October 1989 until the end of the study. Other routine...",
+      "line": 198
+    },
+    {
+      "type": "paragraph",
+      "content": "Study design. The study was divided into 2 phases, the...",
+      "line": 200
+    },
+    {
+      "type": "paragraph",
+      "content": "first (baseline phase) during the high transmission season...",
+      "line": 201
+    },
+    {
+      "type": "paragraph",
+      "content": "from May to December 1990 and the second (interven-...",
+      "line": 202
+    },
+    {
+      "type": "paragraph",
+      "content": "and Huai Ngu were treated with lambdacyhalothrin (10...",
+      "line": 205
+    },
+    {
+      "type": "paragraph",
+      "content": "treated with placebo. The design permitted pre- and...",
+      "line": 207
+    },
+    {
+      "type": "paragraph",
+      "content": "post-intervention comparisons in each village, and con-...",
+      "line": 208
+    },
+    {
+      "type": "paragraph",
+      "content": "temporary comparisons between treated and untreated...",
+      "line": 209
+    },
+    {
+      "type": "paragraph",
+      "content": "Net census, impregnation and distribution. Most people...",
+      "line": 211
+    },
+    {
+      "type": "paragraph",
+      "content": "in the area used cotton or cotton-polyester nets. In an at-...",
+      "line": 212
+    },
+    {
+      "type": "paragraph",
+      "content": "tempt to obtain a high rate of net &age, a census was car-...",
+      "line": 213
+    },
+    {
+      "type": "paragraph",
+      "content": "ried out in earlv 1990 and a number of additional nets...",
+      "line": 214
+    },
+    {
+      "type": "paragraph",
+      "content": "were distributed at a subsidized price. Over 80% of nets...",
+      "line": 215
+    },
+    {
+      "type": "paragraph",
+      "content": "in all the entomological study villages were treated in the...",
+      "line": 216
+    },
+    {
+      "type": "paragraph",
+      "content": "first round of impregnation; except for Mae Han where...",
+      "line": 217
+    },
+    {
+      "type": "paragraph",
+      "content": "the coverage was verv low (see Table 11. In the second...",
+      "line": 218
+    },
+    {
+      "type": "paragraph",
+      "content": "tively low coverage was found over the whole study area....",
+      "line": 220
+    },
+    {
+      "type": "paragraph",
+      "content": "Details of net impregnation and distribution will be de-...",
+      "line": 221
+    },
+    {
+      "type": "paragraph",
+      "content": "scribed by A. Aramrattana et al. (paper in preparation)....",
+      "line": 222
+    },
+    {
+      "type": "paragraph",
+      "content": "Entomological data collection and analysis. Mosquitoes...",
+      "line": 223
+    },
+    {
+      "type": "paragraph",
+      "content": "were collected on 2 human baits indoors and 2 outdoors...",
+      "line": 224
+    },
+    {
+      "type": "paragraph",
+      "content": "(before intervention1 and Mav to December 1991 (after...",
+      "line": 226
+    },
+    {
+      "type": "paragraph",
+      "content": "intervention). The indoor collections were perfo&ed...",
+      "line": 227
+    },
+    {
+      "type": "paragraph",
+      "content": "outside the sleeping room of villagers throughout the...",
+      "line": 228
+    },
+    {
+      "type": "paragraph",
+      "content": "night, but the outdoor catches (5-10 m away) were made...",
+      "line": 229
+    },
+    {
+      "type": "paragraph",
+      "content": "only until midnight. Similar collections were carried out...",
+      "line": 230
+    },
+    {
+      "type": "paragraph",
+      "content": "simultaneously at the farm hut areas of each forest fringe...",
+      "line": 231
+    },
+    {
+      "type": "paragraph",
+      "content": "identification, the ovaries of mosquitoes were examined...",
+      "line": 233
+    },
+    {
+      "type": "paragraph",
+      "content": "In each catching site each year, the monthly counts of...",
+      "line": 235
+    },
+    {
+      "type": "paragraph",
+      "content": "mosquitoes, indoors plus outdoors, were transformed as...",
+      "line": 236
+    },
+    {
+      "type": "paragraph",
+      "content": "log (n+l) to stabilize the variance. Paired t tests were...",
+      "line": 237
+    },
+    {
+      "type": "paragraph",
+      "content": "basis. Mantel-Haenszel x2 tests were used to compare the...",
+      "line": 242
+    },
+    {
+      "type": "paragraph",
+      "content": "proportions of nulliparous and parous mosquitoes in...",
+      "line": 243
+    },
+    {
+      "type": "paragraph",
+      "content": "Study design and study area. Since recruitment to mos-...",
+      "line": 252
+    },
+    {
+      "type": "paragraph",
+      "content": "quito populations fluctuates widely in the short term,...",
+      "line": 253
+    },
+    {
+      "type": "paragraph",
+      "content": "more intensive measurements of mosquito density and...",
+      "line": 254
+    },
+    {
+      "type": "paragraph",
+      "content": "parous rates on a daily basis may give a more reliable pic-...",
+      "line": 255
+    },
+    {
+      "type": "paragraph",
+      "content": "ture than less intensive occasional sampling over longer...",
+      "line": 256
+    },
+    {
+      "type": "paragraph",
+      "content": "periods, as was done in the long-term study (CHARL-...",
+      "line": 257
+    },
+    {
+      "type": "paragraph",
+      "content": "HOLMES & BIRLEY, 1987). Daily sampling increases the...",
+      "line": 260
+    },
+    {
+      "type": "paragraph",
+      "content": "sample size in relation to variability so that small...",
+      "line": 261
+    },
+    {
+      "type": "paragraph",
+      "content": "changes in the mosquito density and parous rate may be...",
+      "line": 262
+    },
+    {
+      "type": "paragraph",
+      "content": "detected. A short-term study of the effect of treated bed...",
+      "line": 263
+    },
+    {
+      "type": "paragraph",
+      "content": "nets on vector populations was therefore carried out in...",
+      "line": 264
+    },
+    {
+      "type": "paragraph",
+      "content": "order to complement the long-term study. A cross-over...",
+      "line": 265
+    },
+    {
+      "type": "paragraph",
+      "content": "design permitted each village to act as both control and...",
+      "line": 266
+    },
+    {
+      "type": "paragraph",
+      "content": "treated units, thus allowing for the permanent effects of...",
+      "line": 267
+    },
+    {
+      "type": "paragraph",
+      "content": "likely to have taken place over the relatively short study...",
+      "line": 269
+    },
+    {
+      "type": "paragraph",
+      "content": "the previous study (Mae Chon and Mae Top Nua), and 2...",
+      "line": 272
+    },
+    {
+      "type": "paragraph",
+      "content": "others: Mae Top Klang and the Wild Animal Conserva-...",
+      "line": 273
+    },
+    {
+      "type": "paragraph",
+      "content": "Klang is another Karen village separated from Mae Top...",
+      "line": 276
+    },
+    {
+      "type": "paragraph",
+      "content": "Nua by about 500 m and 2 hills (see above), and was in-...",
+      "line": 277
+    },
+    {
+      "type": "paragraph",
+      "content": "volved-in the previous epidemiolbgical study as a control...",
+      "line": 278
+    },
+    {
+      "type": "paragraph",
+      "content": "(untreated) unit in 1990-1991. The Wild Animal Conser-...",
+      "line": 279
+    },
+    {
+      "type": "paragraph",
+      "content": "iation Ceitre is a government office with permanently...",
+      "line": 280
+    },
+    {
+      "type": "paragraph",
+      "content": "resident staff living in Karen style houses. It is about 8...",
+      "line": 281
+    },
+    {
+      "type": "paragraph",
+      "content": "km north of Mae Top Nua, and surrounded by relatively...",
+      "line": 282
+    },
+    {
+      "type": "paragraph",
+      "content": "Shortly before the study began, malaria workers had...",
+      "line": 284
+    },
+    {
+      "type": "paragraph",
+      "content": "treated the bed nets in all the neiahbourina villages as...",
+      "line": 285
+    },
+    {
+      "type": "paragraph",
+      "content": "part of regional malaria control effoyts. DDTspraying in...",
+      "line": 286
+    },
+    {
+      "type": "paragraph",
+      "content": "these study sites had been suspended since October 1989...",
+      "line": 287
+    },
+    {
+      "type": "paragraph",
+      "content": "Intervention method. House-to-house surveys were car-...",
+      "line": 289
+    },
+    {
+      "type": "paragraph",
+      "content": "ried out one month before the intervention began. The...",
+      "line": 290
+    },
+    {
+      "type": "paragraph",
+      "content": "purpose of the experiment was explained to the residents....",
+      "line": 291
+    },
+    {
+      "type": "paragraph",
+      "content": "each other, and there may have been some overlapping of...",
+      "line": 293
+    },
+    {
+      "type": "paragraph",
+      "content": "their mosquito populations, they were treated in the...",
+      "line": 294
+    },
+    {
+      "type": "paragraph",
+      "content": "same period. On 1 July 1992 new cotton-polyester bed...",
+      "line": 295
+    },
+    {
+      "type": "paragraph",
+      "content": "nets treated individually with lambdacyhalothrin (10...",
+      "line": 296
+    },
+    {
+      "type": "paragraph",
+      "content": "rooms used or mosquito trapping. The bed nets of resi-...",
+      "line": 301
+    },
+    {
+      "type": "paragraph",
+      "content": "dents who already hid them tier; temporarily stored to...",
+      "line": 302
+    },
+    {
+      "type": "paragraph",
+      "content": "ensure that thev used onlv the treated ones. On 25 Tulv...",
+      "line": 303
+    },
+    {
+      "type": "paragraph",
+      "content": "1992 the treated nets were replaced with the occup&t?...",
+      "line": 304
+    },
+    {
+      "type": "paragraph",
+      "content": "own bed nets, which were untreated. In the other 2 com-...",
+      "line": 305
+    },
+    {
+      "type": "paragraph",
+      "content": "munities, Mae Chon and the Wild Animal Conservation...",
+      "line": 306
+    },
+    {
+      "type": "paragraph",
+      "content": "Centre, this pattern was reversed. At the end of the study...",
+      "line": 307
+    },
+    {
+      "type": "paragraph",
+      "content": "all the treated bed nets were given free to the villagers....",
+      "line": 308
+    },
+    {
+      "type": "paragraph",
+      "content": "The villagers’ bed nets were also treated as requested. In...",
+      "line": 309
+    },
+    {
+      "type": "paragraph",
+      "content": "Mae Chon, where 36% of nets had been treated in late...",
+      "line": 310
+    },
+    {
+      "type": "paragraph",
+      "content": "1991 in the long-term study (about 6 months before this...",
+      "line": 311
+    },
+    {
+      "type": "paragraph",
+      "content": "study began), people were encouraged to wash their nets...",
+      "line": 312
+    },
+    {
+      "type": "paragraph",
+      "content": "Downloaded from https://academic.oup.com/trstmh/article-abstract/89/3/248/1885449 by Columbia Univer...",
+      "line": 314
+    },
+    {
+      "type": "page_break",
+      "content": "=== Page 3 ===",
+      "line": 317
+    },
+    {
+      "type": "paragraph",
+      "content": "Fig. 1. Mean log (n+l) numbers of mosquitoes per month collected on human bait, 2 indoors overnight ...",
+      "line": 373
+    },
+    {
+      "type": "paragraph",
+      "content": "D) and farm huts (E-H) of Mae Han (MH), Mae Top Nua (MTN), Mae Chon (MC), Mae Salap (MSL) and Huai N...",
+      "line": 374
+    },
+    {
+      "type": "paragraph",
+      "content": "1990, solid bats) and after (May to December 1991, hatched bars) intervention: A and E show fgures f...",
+      "line": 375
+    },
+    {
+      "type": "paragraph",
+      "content": "porni, C and G for A. maculatw s.s., and D and H for A. dims s.1. Significaot differences (P~0.05, p...",
+      "line": 376
+    },
+    {
+      "type": "paragraph",
+      "content": "Downloaded from https://academic.oup.com/trstmh/article-abstract/89/3/248/1885449 by Columbia Univer...",
+      "line": 377
+    },
+    {
+      "type": "page_break",
+      "content": "=== Page 4 ===",
+      "line": 380
+    },
+    {
+      "type": "paragraph",
+      "content": "Mosquito collection. CDC light-trap catches were used...",
+      "line": 382
+    },
+    {
+      "type": "paragraph",
+      "content": "for daily collection of mosquitoes, hung beside occupied...",
+      "line": 383
+    },
+    {
+      "type": "paragraph",
+      "content": "untreated bed nets (to avoid the deterrent and excito-...",
+      "line": 384
+    },
+    {
+      "type": "paragraph",
+      "content": "repellent effects of the insecticide) in each of 3 houses in...",
+      "line": 385
+    },
+    {
+      "type": "paragraph",
+      "content": "geable batteries in the evening and disconnected in the...",
+      "line": 387
+    },
+    {
+      "type": "paragraph",
+      "content": "morning by the project team. This method has shown a...",
+      "line": 388
+    },
+    {
+      "type": "paragraph",
+      "content": "fairly good correlation with indoor human-biting catches...",
+      "line": 389
+    },
+    {
+      "type": "paragraph",
+      "content": "in sampling A. minimus species A, which was the most...",
+      "line": 390
+    },
+    {
+      "type": "paragraph",
+      "content": "abundant indoor biting species (ISMAIL et al., 1982; SOM-...",
+      "line": 391
+    },
+    {
+      "type": "paragraph",
+      "content": "BOON, 1993). To reduce mortality of trapped mosquitoes...",
+      "line": 392
+    },
+    {
+      "type": "paragraph",
+      "content": "caused by the wind from the trap’s fan, the necks of the...",
+      "line": 393
+    },
+    {
+      "type": "paragraph",
+      "content": "collection bags were extended to 35.5 cm, and the top of...",
+      "line": 394
+    },
+    {
+      "type": "paragraph",
+      "content": "each bag was covered with a piece of wet cotton cloth....",
+      "line": 460
+    },
+    {
+      "type": "paragraph",
+      "content": "The mosquitoes collected from the 3 light traps in each...",
+      "line": 461
+    },
+    {
+      "type": "paragraph",
+      "content": "The daily counts were log-transformed to reduce the...",
+      "line": 464
+    },
+    {
+      "type": "paragraph",
+      "content": "variance. Comparisons of the geometric means between...",
+      "line": 465
+    },
+    {
+      "type": "paragraph",
+      "content": "the periods when treated and untreated nets were used in...",
+      "line": 466
+    },
+    {
+      "type": "paragraph",
+      "content": "each community were carried out by using Student’s t...",
+      "line": 467
+    },
+    {
+      "type": "paragraph",
+      "content": "tests. Analysis of variance (ANOVA) was carried out to...",
+      "line": 468
+    },
+    {
+      "type": "paragraph",
+      "content": "partition variation into treatments and communities. The...",
+      "line": 469
+    },
+    {
+      "type": "paragraph",
+      "content": "proportions of parous and nulliparous mos 9 uitoes be-...",
+      "line": 470
+    },
+    {
+      "type": "paragraph",
+      "content": "tween the 2 periods were compared by using x tests....",
+      "line": 471
+    },
+    {
+      "type": "paragraph",
+      "content": "Fig. 2. Numbers of A. minimus species A females collected daily by 3 CDC light traps hung beside occ...",
+      "line": 487
+    },
+    {
+      "type": "paragraph",
+      "content": "when both treated and untreated nets were installed in 4 communities....",
+      "line": 488
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 2. Comparisons of the parous rates of A. minimus species A before (1990) and after (1991) inte...",
+      "line": 489
+    },
+    {
+      "type": "paragraph",
+      "content": "aPaired parous rates compared by Mantel-Haenszel X‘ tests, stratifying for corresponding mgnths; co~...",
+      "line": 570
+    },
+    {
+      "type": "paragraph",
+      "content": "parous rates were stratified by month and village. Significant differences are indicated thus: P<O.O...",
+      "line": 571
+    },
+    {
+      "type": "paragraph",
+      "content": "Downloaded from https://academic.oup.com/trstmh/article-abstract/89/3/248/1885449 by Columbia Univer...",
+      "line": 574
+    },
+    {
+      "type": "page_break",
+      "content": "=== Page 5 ===",
+      "line": 577
+    },
+    {
+      "type": "paragraph",
+      "content": "Effect on mosquito densities. Mean monthly mosquito...",
+      "line": 581
+    },
+    {
+      "type": "paragraph",
+      "content": "densities in 1990 and 1991 are shown by species in Fig....",
+      "line": 582
+    },
+    {
+      "type": "paragraph",
+      "content": "1. From 1990 to 1991, a statistically significant reduction...",
+      "line": 583
+    },
+    {
+      "type": "paragraph",
+      "content": "in the biting density of A. minimus species A was ob-...",
+      "line": 584
+    },
+    {
+      "type": "paragraph",
+      "content": "served in the village collection in Mae Chon, but this ef-...",
+      "line": 585
+    },
+    {
+      "type": "paragraph",
+      "content": "fect was not seen in the other treated villages or in either...",
+      "line": 586
+    },
+    {
+      "type": "paragraph",
+      "content": "There was no statistically significant change in the vil-...",
+      "line": 588
+    },
+    {
+      "type": "paragraph",
+      "content": "lage biting densities of A. sawadwongporni and A. macu-...",
+      "line": 589
+    },
+    {
+      "type": "paragraph",
+      "content": "latus S.S. m any of the treated villages; a significant in-...",
+      "line": 590
+    },
+    {
+      "type": "paragraph",
+      "content": "crease in A. maculatus S.S. biting rate was observed in the...",
+      "line": 591
+    },
+    {
+      "type": "paragraph",
+      "content": "untreated village Mae Top Nua. The density of A. dirus...",
+      "line": 592
+    },
+    {
+      "type": "paragraph",
+      "content": "s.1. was significantly decreased in Mae Chon, but not...",
+      "line": 593
+    },
+    {
+      "type": "paragraph",
+      "content": "between villages in the treated and untreated groups,...",
+      "line": 596
+    },
+    {
+      "type": "paragraph",
+      "content": "there was no significant change from 1990 to 1991 in...",
+      "line": 597
+    },
+    {
+      "type": "paragraph",
+      "content": "In the farm hut areas, where no intervention was car-...",
+      "line": 599
+    },
+    {
+      "type": "paragraph",
+      "content": "ried out, there were statistically significant changes...",
+      "line": 600
+    },
+    {
+      "type": "paragraph",
+      "content": "(mostly decreases) in the densities of each of the 4 species...",
+      "line": 601
+    },
+    {
+      "type": "paragraph",
+      "content": "in some sites. However, the overall densities of only A....",
+      "line": 602
+    },
+    {
+      "type": "paragraph",
+      "content": "maculatus S.S. and A. dirus s.1. were significantly reduced....",
+      "line": 603
+    },
+    {
+      "type": "paragraph",
+      "content": "Effect on parous rates. Changes in parous rates were...",
+      "line": 604
+    },
+    {
+      "type": "paragraph",
+      "content": "broadly similar to the changes in density. The results are...",
+      "line": 605
+    },
+    {
+      "type": "paragraph",
+      "content": "shown in detail only for A. minimus species A (Table 2);...",
+      "line": 606
+    },
+    {
+      "type": "paragraph",
+      "content": "those for the other species were similar. Although the...",
+      "line": 607
+    },
+    {
+      "type": "paragraph",
+      "content": "total numbers caught were reasonably large, the sample...",
+      "line": 608
+    },
+    {
+      "type": "paragraph",
+      "content": "size of a given species in a given village was usually quite...",
+      "line": 609
+    },
+    {
+      "type": "paragraph",
+      "content": "small, and few of the year-on-year comparisons were sig-...",
+      "line": 610
+    },
+    {
+      "type": "paragraph",
+      "content": "nificant. Overall, positive changes in parous rate out-...",
+      "line": 611
+    },
+    {
+      "type": "paragraph",
+      "content": "Fig. 3. Changes in the parous rate of A. minimus species A. Numbers of...",
+      "line": 641
+    },
+    {
+      "type": "paragraph",
+      "content": "nulliparous and parous females collected in every four-night period were...",
+      "line": 642
+    },
+    {
+      "type": "paragraph",
+      "content": "pooled. Broken lines show values when untreated bed nets were installed...",
+      "line": 643
+    },
+    {
+      "type": "paragraph",
+      "content": "and the solid lines show those for treated bed nets. MTN=Mae Top Nua,...",
+      "line": 644
+    },
+    {
+      "type": "paragraph",
+      "content": "Top Klang, WAC=Wild Animal Conservation Centre, and...",
+      "line": 646
+    },
+    {
+      "type": "paragraph",
+      "content": "numbered negative ones in treated as well as untreated...",
+      "line": 648
+    },
+    {
+      "type": "paragraph",
+      "content": "villages. The only result that could possibly be inter-...",
+      "line": 649
+    },
+    {
+      "type": "paragraph",
+      "content": "preted as evidence for an effect of the nets was seen with...",
+      "line": 650
+    },
+    {
+      "type": "paragraph",
+      "content": "A. minimus species A in Mae Chon, where there was a...",
+      "line": 651
+    },
+    {
+      "type": "paragraph",
+      "content": "significant decrease in both density and parous rate. No...",
+      "line": 652
+    },
+    {
+      "type": "paragraph",
+      "content": "calculation was made for A. dirus s.1. collected in the vil-...",
+      "line": 653
+    },
+    {
+      "type": "paragraph",
+      "content": "lages because of the very low numbers caught; at the...",
+      "line": 654
+    },
+    {
+      "type": "paragraph",
+      "content": "farm huts, no significant change of the parous rate was...",
+      "line": 655
+    },
+    {
+      "type": "paragraph",
+      "content": "Bednet usage. Excellent community participation was...",
+      "line": 658
+    },
+    {
+      "type": "paragraph",
+      "content": "observed in all 4 communities. All residents used nets,...",
+      "line": 659
+    },
+    {
+      "type": "paragraph",
+      "content": "except for a couple in Mae Top Nua who had never slept...",
+      "line": 660
+    },
+    {
+      "type": "paragraph",
+      "content": "under a net and refused to use it. The proportion of resi-...",
+      "line": 661
+    },
+    {
+      "type": "paragraph",
+      "content": "dents who accepted the treated nets to replace their pre-...",
+      "line": 662
+    },
+    {
+      "type": "paragraph",
+      "content": "vious untreated nets ranged from 93% to 98%, excluding...",
+      "line": 663
+    },
+    {
+      "type": "paragraph",
+      "content": "those in houses where light traps were used. Washing of...",
+      "line": 664
+    },
+    {
+      "type": "paragraph",
+      "content": "a treated net was not observed during the study period....",
+      "line": 665
+    },
+    {
+      "type": "paragraph",
+      "content": "Light trap catches. The numbers of A. minimus species...",
+      "line": 666
+    },
+    {
+      "type": "paragraph",
+      "content": "A females collected each night from each community are...",
+      "line": 667
+    },
+    {
+      "type": "paragraph",
+      "content": "shown in Fig. 2 and the patterns of the parous rates in...",
+      "line": 668
+    },
+    {
+      "type": "paragraph",
+      "content": "Fig. 3. There were great fluctuations of both mosquito...",
+      "line": 669
+    },
+    {
+      "type": "paragraph",
+      "content": "density and parous rate. Heavy rains followed by flood-...",
+      "line": 670
+    },
+    {
+      "type": "paragraph",
+      "content": "ing occurred in the middle of the first period and at the...",
+      "line": 671
+    },
+    {
+      "type": "paragraph",
+      "content": "end of July to early August. This seemed to be associated...",
+      "line": 672
+    },
+    {
+      "type": "paragraph",
+      "content": "with a large reduction in the mosquito densities in most...",
+      "line": 673
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 3. Analysis of variance on the log-transformed...",
+      "line": 675
+    },
+    {
+      "type": "paragraph",
+      "content": "significant variation of A. minimus species A densities...",
+      "line": 719
+    },
+    {
+      "type": "paragraph",
+      "content": "among the study communities. The effect of treated bed...",
+      "line": 720
+    },
+    {
+      "type": "paragraph",
+      "content": "nets was of borderline significance (P=O*O96). During...",
+      "line": 721
+    },
+    {
+      "type": "paragraph",
+      "content": "the second half of the study period? there was a declining...",
+      "line": 722
+    },
+    {
+      "type": "paragraph",
+      "content": "trend in densities in 3 of the 4 villages, including 2 of...",
+      "line": 723
+    },
+    {
+      "type": "paragraph",
+      "content": "caused, at least in those 2 villages, by the intervention of...",
+      "line": 725
+    },
+    {
+      "type": "paragraph",
+      "content": "treated nets, there should have been a corresponding de-...",
+      "line": 726
+    },
+    {
+      "type": "paragraph",
+      "content": "cline in parous rates. In fact, there was a slight increasing...",
+      "line": 727
+    },
+    {
+      "type": "paragraph",
+      "content": "trend, suggesting that the decline in density was related...",
+      "line": 728
+    },
+    {
+      "type": "paragraph",
+      "content": "The 2 studies described here differed not only in their...",
+      "line": 731
+    },
+    {
+      "type": "paragraph",
+      "content": "timing but also in the intensity of entomological monitor-...",
+      "line": 732
+    },
+    {
+      "type": "paragraph",
+      "content": "ing. The long-term study, which covered 8 months of the...",
+      "line": 733
+    },
+    {
+      "type": "paragraph",
+      "content": "and A. maculatus S.S. as well as A. minimus species A, but...",
+      "line": 735
+    },
+    {
+      "type": "paragraph",
+      "content": "suffered from the washing of about 40% of the nets by...",
+      "line": 736
+    },
+    {
+      "type": "paragraph",
+      "content": "villagers after the first impregnation, and from the low...",
+      "line": 737
+    },
+    {
+      "type": "paragraph",
+      "content": "rate of reimpregnation. These problems were probably...",
+      "line": 738
+    },
+    {
+      "type": "paragraph",
+      "content": "associated with the net washing habit of villagers, side-...",
+      "line": 739
+    },
+    {
+      "type": "paragraph",
+      "content": "effects of the insecticide and the timing of reimpregna-...",
+      "line": 740
+    },
+    {
+      "type": "paragraph",
+      "content": "tion during the period of harvest, when most people were...",
+      "line": 741
+    },
+    {
+      "type": "paragraph",
+      "content": "in the rice fields all day. The short-term study was more...",
+      "line": 742
+    },
+    {
+      "type": "paragraph",
+      "content": "focused and did not suffer from the problems of net...",
+      "line": 743
+    },
+    {
+      "type": "paragraph",
+      "content": "washing and low coverage. Washing nets is known to re-...",
+      "line": 744
+    },
+    {
+      "type": "paragraph",
+      "content": "duce greatly the insecticidal activity of treated nets (MIL-...",
+      "line": 745
+    },
+    {
+      "type": "paragraph",
+      "content": "Downloaded from https://academic.oup.com/trstmh/article-abstract/89/3/248/1885449 by Columbia Univer...",
+      "line": 748
+    },
+    {
+      "type": "page_break",
+      "content": "=== Page 6 ===",
+      "line": 751
+    },
+    {
+      "type": "paragraph",
+      "content": "1991 (post-intervention), for each species and village, a...",
+      "line": 754
+    },
+    {
+      "type": "paragraph",
+      "content": "broadly similar pattern was seen in both densities and...",
+      "line": 755
+    },
+    {
+      "type": "paragraph",
+      "content": "parous rates. The great majority of year-on-year compari-...",
+      "line": 756
+    },
+    {
+      "type": "paragraph",
+      "content": "sons showed no significant change, and there was no hint...",
+      "line": 757
+    },
+    {
+      "type": "paragraph",
+      "content": "that densities and parous rates in treated villages were...",
+      "line": 758
+    },
+    {
+      "type": "paragraph",
+      "content": "more likely to decrease, or less likely to increase, than in...",
+      "line": 759
+    },
+    {
+      "type": "paragraph",
+      "content": "untreated villages. Presumably, therefore, the significant...",
+      "line": 760
+    },
+    {
+      "type": "paragraph",
+      "content": "changes that were seen were due to environmental factors...",
+      "line": 761
+    },
+    {
+      "type": "paragraph",
+      "content": "The fact that there was no apparent impact of the nets...",
+      "line": 763
+    },
+    {
+      "type": "paragraph",
+      "content": "on populations of A. sawadwongpomi and A. maculatus...",
+      "line": 764
+    },
+    {
+      "type": "paragraph",
+      "content": "S.S. is not surprising. These 2 species are largely exo-...",
+      "line": 765
+    },
+    {
+      "type": "paragraph",
+      "content": "not be expected to be greatly affected, at the population...",
+      "line": 768
+    },
+    {
+      "type": "paragraph",
+      "content": "level, by the introduction of treated nets, even in condi-...",
+      "line": 769
+    },
+    {
+      "type": "paragraph",
+      "content": "tions of high coverage. Neither was it very surprising...",
+      "line": 770
+    },
+    {
+      "type": "paragraph",
+      "content": "that there was no consistent evidence for an effect of...",
+      "line": 771
+    },
+    {
+      "type": "paragraph",
+      "content": "treated nets on any species in the farm hut setting. Al-...",
+      "line": 772
+    },
+    {
+      "type": "paragraph",
+      "content": "though some villagers did take their treated nets with...",
+      "line": 773
+    },
+    {
+      "type": "paragraph",
+      "content": "them on visits to the farm huts, many did not, and the...",
+      "line": 774
+    },
+    {
+      "type": "paragraph",
+      "content": "proportion of potential hosts under treated nets was al-...",
+      "line": 775
+    },
+    {
+      "type": "paragraph",
+      "content": "ways much lower at the farm huts than in the villages....",
+      "line": 776
+    },
+    {
+      "type": "paragraph",
+      "content": "anthropophilic A. minimus species A and A. dirus s.l., but...",
+      "line": 778
+    },
+    {
+      "type": "paragraph",
+      "content": "there was little evidence for this. The strongest evidence...",
+      "line": 779
+    },
+    {
+      "type": "paragraph",
+      "content": "came from the village Mae Chon; in the long-term study,...",
+      "line": 780
+    },
+    {
+      "type": "paragraph",
+      "content": "the densities and/or parous rat& of these-species we&...",
+      "line": 781
+    },
+    {
+      "type": "paragraph",
+      "content": "significantly lower in 1991 than 1990. Was this because...",
+      "line": 782
+    },
+    {
+      "type": "paragraph",
+      "content": "the nets did have an effect in Mae Chon, but for some...",
+      "line": 783
+    },
+    {
+      "type": "paragraph",
+      "content": "reason did not do so in Mae Salap and Huai Ngu, or were...",
+      "line": 784
+    },
+    {
+      "type": "paragraph",
+      "content": "the decreases in Mae Chon merely a reflection of local en-...",
+      "line": 785
+    },
+    {
+      "type": "paragraph",
+      "content": "vironmental changes? There can be no conclusive answer...",
+      "line": 786
+    },
+    {
+      "type": "paragraph",
+      "content": "to this question, but evidence in favour of the latter ex-...",
+      "line": 787
+    },
+    {
+      "type": "paragraph",
+      "content": "planation, in the case of A. minimus species A, is avail-...",
+      "line": 788
+    },
+    {
+      "type": "paragraph",
+      "content": "soecies A in Mae Chon and in the Wild Animal Conser-...",
+      "line": 791
+    },
+    {
+      "type": "paragraph",
+      "content": "vation Centre did decrease in the second half of the...",
+      "line": 792
+    },
+    {
+      "type": "paragraph",
+      "content": "study, following the introduction of treated nets. How-...",
+      "line": 793
+    },
+    {
+      "type": "paragraph",
+      "content": "ever, there are 3 reasons for believing that this was not...",
+      "line": 794
+    },
+    {
+      "type": "paragraph",
+      "content": "due to the treated nets. Firstly, a very similar pattern was...",
+      "line": 795
+    },
+    {
+      "type": "paragraph",
+      "content": "seen at the same time in Mae Top Nua, where treated...",
+      "line": 796
+    },
+    {
+      "type": "paragraph",
+      "content": "nets had been in use during the first half of the study and...",
+      "line": 797
+    },
+    {
+      "type": "paragraph",
+      "content": "had just been removed. Secondly, the decrease in density...",
+      "line": 798
+    },
+    {
+      "type": "paragraph",
+      "content": "was accompanied by a slight increase in parous rates, as...",
+      "line": 799
+    },
+    {
+      "type": "paragraph",
+      "content": "would be expected if it were due to a decrease in recruit-...",
+      "line": 800
+    },
+    {
+      "type": "paragraph",
+      "content": "ment, and <he opposite of what would be expected if it...",
+      "line": 801
+    },
+    {
+      "type": "paragraph",
+      "content": "were due to an increase in mortalitv. Thirdlv, the decline...",
+      "line": 802
+    },
+    {
+      "type": "paragraph",
+      "content": "in numbers in both Mae Chon and-the Wild-Animal Con-...",
+      "line": 803
+    },
+    {
+      "type": "paragraph",
+      "content": "servation Centre began 6-10 d after the introduction of...",
+      "line": 804
+    },
+    {
+      "type": "paragraph",
+      "content": "treated nets. and continued for another 10-12 d. This is...",
+      "line": 805
+    },
+    {
+      "type": "paragraph",
+      "content": "not the pat&n that would be expected if it were an effect...",
+      "line": 806
+    },
+    {
+      "type": "paragraph",
+      "content": "of treated nets. Assuming that the parous rates observed...",
+      "line": 807
+    },
+    {
+      "type": "paragraph",
+      "content": "in this study (50-70%) are a reasonable guide to rates of...",
+      "line": 808
+    },
+    {
+      "type": "paragraph",
+      "content": "survival per gonotrophic cycle, few of the mosquitoes...",
+      "line": 809
+    },
+    {
+      "type": "paragraph",
+      "content": "alive on a given day can be expected to remain alive one...",
+      "line": 810
+    },
+    {
+      "type": "paragraph",
+      "content": "week later. Any killing effect by treated nets should...",
+      "line": 811
+    },
+    {
+      "type": "paragraph",
+      "content": "therefore be manifest within a few days and be very close...",
+      "line": 812
+    },
+    {
+      "type": "paragraph",
+      "content": "For these reasons, we conclude that the treated nets...",
+      "line": 814
+    },
+    {
+      "type": "paragraph",
+      "content": "did not have a mass killing effect on A. minimus species...",
+      "line": 815
+    },
+    {
+      "type": "paragraph",
+      "content": "A. The results agree with-2 other studies in Tak-prov-...",
+      "line": 816
+    },
+    {
+      "type": "paragraph",
+      "content": "ince. about 200 km south of Mae Sariana, bv C. Green...",
+      "line": 817
+    },
+    {
+      "type": "paragraph",
+      "content": "(unpublished data) and M. Prasittisuk &ersonal com-...",
+      "line": 818
+    },
+    {
+      "type": "paragraph",
+      "content": "treated nets on A. minimus species A contrasts with the...",
+      "line": 821
+    },
+    {
+      "type": "paragraph",
+      "content": "This is presumably related to the biting behaviour of...",
+      "line": 824
+    },
+    {
+      "type": "paragraph",
+      "content": "mosquitoes. A. minimus species A in Thailand is exo-...",
+      "line": 825
+    },
+    {
+      "type": "paragraph",
+      "content": "phaglc, exophilic, and readily bites humans and animals...",
+      "line": 826
+    },
+    {
+      "type": "paragraph",
+      "content": "et al.. 1988: P. Somboon. unoublished data). A. minimus...",
+      "line": 829
+    },
+    {
+      "type": "paragraph",
+      "content": "in A&am, 6y contrast, is’endbphagic, endophilic and an-...",
+      "line": 830
+    },
+    {
+      "type": "paragraph",
+      "content": "thropophilic with a biting peak after midnight (RAo,...",
+      "line": 831
+    },
+    {
+      "type": "paragraph",
+      "content": "used to be observed in Thailand before extensive DDT...",
+      "line": 834
+    },
+    {
+      "type": "paragraph",
+      "content": "minimus in Assam (RAo. 1984) and A. minimus soecies A...",
+      "line": 836
+    },
+    {
+      "type": "paragraph",
+      "content": "In addition, the existence of domestic animals in a...",
+      "line": 839
+    },
+    {
+      "type": "paragraph",
+      "content": "human residential area can diminish the mosquito attack...",
+      "line": 840
+    },
+    {
+      "type": "paragraph",
+      "content": "In most Karen communities, cattle are very common and...",
+      "line": 843
+    },
+    {
+      "type": "paragraph",
+      "content": "can provide alternative blood meals. They are normally...",
+      "line": 844
+    },
+    {
+      "type": "paragraph",
+      "content": "identification of blood-fed A. minimus s ties A females...",
+      "line": 846
+    },
+    {
+      "type": "paragraph",
+      "content": "collected by indoor light traps showed t r at about 50% of...",
+      "line": 847
+    },
+    {
+      "type": "paragraph",
+      "content": "The numbers of A. dims s.2. were too low to permit a...",
+      "line": 850
+    },
+    {
+      "type": "paragraph",
+      "content": "conclusive result. However, C. Green (unpublished data)...",
+      "line": 851
+    },
+    {
+      "type": "paragraph",
+      "content": "observed in a small trial in Tak province that treated nets...",
+      "line": 852
+    },
+    {
+      "type": "paragraph",
+      "content": "had a significant impact on A. dirus species A, but not...",
+      "line": 853
+    },
+    {
+      "type": "paragraph",
+      "content": "species D. Further investigation on this species group is...",
+      "line": 854
+    },
+    {
+      "type": "paragraph",
+      "content": "In conclusion, these results indicate that community-...",
+      "line": 856
+    },
+    {
+      "type": "paragraph",
+      "content": "wide use of pyrethroid-treated nets does not enerally re-...",
+      "line": 857
+    },
+    {
+      "type": "paragraph",
+      "content": "species A and the A. macularus group in north-west Thai-...",
+      "line": 861
+    },
+    {
+      "type": "paragraph",
+      "content": "land. This does not mean that treated nets are ineffective...",
+      "line": 862
+    },
+    {
+      "type": "paragraph",
+      "content": "in protecting against malaria; an individual sleeping...",
+      "line": 863
+    },
+    {
+      "type": "paragraph",
+      "content": "under a treated net should nevertheless gain good per-...",
+      "line": 864
+    },
+    {
+      "type": "paragraph",
+      "content": "sonal protection against vector biting. However, the lack...",
+      "line": 865
+    },
+    {
+      "type": "paragraph",
+      "content": "of a mass effect does mean that there is no protection for...",
+      "line": 866
+    },
+    {
+      "type": "paragraph",
+      "content": "people outside nets. From the point of view of an indi-...",
+      "line": 867
+    },
+    {
+      "type": "paragraph",
+      "content": "vidual who does sleep under a treated net, it does not...",
+      "line": 868
+    },
+    {
+      "type": "paragraph",
+      "content": "matter whether or not others in the same community do...",
+      "line": 869
+    },
+    {
+      "type": "paragraph",
+      "content": "so as well. From the public health point of view, it means...",
+      "line": 870
+    },
+    {
+      "type": "paragraph",
+      "content": "that there is no advantage (in terms of efficacy) in orga-...",
+      "line": 871
+    },
+    {
+      "type": "paragraph",
+      "content": "nizing the impregnation of nets on a community-by-com-...",
+      "line": 872
+    },
+    {
+      "type": "paragraph",
+      "content": "We are most grateful to MS Wanapa Suwonkerd, Mr Somsak...",
+      "line": 876
+    },
+    {
+      "type": "paragraph",
+      "content": "Wongkatkul, and their insect collection teams for collecting...",
+      "line": 877
+    },
+    {
+      "type": "paragraph",
+      "content": "mosquitoes. Many thanks also to the staff of Mae Sariang Mala-...",
+      "line": 878
+    },
+    {
+      "type": "paragraph",
+      "content": "ria Sector and the residents of Mae Han, Mae Chon, Mae Top...",
+      "line": 879
+    },
+    {
+      "type": "paragraph",
+      "content": "Nua, Mae Top Klang, Mae Salaq, Huiu Ngu and the Wdd Am-...",
+      "line": 880
+    },
+    {
+      "type": "paragraph",
+      "content": "ma1 Conservation Centre for then warm co-operation. The in-...",
+      "line": 881
+    },
+    {
+      "type": "paragraph",
+      "content": "secticide was supplied by Zeneca, UK, via Dr Graham White....",
+      "line": 882
+    },
+    {
+      "type": "paragraph",
+      "content": "This study received financial support from the UNDP/World...",
+      "line": 883
+    },
+    {
+      "type": "paragraph",
+      "content": "Bar&WHO Special Programme for Research and Training in...",
+      "line": 884
+    },
+    {
+      "type": "paragraph",
+      "content": "Tropical Diseases and the Faculty of Medicine, Chiang Mai...",
+      "line": 885
+    },
+    {
+      "type": "paragraph",
+      "content": "Aramrattana, A. (1993). Effectiveness of a lambda-cyhalothrin...",
+      "line": 888
+    },
+    {
+      "type": "paragraph",
+      "content": "bednet impregnation againsi forestlbord& malaria in north west...",
+      "line": 889
+    },
+    {
+      "type": "paragraph",
+      "content": "Beach, R. F., Ruebush; T. K., Sixton, J. D., Bright, P. L.,...",
+      "line": 891
+    },
+    {
+      "type": "paragraph",
+      "content": "Hightower, A. W., Breman, J. G., Mount, D. L. & 0100, A....",
+      "line": 892
+    },
+    {
+      "type": "paragraph",
+      "content": "and currains for malaria control in a holoendemic area of...",
+      "line": 895
+    },
+    {
+      "type": "paragraph",
+      "content": "western Kenya. American Journal of Tropical Medicine and...",
+      "line": 896
+    },
+    {
+      "type": "paragraph",
+      "content": "Burkot, T. R., Williams, J. L. & Schneider, I. (1984). Identifi-...",
+      "line": 898
+    },
+    {
+      "type": "paragraph",
+      "content": "canyoumal of Tropical Medicine and Hygiene, 33,783-788....",
+      "line": 903
+    },
+    {
+      "type": "paragraph",
+      "content": "Burkot, T. R., Dye, C. & Graves, P. M. (1989). An analysis of...",
+      "line": 904
+    },
+    {
+      "type": "paragraph",
+      "content": "some factors determining the sporozoite rates, human blood...",
+      "line": 905
+    },
+    {
+      "type": "paragraph",
+      "content": "indexes, and biting rates of members of the Anophelespunctu-...",
+      "line": 906
+    },
+    {
+      "type": "paragraph",
+      "content": "latus corn lex in Pa ua New Guinea. American 3ournal of...",
+      "line": 907
+    },
+    {
+      "type": "paragraph",
+      "content": "Charlwood, J. D. & Graves, P. M. (1987). The effect of per-...",
+      "line": 911
+    },
+    {
+      "type": "paragraph",
+      "content": "Charlwood, J. D., Birley, M. H., Dagaro, H., Paru, R. &...",
+      "line": 917
+    },
+    {
+      "type": "paragraph",
+      "content": "Home, P. R. (1985). Assessing survival rates of Am&&es fa-...",
+      "line": 918
+    },
+    {
+      "type": "paragraph",
+      "content": "rauti (fiiptera:‘ Culicidae) fromPapua New Guinea. journal of...",
+      "line": 919
+    },
+    {
+      "type": "paragraph",
+      "content": "Coluzzi, M. (19 4). Heterogeneltles of the malaria vectorial sys-...",
+      "line": 922
+    },
+    {
+      "type": "paragraph",
+      "content": "Downloaded from https://academic.oup.com/trstmh/article-abstract/89/3/248/1885449 by Columbia Univer...",
+      "line": 923
+    },
+    {
+      "type": "page_break",
+      "content": "=== Page 7 ===",
+      "line": 926
+    },
+    {
+      "type": "paragraph",
+      "content": "tern in tropical Africa and their significance in malaria epi-...",
+      "line": 928
+    },
+    {
+      "type": "paragraph",
+      "content": "demiology and control. Bulletin of the World Health Organiaa-...",
+      "line": 929
+    },
+    {
+      "type": "paragraph",
+      "content": "Curtis, C. F. (1992). Personal protection methods against vec-...",
+      "line": 931
+    },
+    {
+      "type": "paragraph",
+      "content": "tors of disease. Review of Medical and Veterinary Entomology,...",
+      "line": 932
+    },
+    {
+      "type": "paragraph",
+      "content": "Curtis, C. F., Lines, J. D., Carnevale, P., Robert, V., Boudin,...",
+      "line": 934
+    },
+    {
+      "type": "paragraph",
+      "content": "C., Halna, J.-M., Pazert, L., Gazin, P., Richard, A.,...",
+      "line": 935
+    },
+    {
+      "type": "paragraph",
+      "content": "Mouchet, J., Charlwood, J. D., Graves? P. M., Hossain,, M....",
+      "line": 936
+    },
+    {
+      "type": "paragraph",
+      "content": "I., Kurihara, T., Ichimori? K., Li ZUZI, Lu Baolin, Malori,...",
+      "line": 937
+    },
+    {
+      "type": "paragraph",
+      "content": "G., Sabatinelli, G., Coluzw, M., Njunwa, K. J., Ilkes, T. J.,...",
+      "line": 938
+    },
+    {
+      "type": "paragraph",
+      "content": "Snow, R. W. & Lindsay, S. W. (1990). Impregnated bed nets...",
+      "line": 939
+    },
+    {
+      "type": "paragraph",
+      "content": "and curtains against malaria mosquitoes. In: Appropriate Tech-...",
+      "line": 940
+    },
+    {
+      "type": "paragraph",
+      "content": "nology in Vector Control, Curtis, C. F. (editor). Boca Raton,...",
+      "line": 941
+    },
+    {
+      "type": "paragraph",
+      "content": "Das, P. K., Das, L. K., Parida, S. K., Patra, K. P. & Jambul-...",
+      "line": 943
+    },
+    {
+      "type": "paragraph",
+      "content": "ingarn, P. (1993). Lambdacyhalothrin treated bed nets as an...",
+      "line": 944
+    },
+    {
+      "type": "paragraph",
+      "content": "alternative method of malaria control in tribal villages of Ko-...",
+      "line": 945
+    },
+    {
+      "type": "paragraph",
+      "content": "raput District, Orissa State, India. Southeast AsianJournal...",
+      "line": 946
+    },
+    {
+      "type": "paragraph",
+      "content": "Detinova, T. S. (1962). Age Grou m Methods in Di tera of...",
+      "line": 949
+    },
+    {
+      "type": "paragraph",
+      "content": "Graves, P. M., Brabin, B. J., Charlwood? J. D., Burkot, T. R.,...",
+      "line": 957
+    },
+    {
+      "type": "paragraph",
+      "content": "Cattani, J. A., Ginny, M., Pairo, J., Gibson, F. D. & Alpers,...",
+      "line": 958
+    },
+    {
+      "type": "paragraph",
+      "content": "M. P. (1987). Reduction in Plusmodium falciparum incidence...",
+      "line": 959
+    },
+    {
+      "type": "paragraph",
+      "content": "and prevalence in children under five by permethrin impreg-...",
+      "line": 960
+    },
+    {
+      "type": "paragraph",
+      "content": "nation of mosquito nets. Bulletin of the World Health Organiz-...",
+      "line": 961
+    },
+    {
+      "type": "paragraph",
+      "content": "Hii, J. L. K., Kanai, L., Foli ela, A., Kan, S. K. P. Burkot...",
+      "line": 967
+    },
+    {
+      "type": "paragraph",
+      "content": "T. R. 81 Wirtz, R. A. (19937. Impact of permethr&npre&...",
+      "line": 968
+    },
+    {
+      "type": "paragraph",
+      "content": "nated mosquito nets compared with DDT house-spraying...",
+      "line": 969
+    },
+    {
+      "type": "paragraph",
+      "content": "against malaria transmission by Anopheles farauti and A....",
+      "line": 970
+    },
+    {
+      "type": "paragraph",
+      "content": "tulatus in the Solomon Islands. Medical and Veterinary $ nto-...",
+      "line": 972
+    },
+    {
+      "type": "paragraph",
+      "content": "Holmes, P. R. & Birley, M. H. (1987). An improved method...",
+      "line": 974
+    },
+    {
+      "type": "paragraph",
+      "content": "for survival rate analysis from time series of haematophagous...",
+      "line": 975
+    },
+    {
+      "type": "paragraph",
+      "content": "dipteran populations.Journul ofAnimal Ecology, 56,427-440....",
+      "line": 976
+    },
+    {
+      "type": "paragraph",
+      "content": "Ismail, I. A. H., Notananda, V. & Sche ens, J. (1974). Studies...",
+      "line": 977
+    },
+    {
+      "type": "paragraph",
+      "content": "on malaria and responses of Anop Re les balabacensis bala-...",
+      "line": 978
+    },
+    {
+      "type": "paragraph",
+      "content": "bace+s and Anopheles mini,mus to DDT residual spraying in...",
+      "line": 979
+    },
+    {
+      "type": "paragraph",
+      "content": "~~~~s$. Part I. Pre-spraying observations. Acta Troprca, 31,...",
+      "line": 980
+    },
+    {
+      "type": "paragraph",
+      "content": "Ismail, I. A. H., Pinichpongse, S., Chitprarop, U., Prasittisuk,...",
+      "line": 981
+    },
+    {
+      "type": "paragraph",
+      "content": "C. & Schepens, J. (1982). Trials with CDC and Monks Wood...",
+      "line": 982
+    },
+    {
+      "type": "paragraph",
+      "content": "light-traps for sampling malaria vectors in Thailand. Geneva:...",
+      "line": 983
+    },
+    {
+      "type": "paragraph",
+      "content": "Jana-Kara, B. R., Wajihullah, Shahi, B., Dev, V., Curtis, C. F....",
+      "line": 988
+    },
+    {
+      "type": "paragraph",
+      "content": "& Sharma, V. P. (in press). Deltamethrin impregnated bed...",
+      "line": 989
+    },
+    {
+      "type": "paragraph",
+      "content": "Karch, S., Garin, B., Asidi, M., Manzambi, Z., Salaun, J. J. &...",
+      "line": 993
+    },
+    {
+      "type": "paragraph",
+      "content": "Mouchet, J. (1993). Moustiquaires impregn&s contre le pa-...",
+      "line": 994
+    },
+    {
+      "type": "paragraph",
+      "content": "ludisme au Zaire. Annules de la So&e! Belge de Mhdecine...",
+      "line": 995
+    },
+    {
+      "type": "paragraph",
+      "content": "Kere, N. K., Parkinson, A. D. & Samrawickerema, W. A....",
+      "line": 997
+    },
+    {
+      "type": "paragraph",
+      "content": "(1993). The effect of permethrin impregnated bednets on the...",
+      "line": 998
+    },
+    {
+      "type": "paragraph",
+      "content": "incidence of Plasmodium falciparum in children of north Gua-...",
+      "line": 999
+    },
+    {
+      "type": "paragraph",
+      "content": "Ketrangsee, S., Suvannadabba, S., Thimasarn, K., Prasittisuk,...",
+      "line": 1003
+    },
+    {
+      "type": "paragraph",
+      "content": "C. & Rooney, W. (1991). Malaria situation in Thailand with...",
+      "line": 1004
+    },
+    {
+      "type": "paragraph",
+      "content": "special reference to forest related malaria. In: Forest Malaria...",
+      "line": 1005
+    },
+    {
+      "type": "paragraph",
+      "content": "in Southeast Asia. Proceedings of an Informal Consultative Meet-...",
+      "line": 1006
+    },
+    {
+      "type": "paragraph",
+      "content": "ing, Sharma, V. P. & Kondrashin, A. V. (editors). New...",
+      "line": 1007
+    },
+    {
+      "type": "paragraph",
+      "content": "Delhi: World Health Organization/Medical Research Council....",
+      "line": 1008
+    },
+    {
+      "type": "paragraph",
+      "content": "Lindsay, S. W., Alonso, P. L., Armstrong Schellenberg, J. R....",
+      "line": 1009
+    },
+    {
+      "type": "paragraph",
+      "content": "M., Hemingway, J., Thomas, P. J., Shenton, F. C. & Green-...",
+      "line": 1010
+    },
+    {
+      "type": "paragraph",
+      "content": "wood, B. M. (1993a). A malaria control trial using insecticide-...",
+      "line": 1011
+    },
+    {
+      "type": "paragraph",
+      "content": "Tropical Medicine and Hygiene, 87, supplement 2,1%23....",
+      "line": 1012
+    },
+    {
+      "type": "paragraph",
+      "content": "Lindsay, S. W., Alonso, P. L., Armstrong Schellenberg, J. R....",
+      "line": 1013
+    },
+    {
+      "type": "paragraph",
+      "content": "Jawara, M. & Greenwood, B. M. (1993b). A malaria control...",
+      "line": 1015
+    },
+    {
+      "type": "paragraph",
+      "content": "trial using insecticide-treated bed nets and targeted chemo-...",
+      "line": 1016
+    },
+    {
+      "type": "paragraph",
+      "content": "prophylaxis in a rural area of The Gambia, West Africa. 7....",
+      "line": 1017
+    },
+    {
+      "type": "paragraph",
+      "content": "Impact of permethrin-impregnated bed nets on malaria vec-...",
+      "line": 1018
+    },
+    {
+      "type": "paragraph",
+      "content": "tors. Transactions of the Royal Society of Tropical Medicine and...",
+      "line": 1019
+    },
+    {
+      "type": "paragraph",
+      "content": "Lines, J. D., Myamba, J. & Curtis, C. F. (1987). Experimental...",
+      "line": 1021
+    },
+    {
+      "type": "paragraph",
+      "content": "hut trials of permethrin impregnated nets and curtains against...",
+      "line": 1022
+    },
+    {
+      "type": "paragraph",
+      "content": "malaria vectors in Tanzania. Medical and Vetetinaty Entm...",
+      "line": 1023
+    },
+    {
+      "type": "paragraph",
+      "content": "Magesa, S. M., Wilkes, T. J., Mnzava, A. E. P., Njunwa, K....",
+      "line": 1025
+    },
+    {
+      "type": "paragraph",
+      "content": "J., Myamba, J., Kivuyq, M. D. P., Hill., N., Lines, J. D. &...",
+      "line": 1026
+    },
+    {
+      "type": "paragraph",
+      "content": "Curtis, C. F. (1991). Trial of pyrethroid unpregnated bednets...",
+      "line": 1027
+    },
+    {
+      "type": "paragraph",
+      "content": "in an area of Tanzania holoendemic for malaria. Part 2. Ef-...",
+      "line": 1028
+    },
+    {
+      "type": "paragraph",
+      "content": "fects on the malaria vector population. Acta Tropica, 49, 97-...",
+      "line": 1029
+    },
+    {
+      "type": "paragraph",
+      "content": "Miller+ D. B. (1986). Alternative methods of personal protection...",
+      "line": 1032
+    },
+    {
+      "type": "paragraph",
+      "content": "agarnst the vectors of malaria in lowland Papua New Guinea...",
+      "line": 1033
+    },
+    {
+      "type": "paragraph",
+      "content": "with empkasis on the evaluation of permethrin-impregnated bed-...",
+      "line": 1034
+    },
+    {
+      "type": "paragraph",
+      "content": "Miller, J. E., Lindsay, S. W. & Armstrong, J. R. M. (1991)....",
+      "line": 1036
+    },
+    {
+      "type": "paragraph",
+      "content": "Experimental hut trials of bednets impregnated with synthetic...",
+      "line": 1037
+    },
+    {
+      "type": "paragraph",
+      "content": "pyrethroid or organophosphate insecticide for mosquito con-...",
+      "line": 1038
+    },
+    {
+      "type": "paragraph",
+      "content": "Rao, T.R.’ (1984). Tke Anophelines of India, revised edition....",
+      "line": 1041
+    },
+    {
+      "type": "paragraph",
+      "content": "New Delhi: Malaria Research Centre, Indian Council of...",
+      "line": 1042
+    },
+    {
+      "type": "paragraph",
+      "content": "Ratanatham, S., Upatham, E. S., Prasittisuk, C., Rojanasunan,...",
+      "line": 1044
+    },
+    {
+      "type": "paragraph",
+      "content": "mission in Thailand. Southeast Asian 3ownal of Tropical Me-...",
+      "line": 1049
+    },
+    {
+      "type": "paragraph",
+      "content": "Robert, V. & Camevale, P. (1991). Influence of deitamethrin...",
+      "line": 1051
+    },
+    {
+      "type": "paragraph",
+      "content": "treatment of bed nets on malaria transmission in the Kou val-...",
+      "line": 1052
+    },
+    {
+      "type": "paragraph",
+      "content": "ley, Burkina Faso. Bulletin of the World Health Organization....",
+      "line": 1053
+    },
+    {
+      "type": "paragraph",
+      "content": "Rozebdaal, J. A. (1989). Impregnated mosquito nets and cur-...",
+      "line": 1055
+    },
+    {
+      "type": "paragraph",
+      "content": "tains for self-protection and vector control. Tropical Diseases...",
+      "line": 1056
+    },
+    {
+      "type": "paragraph",
+      "content": "Samarawickrema, W. A., Parkinson, A. D., Kere? N. & Gala,...",
+      "line": 1058
+    },
+    {
+      "type": "paragraph",
+      "content": "0. (1992). Seasonal abundance and biting behavlour ofAnop...",
+      "line": 1059
+    },
+    {
+      "type": "paragraph",
+      "content": "kelespunctulatus and A. koliensis in Malaita Province, Solomon...",
+      "line": 1060
+    },
+    {
+      "type": "paragraph",
+      "content": "Islands, and a trial of permethrin impregnated bednets...",
+      "line": 1061
+    },
+    {
+      "type": "paragraph",
+      "content": "against malaria transmission. Medical and Veterinary Entomo-...",
+      "line": 1062
+    },
+    {
+      "type": "paragraph",
+      "content": "Somboon, P. (1993). Forest malaria vectors in northwest Thailand...",
+      "line": 1064
+    },
+    {
+      "type": "paragraph",
+      "content": "Sucharit, S., Komalanisra, N., Leerningsawat, S., Apiwathna-...",
+      "line": 1068
+    },
+    {
+      "type": "paragraph",
+      "content": "som, C. & Thongrungkiat, S. (1988). Population genetic...",
+      "line": 1069
+    },
+    {
+      "type": "paragraph",
+      "content": "studies on the Anopheles minimus complex in Thailand. South-...",
+      "line": 1070
+    },
+    {
+      "type": "paragraph",
+      "content": "east Asian Journal of Tropical Medicine and Public Health, 19,...",
+      "line": 1071
+    },
+    {
+      "type": "paragraph",
+      "content": "Upatharn, E. S., Prasittisuk, C., Ratanatham, S., Green, C. A.,...",
+      "line": 1073
+    },
+    {
+      "type": "paragraph",
+      "content": "Rojansunan, W., Setakana, P., Theerasilp, N., Tremongkol,...",
+      "line": 1074
+    },
+    {
+      "type": "paragraph",
+      "content": "A:, Viyanant, V., Pantuwatana, S. & Andre, R. G. (1988)....",
+      "line": 1075
+    },
+    {
+      "type": "paragraph",
+      "content": "Bionomics of Anopkeles macukztus complex and their role in...",
+      "line": 1076
+    },
+    {
+      "type": "paragraph",
+      "content": "malaria transmission in Thailand. Southeast Asian Journal of...",
+      "line": 1077
+    },
+    {
+      "type": "paragraph",
+      "content": "WHO (1989). The use of impregnated bednets and other materials...",
+      "line": 1079
+    },
+    {
+      "type": "paragraph",
+      "content": "for vector-borne disease control. Geneva: World Health Organiz-...",
+      "line": 1080
+    },
+    {
+      "type": "paragraph",
+      "content": "(1987). Field evaluation of enzyme-linked immunosorbent as-...",
+      "line": 1084
+    },
+    {
+      "type": "paragraph",
+      "content": "says for Plasmodium falciparum and Plasmodium vivax sporo-...",
+      "line": 1085
+    },
+    {
+      "type": "paragraph",
+      "content": "zoites in mosquitoes (Diptera: Culicidae) from Papua New...",
+      "line": 1086
+    },
+    {
+      "type": "paragraph",
+      "content": "treated bed nets and targeted chemoprophylaxis in a rural...",
+      "line": 1088
+    },
+    {
+      "type": "paragraph",
+      "content": "area of The Gambia, West Africa. 3. Entomological charac-...",
+      "line": 1089
+    },
+    {
+      "type": "paragraph",
+      "content": "teristics of the study area. Transactions of the Royal Society of...",
+      "line": 1090
+    },
+    {
+      "type": "paragraph",
+      "content": "Downloaded from https://academic.oup.com/trstmh/article-abstract/89/3/248/1885449 by Columbia Univer...",
+      "line": 1095
+    }
+  ],
+  "metadata": {
+    "total_sections": 0,
+    "total_paragraphs": 523,
+    "has_structured_content": false
+  }
+}
