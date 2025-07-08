@@ -1,0 +1,20 @@
+[project]
+name = "papers-ocr-benchmarks"
+version = "0.1.0"
+description = "Benchmarks for OCR on scientific papers"
+authors = [{name = "Your Name", email = "your@email.com"}]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+  # Add your runtime dependencies here, e.g. "numpy", "pandas"
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "jupyter"]
+
+[tool.setuptools]
+packages = ["scripts"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
