@@ -1,0 +1,30 @@
+{
+  "input_path": "pdfs\\Somboon_et_al_1995_Trans_RSTMH.pdf",
+  "output_dir": "pdfs\\batch_processed\\Somboon_et_al_1995_Trans_RSTMH",
+  "processing_start": 1752529499.613593,
+  "pdf_type": "scanned",
+  "has_toc": false,
+  "ocr_applied": true,
+  "processed_pdf_path": "pdfs\\Somboon_et_al_1995_Trans_RSTMH.pdf",
+  "extraction_method": "heuristic",
+  "header_info": {
+    "levels": 3,
+    "font_rules": [
+      {
+        "level": 1,
+        "font": "Arial",
+        "size_min": 14.678998947143555,
+        "size_max": 16.678998947143555,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "use_toc": false
+  },
+  "metadata": {
+    "extraction_time": 2.9037082195281982,
+    "markdown_path": "pdfs\\batch_processed\\Somboon_et_al_1995_Trans_RSTMH\\Somboon_et_al_1995_Trans_RSTMH_extracted.md"
+  },
+  "processing_time": null,
+  "errors": []
+}
