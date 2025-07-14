@@ -1,0 +1,36 @@
+{
+  "input_path": "pdfs/Allossogbe_et_al_2017_Mal_J.pdf",
+  "output_dir": "pdfs\\enhanced_processed",
+  "processing_start": 1752531255.0157952,
+  "pdf_type": "scanned",
+  "has_toc": true,
+  "ocr_applied": true,
+  "processed_pdf_path": "pdfs/Allossogbe_et_al_2017_Mal_J.pdf",
+  "extraction_method": "enhanced_pymupdf4llm",
+  "enhanced_metadata": {
+    "title": null,
+    "authors": [
+      "(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License"
+    ],
+    "journal": "*Correspondence: palutec@yahoo.fr",
+    "date_published": "2017",
+    "doi": "10.1186/s12936-017-1727-x",
+    "abstract": "Background:\u2002 To increase the e\ufb00ectiveness of insecticide-treated nets (ITN) in areas of high resistance, new long-",
+    "keywords": [
+      "LLINs",
+      "Bio-e\ufb03cacy",
+      "Piperonyl butoxide",
+      "Resistant mosquitoes"
+    ],
+    "page_count": 11,
+    "language": "en",
+    "subject": "Malaria Journal, doi:10.1186/s12936-017-1727-x",
+    "creation_date": "D:20170214204129+05'30'",
+    "modification_date": "D:20240423063541+00'00'",
+    "creator": "ocrmypdf 16.1.2 / Tesseract OCRhOCR 5.3.4",
+    "producer": "pikepdf 8.13.0"
+  },
+  "output_files": {},
+  "processing_time": null,
+  "errors": []
+}
