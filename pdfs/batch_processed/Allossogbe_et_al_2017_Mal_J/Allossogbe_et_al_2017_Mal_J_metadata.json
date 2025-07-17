@@ -1,0 +1,204 @@
+{
+  "input_path": "pdfs\\Allossogbe_et_al_2017_Mal_J.pdf",
+  "output_dir": "pdfs\\batch_processed\\Allossogbe_et_al_2017_Mal_J",
+  "processing_start": 1752529480.2311862,
+  "pdf_type": "scanned",
+  "has_toc": true,
+  "ocr_applied": true,
+  "processed_pdf_path": "pdfs\\Allossogbe_et_al_2017_Mal_J.pdf",
+  "extraction_method": "toc_based",
+  "header_info": {
+    "levels": 4,
+    "font_mapping": {
+      "1": [],
+      "2": [
+        {
+          "font": "SpvkbmMyriadPro-Bold",
+          "size": 10.300000190734863,
+          "flags": 20
+        },
+        {
+          "font": "YbxjdxWarnockPro-Regular",
+          "size": 9.800000190734863,
+          "flags": 4
+        },
+        {
+          "font": "YbxjdxWarnockPro-Regular",
+          "size": 9.800000190734863,
+          "flags": 4
+        },
+        {
+          "font": "SpvkbmMyriadPro-Bold",
+          "size": 10.300000190734863,
+          "flags": 20
+        },
+        {
+          "font": "SpvkbmMyriadPro-Bold",
+          "size": 10.300000190734863,
+          "flags": 20
+        },
+        {
+          "font": "SpvkbmMyriadPro-Bold",
+          "size": 10.300000190734863,
+          "flags": 20
+        },
+        {
+          "font": "SpvkbmMyriadPro-Bold",
+          "size": 10.300000190734863,
+          "flags": 20
+        },
+        {
+          "font": "KrhhnsMyriadPro-Semibold",
+          "size": 7.5,
+          "flags": 20
+        },
+        {
+          "font": "KrhhnsMyriadPro-Semibold",
+          "size": 7.5,
+          "flags": 20
+        }
+      ],
+      "3": [
+        {
+          "font": "KrhhnsMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "KrhhnsMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "KrhhnsMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "KrhhnsMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "KrhhnsMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "KrhhnsMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "YbxjdxWarnockPro-Regular",
+          "size": 9.800000190734863,
+          "flags": 4
+        },
+        {
+          "font": "YbxjdxWarnockPro-Regular",
+          "size": 9.800000190734863,
+          "flags": 4
+        },
+        {
+          "font": "YbxjdxWarnockPro-Regular",
+          "size": 9.800000190734863,
+          "flags": 4
+        },
+        {
+          "font": "KrhhnsMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "KrhhnsMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "KrhhnsMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "KrhhnsMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        }
+      ],
+      "4": [
+        {
+          "font": "KlfvvmMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "YbxjdxWarnockPro-Regular",
+          "size": 9.800000190734863,
+          "flags": 4
+        },
+        {
+          "font": "KlfvvmMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "KlfvvmMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "YbxjdxWarnockPro-Regular",
+          "size": 9.800000190734863,
+          "flags": 4
+        },
+        {
+          "font": "YbxjdxWarnockPro-Regular",
+          "size": 9.800000190734863,
+          "flags": 4
+        },
+        {
+          "font": "KlfvvmMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "YbxjdxWarnockPro-Regular",
+          "size": 9.800000190734863,
+          "flags": 4
+        },
+        {
+          "font": "YbxjdxWarnockPro-Regular",
+          "size": 9.800000190734863,
+          "flags": 4
+        },
+        {
+          "font": "KlfvvmMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "YbxjdxWarnockPro-Regular",
+          "size": 9.800000190734863,
+          "flags": 4
+        },
+        {
+          "font": "KlfvvmMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        },
+        {
+          "font": "KlfvvmMyriadPro-Semibold",
+          "size": 9.199999809265137,
+          "flags": 20
+        }
+      ]
+    },
+    "use_toc": true
+  },
+  "metadata": {
+    "extraction_time": 18.867931604385376,
+    "markdown_path": "pdfs\\batch_processed\\Allossogbe_et_al_2017_Mal_J\\Allossogbe_et_al_2017_Mal_J_extracted.md"
+  },
+  "processing_time": null,
+  "errors": []
+}

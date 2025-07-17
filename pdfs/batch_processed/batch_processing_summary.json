@@ -1,0 +1,280 @@
+{
+  "input_dir": "pdfs",
+  "output_dir": "pdfs\\batch_processed",
+  "total_files": 3,
+  "processed_files": 3,
+  "failed_files": 0,
+  "summary": {
+    "success_rate": 1.0,
+    "total_processing_time": 37.99819874763489
+  },
+  "file_results": {
+    "2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi.pdf": {
+      "input_path": "pdfs\\2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi.pdf",
+      "output_dir": "pdfs\\batch_processed\\2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi",
+      "processing_start": 1752529465.0646913,
+      "pdf_type": "scanned",
+      "has_toc": false,
+      "ocr_applied": true,
+      "processed_pdf_path": "pdfs\\2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi.pdf",
+      "extraction_method": "heuristic",
+      "header_info": {
+        "levels": 3,
+        "font_rules": [
+          {
+            "level": 1,
+            "font": "AdvP40319B",
+            "size_min": 18.92530059814453,
+            "size_max": 20.92530059814453,
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "use_toc": false
+      },
+      "metadata": {
+        "extraction_time": 15.002204656600952,
+        "markdown_path": "pdfs\\batch_processed\\2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi\\2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi_extracted.md",
+        "metadata_path": "pdfs\\batch_processed\\2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi\\2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi_metadata.json"
+      },
+      "processing_time": 15.164199590682983,
+      "errors": []
+    },
+    "Allossogbe_et_al_2017_Mal_J.pdf": {
+      "input_path": "pdfs\\Allossogbe_et_al_2017_Mal_J.pdf",
+      "output_dir": "pdfs\\batch_processed\\Allossogbe_et_al_2017_Mal_J",
+      "processing_start": 1752529480.2311862,
+      "pdf_type": "scanned",
+      "has_toc": true,
+      "ocr_applied": true,
+      "processed_pdf_path": "pdfs\\Allossogbe_et_al_2017_Mal_J.pdf",
+      "extraction_method": "toc_based",
+      "header_info": {
+        "levels": 4,
+        "font_mapping": {
+          "1": [],
+          "2": [
+            {
+              "font": "SpvkbmMyriadPro-Bold",
+              "size": 10.300000190734863,
+              "flags": 20
+            },
+            {
+              "font": "YbxjdxWarnockPro-Regular",
+              "size": 9.800000190734863,
+              "flags": 4
+            },
+            {
+              "font": "YbxjdxWarnockPro-Regular",
+              "size": 9.800000190734863,
+              "flags": 4
+            },
+            {
+              "font": "SpvkbmMyriadPro-Bold",
+              "size": 10.300000190734863,
+              "flags": 20
+            },
+            {
+              "font": "SpvkbmMyriadPro-Bold",
+              "size": 10.300000190734863,
+              "flags": 20
+            },
+            {
+              "font": "SpvkbmMyriadPro-Bold",
+              "size": 10.300000190734863,
+              "flags": 20
+            },
+            {
+              "font": "SpvkbmMyriadPro-Bold",
+              "size": 10.300000190734863,
+              "flags": 20
+            },
+            {
+              "font": "KrhhnsMyriadPro-Semibold",
+              "size": 7.5,
+              "flags": 20
+            },
+            {
+              "font": "KrhhnsMyriadPro-Semibold",
+              "size": 7.5,
+              "flags": 20
+            }
+          ],
+          "3": [
+            {
+              "font": "KrhhnsMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "KrhhnsMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "KrhhnsMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "KrhhnsMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "KrhhnsMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "KrhhnsMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "YbxjdxWarnockPro-Regular",
+              "size": 9.800000190734863,
+              "flags": 4
+            },
+            {
+              "font": "YbxjdxWarnockPro-Regular",
+              "size": 9.800000190734863,
+              "flags": 4
+            },
+            {
+              "font": "YbxjdxWarnockPro-Regular",
+              "size": 9.800000190734863,
+              "flags": 4
+            },
+            {
+              "font": "KrhhnsMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "KrhhnsMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "KrhhnsMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "KrhhnsMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            }
+          ],
+          "4": [
+            {
+              "font": "KlfvvmMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "YbxjdxWarnockPro-Regular",
+              "size": 9.800000190734863,
+              "flags": 4
+            },
+            {
+              "font": "KlfvvmMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "KlfvvmMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "YbxjdxWarnockPro-Regular",
+              "size": 9.800000190734863,
+              "flags": 4
+            },
+            {
+              "font": "YbxjdxWarnockPro-Regular",
+              "size": 9.800000190734863,
+              "flags": 4
+            },
+            {
+              "font": "KlfvvmMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "YbxjdxWarnockPro-Regular",
+              "size": 9.800000190734863,
+              "flags": 4
+            },
+            {
+              "font": "YbxjdxWarnockPro-Regular",
+              "size": 9.800000190734863,
+              "flags": 4
+            },
+            {
+              "font": "KlfvvmMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "YbxjdxWarnockPro-Regular",
+              "size": 9.800000190734863,
+              "flags": 4
+            },
+            {
+              "font": "KlfvvmMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            },
+            {
+              "font": "KlfvvmMyriadPro-Semibold",
+              "size": 9.199999809265137,
+              "flags": 20
+            }
+          ]
+        },
+        "use_toc": true
+      },
+      "metadata": {
+        "extraction_time": 18.867931604385376,
+        "markdown_path": "pdfs\\batch_processed\\Allossogbe_et_al_2017_Mal_J\\Allossogbe_et_al_2017_Mal_J_extracted.md",
+        "metadata_path": "pdfs\\batch_processed\\Allossogbe_et_al_2017_Mal_J\\Allossogbe_et_al_2017_Mal_J_metadata.json"
+      },
+      "processing_time": 19.38076114654541,
+      "errors": []
+    },
+    "Somboon_et_al_1995_Trans_RSTMH.pdf": {
+      "input_path": "pdfs\\Somboon_et_al_1995_Trans_RSTMH.pdf",
+      "output_dir": "pdfs\\batch_processed\\Somboon_et_al_1995_Trans_RSTMH",
+      "processing_start": 1752529499.613593,
+      "pdf_type": "scanned",
+      "has_toc": false,
+      "ocr_applied": true,
+      "processed_pdf_path": "pdfs\\Somboon_et_al_1995_Trans_RSTMH.pdf",
+      "extraction_method": "heuristic",
+      "header_info": {
+        "levels": 3,
+        "font_rules": [
+          {
+            "level": 1,
+            "font": "Arial",
+            "size_min": 14.678998947143555,
+            "size_max": 16.678998947143555,
+            "bold": false,
+            "italic": false
+          }
+        ],
+        "use_toc": false
+      },
+      "metadata": {
+        "extraction_time": 2.9037082195281982,
+        "markdown_path": "pdfs\\batch_processed\\Somboon_et_al_1995_Trans_RSTMH\\Somboon_et_al_1995_Trans_RSTMH_extracted.md",
+        "metadata_path": "pdfs\\batch_processed\\Somboon_et_al_1995_Trans_RSTMH\\Somboon_et_al_1995_Trans_RSTMH_metadata.json"
+      },
+      "processing_time": 3.453238010406494,
+      "errors": []
+    }
+  }
+}

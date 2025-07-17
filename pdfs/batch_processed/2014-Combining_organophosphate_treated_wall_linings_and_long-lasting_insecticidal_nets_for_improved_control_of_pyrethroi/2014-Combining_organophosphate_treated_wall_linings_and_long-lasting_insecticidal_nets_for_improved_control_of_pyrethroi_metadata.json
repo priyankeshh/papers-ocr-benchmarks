@@ -1,0 +1,30 @@
+{
+  "input_path": "pdfs\\2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi.pdf",
+  "output_dir": "pdfs\\batch_processed\\2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi",
+  "processing_start": 1752529465.0646913,
+  "pdf_type": "scanned",
+  "has_toc": false,
+  "ocr_applied": true,
+  "processed_pdf_path": "pdfs\\2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi.pdf",
+  "extraction_method": "heuristic",
+  "header_info": {
+    "levels": 3,
+    "font_rules": [
+      {
+        "level": 1,
+        "font": "AdvP40319B",
+        "size_min": 18.92530059814453,
+        "size_max": 20.92530059814453,
+        "bold": false,
+        "italic": false
+      }
+    ],
+    "use_toc": false
+  },
+  "metadata": {
+    "extraction_time": 15.002204656600952,
+    "markdown_path": "pdfs\\batch_processed\\2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi\\2014-Combining_organophosphate_treated_wall_linings_and_long-lasting_insecticidal_nets_for_improved_control_of_pyrethroi_extracted.md"
+  },
+  "processing_time": null,
+  "errors": []
+}
