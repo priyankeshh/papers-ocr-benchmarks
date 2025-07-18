@@ -285,4 +285,3 @@ error.log
 # Performance profiling
 *.prof
 *.profile
-requirements.txt
