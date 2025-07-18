@@ -9,7 +9,7 @@ DOI 10.1186/s12936-017-1727-x
 ### **Open Access**
 
 
-## WHO cone bio‑assays of classical and new‑generation long‑lasting insecticidal nets call for innovative insecticides targeting the knock‑down resistance mechanism in Benin
+# WHO cone bio‑assays of classical and new‑generation long‑lasting insecticidal nets call for innovative insecticides targeting the knock‑down resistance mechanism in Benin
 
 Marius Allossogbe [1,2*], Virgile Gnanguenon [1,2], Boulais Yovogan [1,2], Bruno Akinro [1], Rodrigue Anagonou [1,2],
 Fiacre Agossa [1,2], André Houtoukpe [3], Germain Gil Padonou [1,2] and Martin Akogbeto [1,2]
