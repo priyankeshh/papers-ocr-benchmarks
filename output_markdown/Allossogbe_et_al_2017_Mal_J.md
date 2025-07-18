@@ -1,12 +1,8 @@
-Allossogbe et al. Malar J (2017) 16:77
-DOI 10.1186/s12936-017-1727-x
-
-
 **RESEARCH**
 
 
 
-Malaria Journal
+J
 
 
 **Open Access**
@@ -65,9 +61,6 @@ Full list of author information is available at the end of the article
 provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
 [and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/](http://creativecommons.org/publicdomain/zero/1.0/)
 [publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.](http://creativecommons.org/publicdomain/zero/1.0/)
-
-
-Allossogbe et al. Malar J (2017) 16:77 Page 2 of 11
 
 
 ## **Background**
@@ -159,10 +152,6 @@ higher oxidase activity was observed compared to the
 susceptible strain An. gambiae Kisumu. Tey were represented by Abomey, Cotonou, Porto-Novo, Zangnanado, Parakou, Malanville and Tanguiéta districts. Te
 assessment of oxidase activity was conducted on 50 An.
 gambiae s.l. collected from each district using haem-peroxidase assay as described by Brogdon et al. [30].
-
-
-Allossogbe et al. Malar J (2017) 16:77 Page 3 of 11
-
 
 
 Te larvae of these mosquito populations were collected
@@ -274,9 +263,6 @@ obtained from local markets. All nets included in the
 study are rectangular and were selected by type.
 
 
-Allossogbe et al. Malar J (2017) 16:77 Page 4 of 11
-
-
 ### **Cone test**
 
 Te cone test is used to assess the effectiveness of an
@@ -381,13 +367,7 @@ Approximately 2819 local An. gambiae s.l. mosquitoes
 and 889 An. gambiae Kisumu laboratory strain mosquitoes were tested on different types of LLINs. Tables 2 and
 
 
-Allossogbe et al. Malar J (2017) 16:77 Page 5 of 11
-
-
 **Fig. 1** Map of Benin showing the study locations
-
-
-Allossogbe et al. Malar J (2017) 16:77 Page 6 of 11
 
 
 **Table 1 Biochemical and molecular characteristics of the Anopheles gambiae s.l. populations tested**
@@ -463,6 +443,12 @@ a, b Values with the same superscript do not differ significantly at α = 0.05
 
 
 
+3 show the percentage of local strain mosquitoes knocked
+down after 60 min for LifeNet, Olyset Net, Olyset Plus,
+PermaNet 2.0, and PermaNet 3.0.
+
+
+
 **Knock-down (KD) and mortality induced by the LLINs**
 **on mono-resistance mosquito strains**
 Only PermaNet 3.0, Olyset Plus and LifeNet LLINs
@@ -492,15 +478,6 @@ PermaNet 3.0. Tese inhibition rates are similar to those
 observed with the kdr-Kisumu strain (p > 0.05).
 
 
-
-
-
-3 show the percentage of local strain mosquitoes knocked
-down after 60 min for LifeNet, Olyset Net, Olyset Plus,
-PermaNet 2.0, and PermaNet 3.0.
-
-
-
 **Knock-down (KD) and mortality induced by the LLINs**
 **on multi-resistant mosquito strains (carrying kdr**
 **and biochemical resistance mutations)**
@@ -509,9 +486,6 @@ observed were also low (Table 3).
 At Akron, the percentage of mosquitoes knocked
 down after 60 min was 31.48% [19.52–45.55] and
 74.55% [60.99–85.33] for Olyset Net and Olyset Plus,
-
-
-Allossogbe et al. Malar J (2017) 16:77 Page 7 of 11
 
 
 **Table 2 Distribution of the knock-down rate observed in localities where there was only one resistance mechanism (kdr)**
@@ -640,9 +614,6 @@ several LLINs recommended by the WHO. It helps to
 observe the variation in mortality of vectors submitted
 to different types of LLINs. Tis mortality was generally
 low, especially with LLINs only treated with pyrethroids.
-
-
-Allossogbe et al. Malar J (2017) 16:77 Page 8 of 11
 
 
 **Table 3 Distribution of the knock-down rate observed in localities where there were several resistance mechanisms**
@@ -798,10 +769,6 @@ the effectiveness of LLINs treated with permethrin was
 generally lower than that of LLINs treated with deltamethrin, with lower mortality and a very slow knock-down
 
 
-Allossogbe et al. Malar J (2017) 16:77 Page 9 of 11
-
-
-
 time (KDT 50 and 95%) compared to other LLINs. In a
 recent study conducted in Benin [36], Olyset Plus, treated
 with permethrin + PBO, demonstrated a higher efficacy
@@ -900,10 +867,6 @@ data and wrote the manuscript. BY, RA, FA and BA conducted field collections,
 laboratory tests and contributed in the writing of the manuscript. AH and GGP
 helped in the study design and revising the manuscript. All authors read and
 approved the final manuscript.
-
-
-Allossogbe et al. Malar J (2017) 16:77 Page 10 of 11
-
 
 
 **Author details**
@@ -1035,10 +998,6 @@ response curve. J R Stat Soc. 1947;110:263–6.
 34. Okia M, Ndyomugyenyi R, Kirunda J, Byaruhanga A, Adibaku S, Lwamafa
 DK, et al. Bioefficacy of long-lasting insecticidal nets against pyrethroidresistant populations of Anopheles gambiae s.s. from different malaria
 transmission zones in Uganda. Parasit Vectors. 2013;6:130.
-
-
-Allossogbe et al. Malar J (2017) 16:77 Page 11 of 11
-
 
 
 35. Yewhalaw D, Asale A, Tushune K, Getachew Y, Duchateau L, Speybroeck
