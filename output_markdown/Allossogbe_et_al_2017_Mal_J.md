@@ -459,8 +459,6 @@ a, b Values with the same superscript do not differ significantly at α = 0.05
 
 
 
-
-
 **Knock-down (KD) and mortality induced by the LLINs**
 **on mono-resistance mosquito strains**
 Only PermaNet 3.0, Olyset Plus and LifeNet LLINs
