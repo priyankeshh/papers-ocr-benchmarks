@@ -265,6 +265,7 @@ Temporary Items
 temp_pdf_pages/
 preprocessed_images/
 ocr_temp/
+temp_ocr/
 
 # Large datasets
 large_datasets/
