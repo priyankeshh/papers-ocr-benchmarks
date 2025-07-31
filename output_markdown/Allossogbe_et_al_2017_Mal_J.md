@@ -1,39 +1,28 @@
-**RESEARCH**
+### **RESEARCH**
 
 
+## J
 
-J
-
-
-**Open Access**
+### **Open Access**
 
 
+# WHO cone bio‑assays of classical and new‑generation long‑lasting insecticidal nets call for innovative insecticides targeting the knock‑down resistance mechanism in Benin
 
-WHO cone bio‑assays of classical
-and new‑generation long‑lasting insecticidal
-nets call for innovative insecticides targeting
-the knock‑down resistance mechanism in Benin
+#### Marius Allossogbe [1,2*], Virgile Gnanguenon [1,2], Boulais Yovogan [1,2], Bruno Akinro [1], Rodrigue Anagonou [1,2], Fiacre Agossa [1,2], André Houtoukpe [3], Germain Gil Padonou [1,2] and Martin Akogbeto [1,2]
 
+**Abstract**
 
-Marius Allossogbe [1,2*], Virgile Gnanguenon [1,2], Boulais Yovogan [1,2], Bruno Akinro [1], Rodrigue Anagonou [1,2],
-Fiacre Agossa [1,2], André Houtoukpe [3], Germain Gil Padonou [1,2] and Martin Akogbeto [1,2]
-
-## **Abstract**
-
-### Background: To increase the effectiveness of insecticide-treated nets (ITN) in areas of high resistance, new long
-lasting insecticidal nets (LLINs) called new-generation nets have been developed. These nets are treated with the
+**Background:** To increase the effectiveness of insecticide-treated nets (ITN) in areas of high resistance, new longlasting insecticidal nets (LLINs) called new-generation nets have been developed. These nets are treated with the
 piperonyl butoxide (PBO) synergist which inhibit the action of detoxification enzymes. The effectiveness of the
 new-generation nets has been proven in some studies, but their specific effect on mosquitoes carrying detoxification enzymes and those carrying both detoxification enzymes and the knock-down resistance gene in Benin is not
 well known. Thus, the objective of this study is to evaluate the efficacy of LLINs treated with PBO on multi-resistant
 Anopheles gambiae s.l.
 
-### Methods: The study occurred in seven cities in Benin, Abomey, Cotonou, Porto-Novo, Zangnanado, Parakou, Malan
-ville and Tanguiéta, and included ten locations selected on a north–south transect. Mosquito larvae were collected
+**Methods:** The study occurred in seven cities in Benin, Abomey, Cotonou, Porto-Novo, Zangnanado, Parakou, Malanville and Tanguiéta, and included ten locations selected on a north–south transect. Mosquito larvae were collected
 from these sites, and adult females from these larvae were exposed to single-pyrethroid-treated nets (LifeNet, PermaNet 2.0, Olyset Net) and bi-treated nets (PermaNet 3.0 and Olyset Plus) based on their level of resistance and using
 WHO cone tests following WHO guidelines.
 
-### Results: The different LLINs showed 100% mortality of the susceptible laboratory strain Kisumu and the resist
-ant strain Ace-1R Kisumu. However, with the resistant laboratory strain kdr-Kisumu, mortality was low (16–32%) for
+**Results:** The different LLINs showed 100% mortality of the susceptible laboratory strain Kisumu and the resistant strain Ace-1R Kisumu. However, with the resistant laboratory strain kdr-Kisumu, mortality was low (16–32%) for
 all LLINs except PermaNet 3.0 (82.9%). The mortality of local strains carrying only the kdr mechanism varied from 0
 to 47% for the single-pyrethroid-treated LLINs and 9 to 86% for bi-treated LLINs. With local strains carrying several
 mechanisms of resistance (kdr + detoxification enzymes), the observed mortality with different LLINs was also low
@@ -41,8 +30,7 @@ except for PermaNet 3.0, which induced significantly higher mortality, usually g
 was similar to the inhibition observed with the laboratory strain carrying only the knock-down resistance mechanism
 (kdr-Kisumu) (p > 0.05).
 
-### Conclusion: This study showed that the new-generation LLINs treated with pyrethroids and PBO showed better
-
+**Conclusion:** This study showed that the new-generation LLINs treated with pyrethroids and PBO showed better
 efficacy compared to conventional LLINs. Although the addition of PBO significantly increased the mortality of mosquitoes, the significant role of the kdr resistance gene in the low efficacy of LLINs calls for LLIN technology innovation
 that specifically targets this mechanism.
 
@@ -63,8 +51,7 @@ provided you give appropriate credit to the original author(s) and the source, p
 [publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.](http://creativecommons.org/publicdomain/zero/1.0/)
 
 
-## **Background**
-
+**Background**
 Malaria is a major public health problem worldwide,
 and particularly so in Benin. It remains a permanent
 threat from its high morbidity (214 million) and mortality (438,000). Africa is the most endemic region
@@ -132,10 +119,10 @@ resistance genes (kdr and ace-1R) and over-expression of
 detoxification enzymes (oxidases, esterases, GST). Te
 efficacy of the new-generation LLINs against pyrethroidresistant Anopheles was also compared to that of conventional LLINs.
 
-## **Methods**
 
-### **Study design**
+**Methods**
 
+**Study design**
 Tis study is transversal and compares variability of the
 efficacy of two different types of LLINs against An. gambiae s.l. carrying kdr resistance mutations and detoxification enzymes in Benin. Te two types of LLINs included
 conventional LLINs only treated with pyrethroids (Olyset
@@ -159,16 +146,18 @@ in different ecological areas (vegetable, urban, rice and
 cotton areas). Te study was also conducted on resistant
 laboratory strains (kdr-Kisumu and ace-1R-Kisumu).
 
-### **Study sites**
 
-#### **Malanville** Malanville district is bordered on the north by the Repub
-lic of Niger, on the south by Kandi and Segbana districts,
+**Study sites**
+
+**Malanville**
+
+Malanville district is bordered on the north by the Republic of Niger, on the south by Kandi and Segbana districts,
 on the west by Karimama district and on the east by the
 Republic of Nigeria. It has an area of 3016 km [2] and had a
 population of 144,843 inhabitants in 2013 (Fig. 1).
 
-#### **Tanguieta**
 
+**Tanguieta**
 It is bordered on the north by the Republic of Burkina
 Faso, on the south by Boukoumbe district, on the east by
 Kerou, Kouande and Tounkountouna districts and on the
@@ -176,35 +165,40 @@ west by Materi and Cobly districts. It covers an area of
 5456 km [2] and had a population of 77,987 inhabitants in
 2013 (Fig. 1).
 
-#### **Abomey-Calavi** Abomey-Calavi is bounded on the north by Ze district,
 
+**Abomey-Calavi**
+Abomey-Calavi is bounded on the north by Ze district,
 on the south by the Atlantic Ocean, on the east by Cotonou and So-Ava districts, and on the west Ouidah and
 Tori-Bossito districts. It has an area of 539 km [2] and had a
 population of 438,564 inhabitants in 2013 (Fig. 1).
 
-#### **Cotonou** Cotonou is bordered on the North by So-Ava district and
 
+**Cotonou**
+
+Cotonou is bordered on the North by So-Ava district and
 Nokoue lake, on the south by the Atlantic Ocean, on the
 east by Seme-Podji and on the west by Abomey-Calavi
 district. It has an area of 79 km [2] and had a population of
 947,917 inhabitants in 2013 (Fig. 1).
 
-#### **Porto-Novo** Porto-Novo is bounded on the north by Akpro-Missérete
 
+**Porto-Novo**
+
+Porto-Novo is bounded on the north by Akpro-Missérete
 and Avrankou districts, on the south by Seme-Podji, on
 the west by Aguegues district and on the east by Adjarra
 district. It covers an area of 223,552 km [2] and had a population of 318,608 inhabitants in 2013 (Fig. 1).
 
-#### **Parakou**
 
+**Parakou**
 
 It is bordered on the north by N’Dali district and on the
 south, east and west by Tchaourou district; it has an area
 of 441 km [2] and had a population of 213,498 inhabitants
 in 2013 (Fig. 1).
 
-#### **Zangnanado**
 
+**Zangnanado**
 Tis town is bounded on the north by Dassa-Zoume district, on the south by Ouinhi and Zogbodomey districts,
 on the west by Cove, Zakpota and Djidja districts and
 on the east by Ketou and Adja-Ouere. It has an area of
@@ -214,8 +208,8 @@ on the east by Ketou and Adja-Ouere. It has an area of
 540 km [2] and had a population of 52,387 inhabitants in
 2013 (Fig. 1).
 
-### **Larvae collection**
 
+**Larvae collection**
 
 Bio-efficacy tests were conducted at various selected
 sites. Such tests required mosquitoes of 2–5 days old,
@@ -224,13 +218,12 @@ conducted in the different localities mentioned above.
 Anopheles gambiae s.l. larvae and pupae were collected
 from different locations at each site and carried to the
 insectarium of the Entomological Research Center of
-#### Cotonou (CREC), where they were reared to adult stage
-
+Cotonou (CREC), where they were reared to adult stage
 at a relative humidity of 70–80% and a temperature of
 25–30 °C. Female adults aged 2–5 days were used for bioefficacy tests.
 
-### **Highlighting resistance mechanisms**
 
+**Highlighting resistance mechanisms**
 Before the bioassays, living and dead mosquito populations kept after susceptibility testing were analyzed by
 PCR to detect the genotypes of the kdr gene. Te detection of kdr mutation L1014F was performed according to
 the method of Martinez-Torres et al. [31].
@@ -245,8 +238,8 @@ An. gambiae strains. Te mosquitoes used for biochemical analysis had not been ex
 the biochemical assessment. Tese enzyme activities
 were measured using a sample of 50 mosquitoes per site.
 
-### **Mosquito nets**
 
+**Mosquito nets**
 Five types of long-lasting insecticidal nets were evaluated in this study. Te group of mono-treated LLINs
 included LifeNet (polypropylene LLIN with fiber coated
 with 340 mg/m [2] ± 25% deltamethrin), Olyset Net (polyethylene LLIN with permethrin incorporated into the
@@ -263,14 +256,13 @@ obtained from local markets. All nets included in the
 study are rectangular and were selected by type.
 
 
-### **Cone test**
+**Cone test**
 
 Te cone test is used to assess the effectiveness of an
 insecticide and its persistence on the net. It was conducted following the WHO protocol. Tis test aims to
 compare the behaviour of mosquitoes while in contact
 with treated mosquito nets without PBO or with PBO.
-### Cone tests were performed on five types of nets (Olyset
-
+Cone tests were performed on five types of nets (Olyset
 Plus, Olyset Net, LifeNet, PermaNet 2.0 and PermaNet
 3.0). Tese tests were carried out using fragments of
 LLINs (30 cm × 30 cm) cut from five (05) positions on
@@ -288,8 +280,8 @@ recorded. No correction of mortality with Abbott’s formula was used as mortali
 these operations were carried out at a temperature of
 25 ± 2 °C and a humidity of 70 ± 10%.
 
-### **Data analysis**
 
+**Data analysis**
 According to the WHO, the bio-effectiveness threshold is
 95% knock-down and 80% mortality for laboratory mosquitoes; but for resistant field mosquito populations, we
 used a threshold of 70% knock-down and 50% mortality. Terefore, all nets showing less than 95% knockdown
@@ -318,7 +310,8 @@ intervals were obtained after log-probit regression using
 the method described by Finney [33].
 
 
-## **Results**
+
+**Results**
 
 **Characteristics of the studied mosquito populations**
 Te majority of female mosquitoes were collected and
@@ -606,8 +599,8 @@ knocked down was high for all LLINs. Generally, there
 was a slower effect with LLINs treated with permethrin
 (Table 4).
 
-## **Discussion**
 
+**Discussion**
 
 Tis study is one of the first conducted in Benin to compare the response of local malaria vectors in Benin to
 several LLINs recommended by the WHO. It helps to
@@ -844,8 +837,8 @@ improved the quality of the results. However, all the
 LLINs demonstrated a good performance with susceptible laboratory stain Kisumu (mortality > 80%), as recommended by WHO [45], and the focus of this study was
 to demonstrate the important role of resistance mechanisms on LLINs efficacy.
 
-## **Conclusion**
 
+**Conclusion**
 
 Tis study showed variable effectiveness of LLINs on An.
 gambiae s.l. populations from different localities surveyed
@@ -859,8 +852,8 @@ of resistance) significantly increased the mortality of mosquitoes, the signific
 gene in the low efficacy of LLINs calls for LLIN technology
 innovation that specifically targets this mechanism.
 
-## **Authors’ contributions**
 
+**Authors’ contributions**
 
 MA, VG and MCA designed the study, supervised laboratory work, analyzed
 data and wrote the manuscript. BY, RA, FA and BA conducted field collections,
@@ -895,8 +888,8 @@ University of Abomey-Calavi.
 
 Received: 5 December 2016  Accepted: 7 February 2017
 
-## **References**
 
+**References**
 
 1. WHO. World malaria report 2015. Geneva: World Health Organiza[tion; 2015. http://www.who.int/malaria/publications/world-malaria-](http://www.who.int/malaria/publications/world-malaria-report-2015/report/en/)
 [report-2015/report/en/. Accessed 15 Aug 2016.](http://www.who.int/malaria/publications/world-malaria-report-2015/report/en/)
